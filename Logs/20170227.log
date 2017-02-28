@@ -1,0 +1,67 @@
+0	02:12:44.841	ax_adv_023 AUDUSD,M15: AUDUSD [BUYSTOP ]:(130)invalid stops AUDUSD lot=0.01 price=0.76785 slippage=3 sl=0.76674 tp=0.00000 comment= exp=1488159001
+2	02:12:45.461	ax_adv_023 EURUSD,M15: open #71550921 buy stop 0.01 EURUSD at 1.05649 sl: 1.05521 ok
+2	02:12:45.472	ax_adv_023 GBPUSD,M15: open #71550922 buy stop 0.01 GBPUSD at 1.24598 sl: 1.24247 ok
+2	02:42:45.308	ax_adv_023 GBPUSD,M15: open #71553895 buy stop 0.01 GBPUSD at 1.24139 sl: 1.23882 ok
+2	03:57:45.583	ax_adv_023 GBPUSD,M15: open #71560451 buy stop 0.01 GBPUSD at 1.24229 sl: 1.24058 ok
+2	04:42:47.346	ax_adv_023 EURUSD,M15: open #71564420 sell stop 0.01 EURUSD at 1.05681 sl: 1.05778 ok
+2	06:57:48.365	ax_adv_023 EURUSD,M15: open #71574804 buy stop 0.01 EURUSD at 1.05668 sl: 1.05583 ok
+2	07:12:47.102	ax_adv_023 AUDUSD,M15: open #71576017 sell stop 0.01 AUDUSD at 0.76845 sl: 0.76934 ok
+0	09:22:40.805	Custom indicator ax_ind_001 EURUSD,M15: loaded successfully
+0	09:22:40.835	Expert ax_adv_023 EURUSD,M15: loaded successfully
+0	09:22:40.835	ax_adv_023 EURUSD,M15 inputs: g_delta_points=10; g_lot=0.01; g_lot2=0.02; g_slippage=3; g_try_count=3; g_order_exp_bar_count=1; g_magic_distance=1; g_logging=false; g_use_ichimoku=false; g_trade_mode=2; g_mfiworkmode=3; g_mfiworkmode_sl=3; g_open_lot2_order=true; 
+0	09:22:41.035	ax_ind_001 EURUSD,M15: initialized
+0	09:22:41.125	Custom indicator ax_ind_001 GBPUSD,M15: loaded successfully
+0	09:22:41.165	Expert ax_adv_023 GBPUSD,M15: loaded successfully
+0	09:22:41.165	ax_adv_023 GBPUSD,M15 inputs: g_delta_points=10; g_lot=0.01; g_lot2=0.02; g_slippage=3; g_try_count=3; g_order_exp_bar_count=1; g_magic_distance=1; g_logging=false; g_use_ichimoku=false; g_trade_mode=2; g_mfiworkmode=0; g_mfiworkmode_sl=3; g_open_lot2_order=false; 
+0	09:22:41.295	ax_ind_001 GBPUSD,M15: initialized
+0	09:22:41.415	Custom indicator ax_ind_001 AUDUSD,M15: loaded successfully
+0	09:22:41.445	Expert ax_adv_023 AUDUSD,M15: loaded successfully
+0	09:22:41.445	ax_adv_023 AUDUSD,M15 inputs: g_delta_points=10; g_lot=0.01; g_lot2=0.02; g_slippage=3; g_try_count=3; g_order_exp_bar_count=1; g_magic_distance=1; g_logging=false; g_use_ichimoku=false; g_trade_mode=2; g_mfiworkmode=2; g_mfiworkmode_sl=3; g_open_lot2_order=true; 
+0	09:22:41.535	ax_ind_001 AUDUSD,M15: initialized
+0	09:22:52.485	ax_adv_023 GBPUSD,M15: initialized
+0	09:22:52.485	ax_adv_023 EURUSD,M15: initialized
+0	09:22:52.485	ax_adv_023 AUDUSD,M15: initialized
+2	09:43:00.861	ax_adv_023 EURUSD,M15: open #71584030 sell stop 0.01 EURUSD at 1.05634 sl: 1.05723 ok
+2	09:43:00.861	ax_adv_023 GBPUSD,M15: open #71584032 buy stop 0.01 GBPUSD at 1.24247 sl: 1.24153 ok
+2	10:13:00.952	ax_adv_023 GBPUSD,M15: open #71587091 buy stop 0.01 GBPUSD at 1.24229 sl: 1.24083 ok
+2	11:12:59.964	ax_adv_023 GBPUSD,M15: open #71594822 buy stop 0.01 GBPUSD at 1.24181 sl: 1.23971 ok
+2	11:12:59.964	ax_adv_023 EURUSD,M15: open #71594821 sell stop 0.01 EURUSD at 1.05716 sl: 1.05903 ok
+2	11:28:00.675	ax_adv_023 GBPUSD,M15: open #71596765 buy stop 0.01 GBPUSD at 1.24094 sl: 1.23939 ok
+2	12:13:00.727	ax_adv_023 EURUSD,M15: open #71602381 sell stop 0.01 EURUSD at 1.05741 sl: 1.05864 ok
+0	12:34:01.424	ax_adv_023 EURUSD,M15: uninit reason 3
+0	12:34:01.425	ax_ind_001 EURUSD,M15: uninit reason 3
+0	12:34:01.477	ax_ind_001 EURUSD,H1: initialized
+0	12:34:01.748	ax_adv_023 EURUSD,H1: initialized
+2	12:58:00.902	ax_adv_023 EURUSD,H1: open #71607794 sell stop 0.01 EURUSD at 1.05734 sl: 1.05908 ok
+0	13:01:29.997	ax_adv_023 EURUSD,H1: uninit reason 3
+0	13:01:29.998	ax_ind_001 EURUSD,H1: uninit reason 3
+0	13:01:30.000	ax_ind_001 EURUSD,M15: initialized
+0	13:01:30.430	ax_adv_023 EURUSD,M15: initialized
+2	13:57:59.895	ax_adv_023 EURUSD,M15: open #71614410 sell stop 0.01 EURUSD at 1.05785 sl: 1.05933 ok
+0	15:23:38.073	ax_adv_023 EURUSD,M15: uninit reason 2
+0	15:23:38.294	Expert ax_adv_023 EURUSD,M15: removed
+0	15:23:38.515	Expert ax_adv_023 EURUSD,M15: loaded successfully
+0	15:23:38.550	ax_adv_023 GBPUSD,M15: uninit reason 2
+0	15:23:38.904	Expert ax_adv_023 GBPUSD,M15: removed
+0	15:23:38.941	Expert ax_adv_023 GBPUSD,M15: loaded successfully
+0	15:23:38.942	ax_adv_023 AUDUSD,M15: uninit reason 2
+0	15:23:39.033	ax_adv_023 EURUSD,M15: initialized
+0	15:23:39.043	Expert ax_adv_023 AUDUSD,M15: removed
+0	15:23:39.069	Expert ax_adv_023 AUDUSD,M15: loaded successfully
+0	15:23:39.159	ax_adv_023 GBPUSD,M15: initialized
+0	15:23:39.201	ax_adv_023 AUDUSD,M15: initialized
+0	15:23:59.789	ax_adv_023 EURUSD,M15: uninit reason 2
+0	15:23:59.792	Expert ax_adv_023 EURUSD,M15: removed
+0	15:23:59.824	Expert ax_adv_023 EURUSD,M15: loaded successfully
+0	15:23:59.824	ax_adv_023 GBPUSD,M15: uninit reason 2
+0	15:23:59.828	Expert ax_adv_023 GBPUSD,M15: removed
+0	15:23:59.853	Expert ax_adv_023 GBPUSD,M15: loaded successfully
+0	15:23:59.854	ax_adv_023 AUDUSD,M15: uninit reason 2
+0	15:23:59.857	Expert ax_adv_023 AUDUSD,M15: removed
+0	15:23:59.878	ax_adv_023 EURUSD,M15: initialized
+0	15:23:59.889	Expert ax_adv_023 AUDUSD,M15: loaded successfully
+0	15:23:59.895	ax_adv_023 GBPUSD,M15: initialized
+0	15:23:59.928	ax_adv_023 AUDUSD,M15: initialized
+2	20:43:02.679	ax_adv_023 GBPUSD,M15: open #71662462 sell stop 0.01 GBPUSD at 1.24552 sl: 1.24786 ok
+2	22:57:59.934	ax_adv_023 GBPUSD,M15: modify #71662462 sell 0.01 GBPUSD at 1.24552 sl: 1.24470 tp: 0.00000 ok
+0	23:57:59.580	ax_adv_023 GBPUSD,M15: GBPUSD (132) market is closed GBPUSD sl=1.24474
