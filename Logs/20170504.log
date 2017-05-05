@@ -1,0 +1,20 @@
+0	09:52:58.906	Expert NeuroMACD XAGUSD,H1: loaded successfully
+0	09:53:06.062	NeuroMACD XAGUSD,H1 inputs: Lots=0.1; StopLoss=180.0; TakeProfit=270.0; FastMA=18; SlowMA=36; SignalMA=21; Delta=-0.6; AnnsNumber=16; AnnInputs=30; NeuroFilter=true; SaveAnn=true; DebugLevel=2; MinimalBalance=100.0; Parallel=true; 
+0	09:53:06.836	NeuroMACD XAGUSD,H1: ERROR: Wrong period!
+0	09:53:06.864	NeuroMACD XAGUSD,H1: initialized
+0	09:53:12.377	History_downloader EURUSD,M15: uninit reason 4
+0	09:53:12.611	Expert History_downloader EURUSD,M15: removed
+0	09:53:12.946	NeuroMACD XAGUSD,H1: uninit reason 4
+0	09:53:13.172	Expert NeuroMACD XAGUSD,H1: removed
+0	09:53:20.554	Expert NeuroMACD XAGUSD,H1: loaded successfully
+0	09:53:35.823	NeuroMACD XAGUSD,H1 inputs: Lots=0.01; StopLoss=180.0; TakeProfit=270.0; FastMA=18; SlowMA=36; SignalMA=21; Delta=-0.6; AnnsNumber=16; AnnInputs=30; NeuroFilter=true; SaveAnn=true; DebugLevel=2; MinimalBalance=100.0; Parallel=true; 
+0	09:53:35.905	NeuroMACD XAGUSD,H1: ERROR: Wrong period!
+0	09:53:35.923	NeuroMACD XAGUSD,H1: initialized
+0	09:53:41.162	Automated trading enabled
+0	09:53:48.160	NeuroMACD XAGUSD,H1: uninit reason 5
+0	09:53:48.160	NeuroMACD XAGUSD,H1: ERROR: Wrong period!
+0	09:53:48.161	NeuroMACD XAGUSD,H1: ERROR: Wrong period!
+0	09:53:48.161	NeuroMACD XAGUSD,H1: initialized
+0	09:53:48.195	NeuroMACD XAGUSD,H1 inputs: Lots=0.01; StopLoss=180.0; TakeProfit=270.0; FastMA=18; SlowMA=36; SignalMA=21; Delta=-0.6; AnnsNumber=16; AnnInputs=30; NeuroFilter=true; SaveAnn=true; DebugLevel=2; MinimalBalance=100.0; Parallel=true; 
+0	09:54:23.411	NeuroMACD XAGUSD,H1: uninit reason 4
+0	09:54:23.449	Expert NeuroMACD XAGUSD,H1: removed

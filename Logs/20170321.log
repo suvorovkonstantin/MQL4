@@ -1,0 +1,41 @@
+0	00:57:42.201	CPIv1.5 YM,H1: 2017.03.21 01:0060Падающая звезда in YM
+0	00:58:17.525	CPIv1.5 NQ,H1: 2017.03.21 01:0060Падающая звезда in NQ
+0	02:57:41.136	CPIv1.5 NQ,H1: 2017.03.21 03:0060 in NQ
+0	03:57:39.631	CPIv1.5 NQ,H1: 2017.03.21 04:0060 in NQ
+0	04:57:42.530	CPIv1.5 NQ,H1: 2017.03.21 05:0060Медвежий Доджи in NQ
+0	05:57:46.651	CPIv1.5 NQ,H1: 2017.03.21 06:0060Медвежий Доджи in NQ
+0	06:00:57.321	CPIv1.5 YM,H1: 2017.03.21 06:0060Медвежий Доджи in YM
+0	06:57:39.588	CPIv1.5 NQ,H1: 2017.03.21 07:0060Медвежий Доджи in NQ
+0	07:02:45.727	CPIv1.5 YM,H1: 2017.03.21 07:0060 in YM
+0	07:57:39.916	CPIv1.5 NQ,H1: 2017.03.21 08:0060 in NQ
+0	07:57:55.970	CPIv1.5 YM,H1: 2017.03.21 08:0060 in YM
+2	08:57:41.217	ax_adv_023 AUDUSD,H1: open #73643334 buy stop 0.01 AUDUSD at 0.77116 sl: 0.76962 ok
+0	09:57:55.405	CPIv1.5 NQ,H1: 2017.03.21 10:0060Бычий Доджи in NQ
+0	10:00:25.644	ax_ind_001 GBPUSD,Weekly: uninit reason 9
+0	10:00:25.644	ax_adv_023 AUDUSD,H1: uninit reason 9
+0	10:00:25.644	BetterVolume 1.4 AUDUSD,H1: uninit reason 9
+0	10:00:25.644	ATR AUDUSD,M5: uninit reason 9
+0	10:00:25.644	CPIv1.5 NQ,H1: uninit reason 9
+0	10:00:25.644	ACD NQ,H1: uninit reason 9
+0	10:00:25.644	jopa_001 NQ,H1: uninit reason 9
+0	10:00:25.644	CPIv1.5 YM,H1: uninit reason 9
+0	10:00:25.644	jopa_001 YM,H1: uninit reason 9
+0	10:00:25.644	ACD USDJPY,M15: uninit reason 9
+0	10:00:25.644	BetterVolume 1.4 USDJPY,M15: uninit reason 9
+0	10:00:25.644	ACD EURUSD,Weekly: uninit reason 9
+0	10:00:25.644	HighVolumeBar VerticalHistogram EURUSD,Weekly: uninit reason 9
+0	10:00:25.644	CPIv1.5 EURUSD,Weekly: uninit reason 9
+0	10:00:26.154	Custom indicator ax_ind_001 GBPUSD,Weekly: removed
+0	10:00:26.424	Expert ax_adv_023 AUDUSD,H1: removed
+0	10:00:26.424	Custom indicator BetterVolume 1.4 AUDUSD,H1: removed
+0	10:00:26.434	Custom indicator ATR AUDUSD,M5: removed
+0	10:00:26.434	Custom indicator CPIv1.5 NQ,H1: removed
+0	10:00:26.434	Custom indicator ACD NQ,H1: removed
+0	10:00:26.444	Custom indicator jopa_001 NQ,H1: removed
+0	10:00:26.444	Custom indicator CPIv1.5 YM,H1: removed
+0	10:00:26.444	Custom indicator jopa_001 YM,H1: removed
+0	10:00:26.454	Custom indicator ACD USDJPY,M15: removed
+0	10:00:26.454	Custom indicator BetterVolume 1.4 USDJPY,M15: removed
+0	10:00:26.464	Custom indicator ACD EURUSD,Weekly: removed
+0	10:00:26.464	Custom indicator HighVolumeBar VerticalHistogram EURUSD,Weekly: removed
+0	10:00:26.464	Custom indicator CPIv1.5 EURUSD,Weekly: removed

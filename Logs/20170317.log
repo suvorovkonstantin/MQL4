@@ -1,0 +1,374 @@
+3	00:04:55.495	CPIv1.5 EURUSD,H1: indicator is too slow, 3494 ms. rewrite the indicator, please
+3	00:10:17.142	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	00:15:31.500	CPIv1.5 EURUSD,H1: indicator is too slow, 3322 ms. rewrite the indicator, please
+3	00:20:44.952	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	00:26:20.032	CPIv1.5 EURUSD,H1: indicator is too slow, 3978 ms. rewrite the indicator, please
+3	00:31:36.621	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	00:36:50.367	CPIv1.5 EURUSD,H1: indicator is too slow, 3322 ms. rewrite the indicator, please
+3	00:42:10.019	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	00:47:22.324	CPIv1.5 EURUSD,H1: indicator is too slow, 3308 ms. rewrite the indicator, please
+3	00:52:35.204	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+0	00:52:46.066	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76741 slippage=3 sl=0.76833 tp=0.00000 comment= exp=1489712405
+0	00:57:45.525	CPIv1.5 EURUSD,H1: 2017.03.17 01:0060Медвежий Доджи in EURUSD
+0	00:57:48.996	CPIv1.5 YM,H1: 2017.03.17 01:0060Бычий Доджи in YM
+0	00:57:51.428	CPIv1.5 NQ,H1: 2017.03.17 01:0060Медвежий Доджи in NQ
+3	00:57:54.837	CPIv1.5 EURUSD,H1: indicator is too slow, 3338 ms. rewrite the indicator, please
+3	01:03:06.985	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+3	01:08:21.919	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+3	01:13:33.213	CPIv1.5 EURUSD,H1: indicator is too slow, 3447 ms. rewrite the indicator, please
+3	01:18:47.821	CPIv1.5 EURUSD,H1: indicator is too slow, 3308 ms. rewrite the indicator, please
+3	01:24:02.926	CPIv1.5 EURUSD,H1: indicator is too slow, 3338 ms. rewrite the indicator, please
+3	01:29:15.458	CPIv1.5 EURUSD,H1: indicator is too slow, 3322 ms. rewrite the indicator, please
+3	01:34:29.862	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	01:39:43.992	CPIv1.5 EURUSD,H1: indicator is too slow, 3338 ms. rewrite the indicator, please
+3	01:45:01.065	CPIv1.5 EURUSD,H1: indicator is too slow, 3385 ms. rewrite the indicator, please
+3	01:50:15.487	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+3	01:55:33.231	CPIv1.5 EURUSD,H1: indicator is too slow, 3447 ms. rewrite the indicator, please
+0	01:57:45.399	CPIv1.5 NQ,H1: 2017.03.17 02:0060Вечерняя звезда in NQ
+0	01:57:45.446	CPIv1.5 YM,H1: 2017.03.17 02:0060 in YM
+0	01:57:49.045	CPIv1.5 EURUSD,H1: 2017.03.17 02:0060Медвежий Доджи in EURUSD
+3	02:00:44.450	CPIv1.5 EURUSD,H1: indicator is too slow, 3322 ms. rewrite the indicator, please
+3	02:06:31.623	CPIv1.5 EURUSD,H1: indicator is too slow, 3432 ms. rewrite the indicator, please
+3	02:11:49.420	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+3	02:17:15.754	CPIv1.5 EURUSD,H1: indicator is too slow, 3339 ms. rewrite the indicator, please
+3	02:22:38.273	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+0	02:22:45.200	ax_adv_023 AUDUSD,M5: AUDUSD [BUYSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76750 slippage=3 sl=0.76652 tp=0.00000 comment= exp=1489717804
+3	02:27:48.798	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+0	02:32:46.551	ax_adv_023 AUDUSD,M5: AUDUSD [BUYSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76739 slippage=3 sl=0.76606 tp=0.00000 comment= exp=1489718405
+3	02:33:00.236	CPIv1.5 EURUSD,H1: indicator is too slow, 3339 ms. rewrite the indicator, please
+3	02:38:35.254	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	02:43:58.312	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+3	02:49:08.848	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	02:54:37.496	CPIv1.5 EURUSD,H1: indicator is too slow, 3385 ms. rewrite the indicator, please
+0	02:57:47.127	CPIv1.5 EURUSD,H1: 2017.03.17 03:0060 in EURUSD
+3	02:59:49.517	CPIv1.5 EURUSD,H1: indicator is too slow, 3401 ms. rewrite the indicator, please
+3	03:05:01.980	CPIv1.5 EURUSD,H1: indicator is too slow, 3370 ms. rewrite the indicator, please
+3	03:10:22.667	CPIv1.5 EURUSD,H1: indicator is too slow, 3339 ms. rewrite the indicator, please
+3	03:16:05.751	CPIv1.5 EURUSD,H1: indicator is too slow, 3369 ms. rewrite the indicator, please
+3	03:21:30.031	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+3	03:26:43.602	CPIv1.5 EURUSD,H1: indicator is too slow, 3338 ms. rewrite the indicator, please
+3	03:32:31.296	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	03:37:47.427	CPIv1.5 EURUSD,H1: indicator is too slow, 3339 ms. rewrite the indicator, please
+3	03:43:05.718	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+3	03:48:19.346	CPIv1.5 EURUSD,H1: indicator is too slow, 3463 ms. rewrite the indicator, please
+3	03:53:32.185	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+0	03:57:45.359	CPIv1.5 EURUSD,H1: 2017.03.17 04:0060 in EURUSD
+0	03:57:45.373	CPIv1.5 NQ,H1: 2017.03.17 04:0060Бычий Доджи in NQ
+0	03:57:45.417	CPIv1.5 YM,H1: 2017.03.17 04:0060 in YM
+3	03:58:43.355	CPIv1.5 EURUSD,H1: indicator is too slow, 3322 ms. rewrite the indicator, please
+3	04:03:54.836	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	04:09:07.044	CPIv1.5 EURUSD,H1: indicator is too slow, 3322 ms. rewrite the indicator, please
+3	04:14:27.195	CPIv1.5 EURUSD,H1: indicator is too slow, 3339 ms. rewrite the indicator, please
+3	04:19:40.454	CPIv1.5 EURUSD,H1: indicator is too slow, 3400 ms. rewrite the indicator, please
+3	04:24:51.843	CPIv1.5 EURUSD,H1: indicator is too slow, 3510 ms. rewrite the indicator, please
+3	04:30:12.657	CPIv1.5 EURUSD,H1: indicator is too slow, 3322 ms. rewrite the indicator, please
+3	04:35:29.999	CPIv1.5 EURUSD,H1: indicator is too slow, 3338 ms. rewrite the indicator, please
+3	04:40:48.129	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	04:46:16.566	CPIv1.5 EURUSD,H1: indicator is too slow, 3370 ms. rewrite the indicator, please
+3	04:51:44.051	CPIv1.5 EURUSD,H1: indicator is too slow, 3339 ms. rewrite the indicator, please
+0	04:52:43.907	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76708 slippage=3 sl=0.76793 tp=0.00000 comment= exp=1489726802
+3	04:57:01.349	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+2	04:57:45.652	ax_adv_023 GBPUSD,M15: open #73402440 buy stop 0.01 GBPUSD at 1.23535 sl: 1.23447 ok
+0	04:57:52.724	CPIv1.5 EURUSD,H1: 2017.03.17 05:0060 in EURUSD
+0	04:59:53.210	CPIv1.5 NQ,H1: 2017.03.17 05:0060Медвежий Доджи in NQ
+3	05:02:15.205	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+0	05:02:42.721	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76723 slippage=3 sl=0.76807 tp=0.00000 comment= exp=1489727401
+3	05:07:44.568	CPIv1.5 EURUSD,H1: indicator is too slow, 3292 ms. rewrite the indicator, please
+3	05:12:57.838	CPIv1.5 EURUSD,H1: indicator is too slow, 3291 ms. rewrite the indicator, please
+3	05:18:08.323	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	05:23:49.125	CPIv1.5 EURUSD,H1: indicator is too slow, 3261 ms. rewrite the indicator, please
+3	05:29:22.806	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+0	05:32:42.392	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76754 slippage=3 sl=0.76832 tp=0.00000 comment= exp=1489729201
+3	05:34:45.278	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+0	05:37:48.676	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76763 slippage=3 sl=0.76844 tp=0.00000 comment= exp=1489729507
+3	05:40:03.085	CPIv1.5 EURUSD,H1: indicator is too slow, 3573 ms. rewrite the indicator, please
+3	05:45:38.609	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	05:51:50.291	CPIv1.5 EURUSD,H1: indicator is too slow, 3291 ms. rewrite the indicator, please
+3	05:57:09.021	CPIv1.5 EURUSD,H1: indicator is too slow, 3292 ms. rewrite the indicator, please
+0	05:57:46.506	CPIv1.5 EURUSD,H1: 2017.03.17 06:0060Бычий Доджи in EURUSD
+0	05:57:49.834	CPIv1.5 NQ,H1: 2017.03.17 06:0060 in NQ
+3	06:02:34.823	CPIv1.5 EURUSD,H1: indicator is too slow, 3292 ms. rewrite the indicator, please
+3	06:07:54.556	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+3	06:13:42.170	CPIv1.5 EURUSD,H1: indicator is too slow, 3308 ms. rewrite the indicator, please
+3	06:18:57.421	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	06:24:16.710	CPIv1.5 EURUSD,H1: indicator is too slow, 3448 ms. rewrite the indicator, please
+3	06:29:31.746	CPIv1.5 EURUSD,H1: indicator is too slow, 3260 ms. rewrite the indicator, please
+3	06:34:44.883	CPIv1.5 EURUSD,H1: indicator is too slow, 3261 ms. rewrite the indicator, please
+3	06:40:05.088	CPIv1.5 EURUSD,H1: indicator is too slow, 3713 ms. rewrite the indicator, please
+3	06:45:24.535	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+0	06:47:45.672	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76795 slippage=3 sl=0.76884 tp=0.00000 comment= exp=1489733704
+3	06:50:43.579	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+3	06:55:58.386	CPIv1.5 EURUSD,H1: indicator is too slow, 3260 ms. rewrite the indicator, please
+0	06:57:46.770	CPIv1.5 EURUSD,H1: 2017.03.17 07:0060Медвежий Доджи in EURUSD
+3	07:01:16.913	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+3	07:06:33.083	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+3	07:11:50.487	CPIv1.5 EURUSD,H1: indicator is too slow, 3401 ms. rewrite the indicator, please
+3	07:17:03.291	CPIv1.5 EURUSD,H1: indicator is too slow, 3385 ms. rewrite the indicator, please
+0	07:17:42.230	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76826 slippage=3 sl=0.76918 tp=0.00000 comment= exp=1489735501
+3	07:22:20.107	CPIv1.5 EURUSD,H1: indicator is too slow, 3292 ms. rewrite the indicator, please
+0	07:22:49.875	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76841 slippage=3 sl=0.76919 tp=0.00000 comment= exp=1489735808
+3	07:27:30.156	CPIv1.5 EURUSD,H1: indicator is too slow, 3261 ms. rewrite the indicator, please
+2	07:27:43.491	ax_adv_023 GBPUSD,M15: open #73412008 sell stop 0.01 GBPUSD at 1.23487 sl: 1.23577 ok
+3	07:32:42.637	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+0	07:32:48.679	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76855 slippage=3 sl=0.76931 tp=0.00000 comment= exp=1489736407
+3	07:37:54.149	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+3	07:43:23.555	CPIv1.5 EURUSD,H1: indicator is too slow, 3261 ms. rewrite the indicator, please
+3	07:48:46.771	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+3	07:54:18.034	CPIv1.5 EURUSD,H1: indicator is too slow, 3261 ms. rewrite the indicator, please
+0	07:57:47.698	CPIv1.5 EURUSD,H1: 2017.03.17 08:0060 in EURUSD
+3	08:00:28.096	CPIv1.5 EURUSD,H1: indicator is too slow, 3447 ms. rewrite the indicator, please
+0	08:00:29.818	CPIv1.5 NQ,H1: 2017.03.17 08:0060Модель поглощения in NQ
+3	08:06:31.825	CPIv1.5 EURUSD,H1: indicator is too slow, 3494 ms. rewrite the indicator, please
+3	08:12:30.450	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+2	08:12:55.319	ax_adv_023 GBPUSD,M15: open #73414782 sell stop 0.01 GBPUSD at 1.23516 sl: 1.23591 ok
+3	08:17:59.100	CPIv1.5 EURUSD,H1: indicator is too slow, 3291 ms. rewrite the indicator, please
+3	08:23:11.958	CPIv1.5 EURUSD,H1: indicator is too slow, 3291 ms. rewrite the indicator, please
+3	08:28:47.338	CPIv1.5 EURUSD,H1: indicator is too slow, 3260 ms. rewrite the indicator, please
+3	08:34:07.944	CPIv1.5 EURUSD,H1: indicator is too slow, 3245 ms. rewrite the indicator, please
+3	08:39:22.419	CPIv1.5 EURUSD,H1: indicator is too slow, 3260 ms. rewrite the indicator, please
+3	08:44:43.257	CPIv1.5 EURUSD,H1: indicator is too slow, 3448 ms. rewrite the indicator, please
+3	08:50:16.513	CPIv1.5 EURUSD,H1: indicator is too slow, 3245 ms. rewrite the indicator, please
+3	08:55:29.203	CPIv1.5 EURUSD,H1: indicator is too slow, 3260 ms. rewrite the indicator, please
+0	08:57:45.176	CPIv1.5 NQ,H1: 2017.03.17 09:0060 in NQ
+0	08:57:48.650	CPIv1.5 EURUSD,H1: 2017.03.17 09:0060Бычий Доджи in EURUSD
+3	09:00:44.273	CPIv1.5 EURUSD,H1: indicator is too slow, 3292 ms. rewrite the indicator, please
+3	09:05:58.587	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+3	09:11:22.057	CPIv1.5 EURUSD,H1: indicator is too slow, 3651 ms. rewrite the indicator, please
+2	09:12:47.454	ax_adv_023 GBPUSD,M15: open #73419994 sell stop 0.01 GBPUSD at 1.23509 sl: 1.23614 ok
+3	09:16:39.516	CPIv1.5 EURUSD,H1: indicator is too slow, 4680 ms. rewrite the indicator, please
+3	09:21:54.659	CPIv1.5 EURUSD,H1: indicator is too slow, 3338 ms. rewrite the indicator, please
+3	09:27:06.644	CPIv1.5 EURUSD,H1: indicator is too slow, 3448 ms. rewrite the indicator, please
+3	09:32:17.904	CPIv1.5 EURUSD,H1: indicator is too slow, 3447 ms. rewrite the indicator, please
+0	09:32:46.705	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76889 slippage=3 sl=0.76969 tp=0.00000 comment= exp=1489743606
+3	09:37:31.538	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+3	09:42:42.180	CPIv1.5 EURUSD,H1: indicator is too slow, 3339 ms. rewrite the indicator, please
+2	09:42:46.413	ax_adv_023 GBPUSD,M15: open #73422890 sell stop 0.01 GBPUSD at 1.23625 sl: 1.23754 ok
+3	09:47:55.167	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	09:53:06.819	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+0	09:57:44.250	CPIv1.5 YM,H1: 2017.03.17 10:0060 in YM
+0	09:57:47.589	CPIv1.5 EURUSD,H1: 2017.03.17 10:0060 in EURUSD
+0	09:57:47.601	CPIv1.5 NQ,H1: 2017.03.17 10:0060Медвежий Доджи in NQ
+3	09:58:17.827	CPIv1.5 EURUSD,H1: indicator is too slow, 3292 ms. rewrite the indicator, please
+3	10:03:30.399	CPIv1.5 EURUSD,H1: indicator is too slow, 3260 ms. rewrite the indicator, please
+3	10:08:42.110	CPIv1.5 EURUSD,H1: indicator is too slow, 3432 ms. rewrite the indicator, please
+3	10:13:55.110	CPIv1.5 EURUSD,H1: indicator is too slow, 3401 ms. rewrite the indicator, please
+3	10:19:05.550	CPIv1.5 EURUSD,H1: indicator is too slow, 3401 ms. rewrite the indicator, please
+0	10:22:44.854	ax_adv_023 AUDUSD,M5: AUDUSD [BUYSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76839 slippage=3 sl=0.76722 tp=0.00000 comment= exp=1489746604
+3	10:24:17.262	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+2	10:27:43.202	ax_adv_023 GBPUSD,M15: open #73428303 buy stop 0.01 GBPUSD at 1.23512 sl: 1.23208 ok
+3	10:29:30.379	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	10:34:43.664	CPIv1.5 EURUSD,H1: indicator is too slow, 3370 ms. rewrite the indicator, please
+3	10:39:57.585	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	10:45:10.291	CPIv1.5 EURUSD,H1: indicator is too slow, 3510 ms. rewrite the indicator, please
+0	10:47:44.886	ax_adv_023 AUDUSD,M5: AUDUSD [BUYSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76756 slippage=3 sl=0.76643 tp=0.00000 comment= exp=1489748104
+3	10:50:22.698	CPIv1.5 EURUSD,H1: indicator is too slow, 3322 ms. rewrite the indicator, please
+0	10:52:46.739	ax_adv_023 AUDUSD,M5: AUDUSD [BUYSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76730 slippage=3 sl=0.76632 tp=0.00000 comment= exp=1489748406
+3	10:55:33.277	CPIv1.5 EURUSD,H1: indicator is too slow, 3385 ms. rewrite the indicator, please
+0	10:57:44.242	CPIv1.5 NQ,H1: 2017.03.17 11:0060Бычий Доджи in NQ
+0	10:57:44.242	ax_adv_023 AUDUSD,M5: AUDUSD [BUYSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76722 slippage=3 sl=0.76625 tp=0.00000 comment= exp=1489748704
+0	10:57:44.290	CPIv1.5 YM,H1: 2017.03.17 11:0060Утрення звезда in YM
+0	10:57:47.876	CPIv1.5 EURUSD,H1: 2017.03.17 11:0060Медвежий Доджи in EURUSD
+3	11:00:46.720	CPIv1.5 EURUSD,H1: indicator is too slow, 3370 ms. rewrite the indicator, please
+3	11:05:58.143	CPIv1.5 EURUSD,H1: indicator is too slow, 3292 ms. rewrite the indicator, please
+3	11:11:12.114	CPIv1.5 EURUSD,H1: indicator is too slow, 3400 ms. rewrite the indicator, please
+3	11:16:25.217	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+3	11:21:36.109	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	11:26:47.959	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	11:31:58.174	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+3	11:37:13.564	CPIv1.5 EURUSD,H1: indicator is too slow, 3728 ms. rewrite the indicator, please
+3	11:42:26.689	CPIv1.5 EURUSD,H1: indicator is too slow, 3478 ms. rewrite the indicator, please
+3	11:47:38.689	CPIv1.5 EURUSD,H1: indicator is too slow, 3557 ms. rewrite the indicator, please
+3	11:52:50.915	CPIv1.5 EURUSD,H1: indicator is too slow, 3588 ms. rewrite the indicator, please
+0	11:57:43.346	CPIv1.5 NQ,H1: 2017.03.17 12:0060Бычий Доджи in NQ
+0	11:57:43.390	CPIv1.5 YM,H1: 2017.03.17 12:0060 in YM
+0	11:57:46.963	CPIv1.5 EURUSD,H1: 2017.03.17 12:0060Бычий Доджи in EURUSD
+3	11:58:05.103	CPIv1.5 EURUSD,H1: indicator is too slow, 3588 ms. rewrite the indicator, please
+3	12:03:17.018	CPIv1.5 EURUSD,H1: indicator is too slow, 3385 ms. rewrite the indicator, please
+3	12:08:31.648	CPIv1.5 EURUSD,H1: indicator is too slow, 3339 ms. rewrite the indicator, please
+3	12:13:43.753	CPIv1.5 EURUSD,H1: indicator is too slow, 3447 ms. rewrite the indicator, please
+3	12:18:56.908	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	12:24:09.468	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+2	12:27:45.146	ax_adv_023 GBPUSD,M15: open #73444436 sell stop 0.01 GBPUSD at 1.23838 sl: 1.23974 ok
+3	12:29:20.848	CPIv1.5 EURUSD,H1: indicator is too slow, 3291 ms. rewrite the indicator, please
+3	12:34:31.205	CPIv1.5 EURUSD,H1: indicator is too slow, 3338 ms. rewrite the indicator, please
+3	12:39:45.643	CPIv1.5 EURUSD,H1: indicator is too slow, 3417 ms. rewrite the indicator, please
+3	12:44:56.587	CPIv1.5 EURUSD,H1: indicator is too slow, 3338 ms. rewrite the indicator, please
+0	12:47:43.434	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76844 slippage=3 sl=0.76927 tp=0.00000 comment= exp=1489755303
+3	12:50:08.136	CPIv1.5 EURUSD,H1: indicator is too slow, 3432 ms. rewrite the indicator, please
+3	12:55:18.312	CPIv1.5 EURUSD,H1: indicator is too slow, 3260 ms. rewrite the indicator, please
+0	12:57:44.321	CPIv1.5 NQ,H1: 2017.03.17 13:0060Бычий Доджи in NQ
+2	12:57:45.461	ax_adv_023 GBPUSD,M15: open #73448201 sell stop 0.01 GBPUSD at 1.23854 sl: 1.24016 ok
+0	12:57:47.726	CPIv1.5 EURUSD,H1: 2017.03.17 13:0060 in EURUSD
+3	13:00:30.707	CPIv1.5 EURUSD,H1: indicator is too slow, 3369 ms. rewrite the indicator, please
+0	13:02:43.940	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76855 slippage=3 sl=0.76947 tp=0.00000 comment= exp=1489756203
+3	13:05:42.695	CPIv1.5 EURUSD,H1: indicator is too slow, 3370 ms. rewrite the indicator, please
+3	13:10:54.572	CPIv1.5 EURUSD,H1: indicator is too slow, 3401 ms. rewrite the indicator, please
+3	13:16:07.557	CPIv1.5 EURUSD,H1: indicator is too slow, 3510 ms. rewrite the indicator, please
+0	13:17:42.096	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76847 slippage=3 sl=0.76951 tp=0.00000 comment= exp=1489757102
+3	13:21:21.629	CPIv1.5 EURUSD,H1: indicator is too slow, 3370 ms. rewrite the indicator, please
+3	13:26:33.007	CPIv1.5 EURUSD,H1: indicator is too slow, 3370 ms. rewrite the indicator, please
+3	13:31:45.636	CPIv1.5 EURUSD,H1: indicator is too slow, 3386 ms. rewrite the indicator, please
+3	13:36:58.261	CPIv1.5 EURUSD,H1: indicator is too slow, 3401 ms. rewrite the indicator, please
+0	13:37:42.431	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76863 slippage=3 sl=0.76943 tp=0.00000 comment= exp=1489758302
+3	13:42:14.308	CPIv1.5 EURUSD,H1: indicator is too slow, 3463 ms. rewrite the indicator, please
+3	13:47:27.749	CPIv1.5 EURUSD,H1: indicator is too slow, 3385 ms. rewrite the indicator, please
+3	13:52:39.228	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+0	13:57:42.092	CPIv1.5 NQ,H1: 2017.03.17 14:0060Медвежий Доджи in NQ
+3	13:57:52.714	CPIv1.5 EURUSD,H1: indicator is too slow, 3369 ms. rewrite the indicator, please
+3	14:03:06.081	CPIv1.5 EURUSD,H1: indicator is too slow, 3510 ms. rewrite the indicator, please
+3	14:08:19.052	CPIv1.5 EURUSD,H1: indicator is too slow, 3448 ms. rewrite the indicator, please
+3	14:13:31.162	CPIv1.5 EURUSD,H1: indicator is too slow, 3448 ms. rewrite the indicator, please
+3	14:18:43.334	CPIv1.5 EURUSD,H1: indicator is too slow, 3432 ms. rewrite the indicator, please
+3	14:23:55.157	CPIv1.5 EURUSD,H1: indicator is too slow, 3432 ms. rewrite the indicator, please
+3	14:29:07.683	CPIv1.5 EURUSD,H1: indicator is too slow, 3386 ms. rewrite the indicator, please
+3	14:34:19.476	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+3	14:39:32.402	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+3	14:44:47.349	CPIv1.5 EURUSD,H1: indicator is too slow, 3432 ms. rewrite the indicator, please
+0	14:47:45.069	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76925 slippage=3 sl=0.77010 tp=0.00000 comment= exp=1489762504
+3	14:50:01.471	CPIv1.5 EURUSD,H1: indicator is too slow, 3479 ms. rewrite the indicator, please
+3	14:55:13.664	CPIv1.5 EURUSD,H1: indicator is too slow, 3463 ms. rewrite the indicator, please
+0	14:57:43.935	CPIv1.5 NQ,H1: 2017.03.17 15:0060Медвежий Доджи in NQ
+0	14:57:44.125	CPIv1.5 YM,H1: 2017.03.17 15:0060 in YM
+3	15:00:25.089	CPIv1.5 EURUSD,H1: indicator is too slow, 3385 ms. rewrite the indicator, please
+3	15:05:36.711	CPIv1.5 EURUSD,H1: indicator is too slow, 3447 ms. rewrite the indicator, please
+3	15:10:49.676	CPIv1.5 EURUSD,H1: indicator is too slow, 3447 ms. rewrite the indicator, please
+2	15:12:46.623	ax_adv_023 GBPUSD,M15: open #73467840 buy stop 0.01 GBPUSD at 1.23641 sl: 1.23361 ok
+3	15:16:03.239	CPIv1.5 EURUSD,H1: indicator is too slow, 3494 ms. rewrite the indicator, please
+3	15:21:14.112	CPIv1.5 EURUSD,H1: indicator is too slow, 3479 ms. rewrite the indicator, please
+3	15:26:25.139	CPIv1.5 EURUSD,H1: indicator is too slow, 3447 ms. rewrite the indicator, please
+3	15:31:37.058	CPIv1.5 EURUSD,H1: indicator is too slow, 3603 ms. rewrite the indicator, please
+3	15:36:48.171	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+3	15:41:59.674	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+3	15:47:12.062	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	15:52:30.176	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+3	15:57:42.744	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+0	15:57:46.219	CPIv1.5 EURUSD,H1: 2017.03.17 16:0060Бычий Доджи in EURUSD
+0	15:57:49.776	CPIv1.5 NQ,H1: 2017.03.17 16:0060Медвежий Доджи in NQ
+0	15:58:07.148	CPIv1.5 YM,H1: 2017.03.17 16:0060 in YM
+3	16:02:55.250	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+0	16:07:42.077	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76996 slippage=3 sl=0.77099 tp=0.00000 comment= exp=1489767302
+3	16:08:06.537	CPIv1.5 EURUSD,H1: indicator is too slow, 3588 ms. rewrite the indicator, please
+3	16:13:18.240	CPIv1.5 EURUSD,H1: indicator is too slow, 3510 ms. rewrite the indicator, please
+3	16:18:29.938	CPIv1.5 EURUSD,H1: indicator is too slow, 3510 ms. rewrite the indicator, please
+3	16:23:41.359	CPIv1.5 EURUSD,H1: indicator is too slow, 3448 ms. rewrite the indicator, please
+3	16:28:53.321	CPIv1.5 EURUSD,H1: indicator is too slow, 3370 ms. rewrite the indicator, please
+3	16:34:07.124	CPIv1.5 EURUSD,H1: indicator is too slow, 3370 ms. rewrite the indicator, please
+3	16:39:18.442	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+3	16:44:28.641	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	16:49:40.206	CPIv1.5 EURUSD,H1: indicator is too slow, 3572 ms. rewrite the indicator, please
+3	16:54:51.627	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+0	16:57:42.966	CPIv1.5 YM,H1: 2017.03.17 17:0060Медвежий Доджи in YM
+0	16:57:46.383	CPIv1.5 EURUSD,H1: 2017.03.17 17:0060 in EURUSD
+0	16:58:03.576	CPIv1.5 NQ,H1: 2017.03.17 17:0060Медвежий Доджи in NQ
+3	17:00:02.805	CPIv1.5 EURUSD,H1: indicator is too slow, 3432 ms. rewrite the indicator, please
+0	17:02:43.029	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.77040 slippage=3 sl=0.77187 tp=0.00000 comment= exp=1489770602
+3	17:05:13.096	CPIv1.5 EURUSD,H1: indicator is too slow, 3291 ms. rewrite the indicator, please
+3	17:10:26.521	CPIv1.5 EURUSD,H1: indicator is too slow, 3292 ms. rewrite the indicator, please
+3	17:15:37.998	CPIv1.5 EURUSD,H1: indicator is too slow, 3338 ms. rewrite the indicator, please
+3	17:20:51.015	CPIv1.5 EURUSD,H1: indicator is too slow, 3338 ms. rewrite the indicator, please
+3	17:26:02.255	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	17:31:14.768	CPIv1.5 EURUSD,H1: indicator is too slow, 3308 ms. rewrite the indicator, please
+3	17:36:27.020	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	17:41:38.421	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	17:46:49.431	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	17:52:01.848	CPIv1.5 EURUSD,H1: indicator is too slow, 3495 ms. rewrite the indicator, please
+0	17:52:46.041	ax_adv_023 AUDUSD,M5: AUDUSD [BUYSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.77038 slippage=3 sl=0.76943 tp=0.00000 comment= exp=1489773605
+3	17:57:15.266	CPIv1.5 EURUSD,H1: indicator is too slow, 3338 ms. rewrite the indicator, please
+0	17:57:46.006	CPIv1.5 EURUSD,H1: 2017.03.17 18:0060Падающая звезда in EURUSD
+0	17:57:56.181	CPIv1.5 NQ,H1: 2017.03.17 18:0060Бычий Доджи in NQ
+0	17:58:09.861	CPIv1.5 YM,H1: 2017.03.17 18:0060Медвежий Доджи in YM
+3	18:02:26.232	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	18:07:37.721	CPIv1.5 EURUSD,H1: indicator is too slow, 3339 ms. rewrite the indicator, please
+3	18:12:49.400	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	18:18:00.963	CPIv1.5 EURUSD,H1: indicator is too slow, 3385 ms. rewrite the indicator, please
+3	18:23:12.414	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	18:28:22.961	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	18:33:35.474	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	18:38:48.133	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	18:43:59.306	CPIv1.5 EURUSD,H1: indicator is too slow, 3494 ms. rewrite the indicator, please
+3	18:49:12.738	CPIv1.5 EURUSD,H1: indicator is too slow, 3385 ms. rewrite the indicator, please
+3	18:54:23.628	CPIv1.5 EURUSD,H1: indicator is too slow, 3370 ms. rewrite the indicator, please
+0	18:57:42.669	ax_adv_023 AUDUSD,M5: AUDUSD [BUYSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.76975 slippage=3 sl=0.76855 tp=0.00000 comment= exp=1489777502
+0	18:57:46.070	CPIv1.5 NQ,H1: 2017.03.17 19:0060Бычий Доджи in NQ
+0	18:57:49.541	CPIv1.5 YM,H1: 2017.03.17 19:0060Бычий Доджи in YM
+3	18:59:35.517	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	19:04:48.810	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	19:10:01.397	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+2	19:12:44.270	ax_adv_023 GBPUSD,M15: open #73500131 sell stop 0.01 GBPUSD at 1.23643 sl: 1.23812 ok
+3	19:15:14.895	CPIv1.5 EURUSD,H1: indicator is too slow, 3308 ms. rewrite the indicator, please
+3	19:20:28.631	CPIv1.5 EURUSD,H1: indicator is too slow, 3525 ms. rewrite the indicator, please
+3	19:25:38.957	CPIv1.5 EURUSD,H1: indicator is too slow, 3338 ms. rewrite the indicator, please
+3	19:30:49.537	CPIv1.5 EURUSD,H1: indicator is too slow, 3322 ms. rewrite the indicator, please
+3	19:36:02.677	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	19:41:15.513	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	19:46:27.540	CPIv1.5 EURUSD,H1: indicator is too slow, 3338 ms. rewrite the indicator, please
+3	19:51:38.621	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+3	19:56:50.697	CPIv1.5 EURUSD,H1: indicator is too slow, 3323 ms. rewrite the indicator, please
+2	19:57:43.422	ax_adv_023 GBPUSD,M15: open #73505081 sell stop 0.01 GBPUSD at 1.23786 sl: 1.23922 ok
+0	19:57:55.185	CPIv1.5 NQ,H1: 2017.03.17 20:0060Бычий Доджи in NQ
+0	19:58:59.768	CPIv1.5 YM,H1: 2017.03.17 20:0060Утрення звезда in YM
+3	20:02:05.710	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	20:07:16.149	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	20:12:26.891	CPIv1.5 EURUSD,H1: indicator is too slow, 3463 ms. rewrite the indicator, please
+2	20:12:45.217	ax_adv_023 GBPUSD,M15: open #73506765 sell stop 0.01 GBPUSD at 1.23831 sl: 1.23946 ok
+3	20:17:37.083	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+0	20:22:44.381	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.77049 slippage=3 sl=0.77134 tp=0.00000 comment= exp=1489782604
+3	20:22:47.739	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+0	20:27:47.804	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.77069 slippage=3 sl=0.77155 tp=0.00000 comment= exp=1489782907
+3	20:28:04.216	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	20:33:16.474	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+0	20:37:42.720	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.77062 slippage=3 sl=0.77155 tp=0.00000 comment= exp=1489783502
+3	20:38:30.722	CPIv1.5 EURUSD,H1: indicator is too slow, 3291 ms. rewrite the indicator, please
+3	20:43:42.586	CPIv1.5 EURUSD,H1: indicator is too slow, 3339 ms. rewrite the indicator, please
+3	20:48:59.436	CPIv1.5 EURUSD,H1: indicator is too slow, 3417 ms. rewrite the indicator, please
+3	20:54:10.629	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+0	20:57:44.520	CPIv1.5 NQ,H1: 2017.03.17 21:0060 in NQ
+0	20:57:44.565	CPIv1.5 YM,H1: 2017.03.17 21:0060 in YM
+3	20:59:34.329	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+0	21:02:44.279	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.77074 slippage=3 sl=0.77156 tp=0.00000 comment= exp=1489785004
+3	21:04:54.522	CPIv1.5 EURUSD,H1: indicator is too slow, 3292 ms. rewrite the indicator, please
+0	21:07:42.116	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.77084 slippage=3 sl=0.77177 tp=0.00000 comment= exp=1489785301
+3	21:10:06.000	CPIv1.5 EURUSD,H1: indicator is too slow, 3292 ms. rewrite the indicator, please
+0	21:12:43.082	ax_adv_023 AUDUSD,M5: AUDUSD [SELLSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.77104 slippage=3 sl=0.77205 tp=0.00000 comment= exp=1489785602
+3	21:15:25.632	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+3	21:20:44.757	CPIv1.5 EURUSD,H1: indicator is too slow, 3291 ms. rewrite the indicator, please
+3	21:26:03.493	CPIv1.5 EURUSD,H1: indicator is too slow, 3292 ms. rewrite the indicator, please
+3	21:31:19.132	CPIv1.5 EURUSD,H1: indicator is too slow, 3292 ms. rewrite the indicator, please
+3	21:36:39.815	CPIv1.5 EURUSD,H1: indicator is too slow, 3292 ms. rewrite the indicator, please
+3	21:41:51.910	CPIv1.5 EURUSD,H1: indicator is too slow, 3308 ms. rewrite the indicator, please
+3	21:47:03.996	CPIv1.5 EURUSD,H1: indicator is too slow, 3292 ms. rewrite the indicator, please
+3	21:52:16.323	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+3	21:57:28.962	CPIv1.5 EURUSD,H1: indicator is too slow, 3448 ms. rewrite the indicator, please
+0	21:57:45.908	CPIv1.5 NQ,H1: 2017.03.17 22:0060Медвежий Доджи in NQ
+0	21:57:52.709	CPIv1.5 YM,H1: 2017.03.17 22:0060Падающая звезда in YM
+3	22:02:41.310	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+3	22:08:07.671	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+2	22:12:46.370	ax_adv_023 GBPUSD,M15: open #73517862 sell stop 0.01 GBPUSD at 1.23907 sl: 1.24010 ok
+3	22:13:27.663	CPIv1.5 EURUSD,H1: indicator is too slow, 3260 ms. rewrite the indicator, please
+0	22:17:44.169	ax_adv_023 AUDUSD,M5: AUDUSD [BUYSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.77090 slippage=3 sl=0.77012 tp=0.00000 comment= exp=1489789504
+3	22:19:21.992	CPIv1.5 EURUSD,H1: indicator is too slow, 3291 ms. rewrite the indicator, please
+3	22:24:46.252	CPIv1.5 EURUSD,H1: indicator is too slow, 3261 ms. rewrite the indicator, please
+3	22:29:58.762	CPIv1.5 EURUSD,H1: indicator is too slow, 3245 ms. rewrite the indicator, please
+0	22:32:43.974	ax_adv_023 AUDUSD,M5: AUDUSD [BUYSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.77077 slippage=3 sl=0.77003 tp=0.00000 comment= exp=1489790403
+3	22:35:11.581	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+0	22:37:45.662	ax_adv_023 AUDUSD,M5: AUDUSD [BUYSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.77100 slippage=3 sl=0.77002 tp=0.00000 comment= exp=1489790705
+3	22:40:26.903	CPIv1.5 EURUSD,H1: indicator is too slow, 3260 ms. rewrite the indicator, please
+3	22:45:39.241	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+3	22:50:54.189	CPIv1.5 EURUSD,H1: indicator is too slow, 3261 ms. rewrite the indicator, please
+3	22:56:06.610	CPIv1.5 EURUSD,H1: indicator is too slow, 3448 ms. rewrite the indicator, please
+0	22:57:41.760	CPIv1.5 YM,H1: 2017.03.17 23:0060 in YM
+0	22:57:45.102	CPIv1.5 EURUSD,H1: 2017.03.17 23:0060Бычий Доджи in EURUSD
+0	22:57:45.116	CPIv1.5 NQ,H1: 2017.03.17 23:0060Медвежий Доджи in NQ
+3	23:01:19.285	CPIv1.5 EURUSD,H1: indicator is too slow, 3292 ms. rewrite the indicator, please
+0	23:02:46.032	ax_adv_023 AUDUSD,M5: AUDUSD [BUYSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.77057 slippage=3 sl=0.76979 tp=0.00000 comment= exp=1489792205
+3	23:06:45.458	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+0	23:07:44.881	ax_adv_023 AUDUSD,M5: AUDUSD [BUYSTOP ]:(3)invalid trade parameters AUDUSD lot=0.01 price=0.77057 slippage=3 sl=0.76978 tp=0.00000 comment= exp=1489792504
+3	23:12:00.344	CPIv1.5 EURUSD,H1: indicator is too slow, 3276 ms. rewrite the indicator, please
+3	23:17:43.405	CPIv1.5 EURUSD,H1: indicator is too slow, 3260 ms. rewrite the indicator, please
+3	23:22:58.069	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	23:28:20.244	CPIv1.5 EURUSD,H1: indicator is too slow, 3307 ms. rewrite the indicator, please
+3	23:33:38.100	CPIv1.5 EURUSD,H1: indicator is too slow, 3354 ms. rewrite the indicator, please
+3	23:38:51.523	CPIv1.5 EURUSD,H1: indicator is too slow, 3292 ms. rewrite the indicator, please
+3	23:44:07.368	CPIv1.5 EURUSD,H1: indicator is too slow, 3245 ms. rewrite the indicator, please
+3	23:49:26.830	CPIv1.5 EURUSD,H1: indicator is too slow, 3292 ms. rewrite the indicator, please
+3	23:54:39.889	CPIv1.5 EURUSD,H1: indicator is too slow, 3603 ms. rewrite the indicator, please

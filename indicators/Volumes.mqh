@@ -25,6 +25,7 @@ public:
    virtual double    GetData(const int buffer_num,const int index) const;
    double            Main(const int index) const;
    //--- method of identifying
+
    virtual int       Type(void) const { return(IND_AD); }
 
 protected:
@@ -50,6 +51,7 @@ CiAD::~CiAD(void)
 bool CiAD::Create(const string symbol,const ENUM_TIMEFRAMES period,const ENUM_APPLIED_VOLUME applied)
   {
    SetSymbolPeriod(symbol,period);
+      Comment("zhopa");
 //--- result of initialization
    return(Initialize(symbol,period,applied));
   }

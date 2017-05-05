@@ -1,0 +1,3 @@
+0	23:58:45.131	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.09246 slippage=3 sl=1.07198 tp=1.13342 comment= exp=1492992915
+0	23:58:52.816	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.27979 slippage=3 sl=1.28088 tp=1.27761 comment= exp=1492992918
+0	23:58:53.066	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.606 slippage=3 sl=108.953 tp=113.912 comment= exp=1492992924

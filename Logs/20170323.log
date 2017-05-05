@@ -1,0 +1,80 @@
+0	09:04:12.529	Custom indicator ax_ind_001 GBPUSD,Weekly: loaded successfully
+0	09:04:12.542	ax_ind_001 GBPUSD,Weekly: initialized
+0	09:04:12.578	Custom indicator BetterVolume 1.4 AUDUSD,H1: loaded successfully
+0	09:04:12.621	Expert ax_adv_023 AUDUSD,H1: loaded successfully
+0	09:04:12.621	ax_adv_023 AUDUSD,H1 inputs: g_delta_points=10; g_lot=0.01; g_lot2=0.02; g_slippage=3; g_try_count=3; g_order_exp_bar_count=1; g_magic_distance=1; g_logging=false; g_use_ichimoku=false; g_trade_mode=2; g_mfiworkmode=1; g_mfiworkmode_sl=1; g_open_lot2_order=false; 
+0	09:04:12.634	BetterVolume 1.4 AUDUSD,H1: initialized
+0	09:04:12.665	Custom indicator ATR AUDUSD,M5: loaded successfully
+0	09:04:12.679	ATR AUDUSD,M5: initialized
+0	09:04:12.730	Custom indicator CPIv1.5 NQ,H1: loaded successfully
+0	09:04:12.744	Custom indicator ACD NQ,H1: loaded successfully
+0	09:04:12.758	Custom indicator jopa_001 NQ,H1: loaded successfully
+0	09:04:12.806	CPIv1.5 NQ,H1: initialized
+0	09:04:12.817	ACD NQ,H1: initialized
+0	09:04:12.827	jopa_001 NQ,H1: initialized
+0	09:04:12.827	CPIv1.5 NQ,H1: 2017.03.21 10:0060Бычий Доджи in NQ
+0	09:04:12.915	Custom indicator CPIv1.5 YM,H1: loaded successfully
+0	09:04:12.929	Custom indicator jopa_001 YM,H1: loaded successfully
+0	09:04:12.979	CPIv1.5 YM,H1: initialized
+0	09:04:12.989	jopa_001 YM,H1: initialized
+0	09:04:13.028	Custom indicator ACD USDJPY,M15: loaded successfully
+0	09:04:13.043	Custom indicator BetterVolume 1.4 USDJPY,M15: loaded successfully
+0	09:04:13.058	ACD USDJPY,M15: initialized
+0	09:04:13.070	BetterVolume 1.4 USDJPY,M15: initialized
+0	09:04:13.135	Custom indicator ACD EURUSD,Weekly: loaded successfully
+0	09:04:13.195	Custom indicator HighVolumeBar VerticalHistogram EURUSD,Weekly: loaded successfully
+0	09:04:13.214	Custom indicator CPIv1.5 EURUSD,Weekly: loaded successfully
+0	09:04:13.227	ACD EURUSD,Weekly: initialized
+0	09:04:13.243	HighVolumeBar VerticalHistogram EURUSD,Weekly: HighVolumeBar VerticalHistogram: Индикатор не работает на таймфреймах выше, чем H4.
+0	09:04:13.243	HighVolumeBar VerticalHistogram EURUSD,Weekly: initialized
+0	09:04:13.288	CPIv1.5 EURUSD,Weekly: initialized
+0	09:04:13.294	CPIv1.5 EURUSD,Weekly: 2017.03.19 00:0010080Медвежий Доджи in EURUSD
+0	09:04:22.212	CPIv1.5 NQ,H1: 2017.03.23 09:0060Бычий Доджи in NQ
+0	09:04:22.630	ax_adv_023 AUDUSD,H1: initialized
+0	09:57:36.310	CPIv1.5 NQ,H1: 2017.03.23 10:0060 in NQ
+0	09:57:45.538	CPIv1.5 YM,H1: 2017.03.23 10:0060 in YM
+0	10:57:35.706	CPIv1.5 NQ,H1: 2017.03.23 11:0060Бычий Доджи in NQ
+0	11:57:35.499	CPIv1.5 NQ,H1: 2017.03.23 12:0060 in NQ
+0	11:57:37.969	CPIv1.5 YM,H1: 2017.03.23 12:0060 in YM
+0	12:46:32.394	ax_adv_023 AUDUSD,H1: uninit reason 3
+0	12:46:32.395	BetterVolume 1.4 AUDUSD,H1: uninit reason 3
+0	12:46:32.422	BetterVolume 1.4 AUDUSD,M15: initialized
+0	12:46:32.833	ax_adv_023 AUDUSD,M15: initialized
+0	12:57:35.246	CPIv1.5 NQ,H1: 2017.03.23 13:0060Бычий Доджи in NQ
+0	12:57:35.293	CPIv1.5 YM,H1: 2017.03.23 13:0060 in YM
+0	12:59:47.027	Automated trading disabled
+3	12:59:47.097	Automated trading disabled because the account has been changed
+0	12:59:53.731	ax_adv_023 AUDUSD,M15: uninit reason 6
+0	12:59:53.733	ax_adv_023 AUDUSD,M15: initialized
+3	13:12:37.561	ax_adv_023 AUDUSD,M15: trade operations not allowed by settings
+0	13:12:37.592	ax_adv_023 AUDUSD,M15: AUDUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties AUDUSD lot=0.01 price=0.76344 slippage=3 sl=0.76216 tp=0.00000 comment= exp=1490275803
+0	13:57:35.252	CPIv1.5 NQ,H1: 2017.03.23 14:0060 in NQ
+0	13:57:36.815	CPIv1.5 YM,H1: 2017.03.23 14:0060 in YM
+0	14:07:24.095	ACD EURUSD,Weekly: uninit reason 3
+0	14:07:24.106	HighVolumeBar VerticalHistogram EURUSD,Weekly: uninit reason 3
+0	14:07:24.141	CPIv1.5 EURUSD,Weekly: uninit reason 3
+0	14:07:24.245	ACD EURUSD,M1: initialized
+0	14:07:24.275	HighVolumeBar VerticalHistogram EURUSD,M1: initialized
+0	14:07:24.287	CPIv1.5 EURUSD,M1: initialized
+0	14:07:24.538	CPIv1.5 EURUSD,M1: 2017.03.10 10:541 in EURUSD
+0	14:07:36.407	CPIv1.5 EURUSD,M1: 2017.03.23 14:101Модель поглощения in EURUSD
+0	14:07:48.107	CPIv1.5 EURUSD,M1: uninit reason 1
+0	14:07:48.233	Custom indicator CPIv1.5 EURUSD,M1: removed
+0	14:07:50.231	HighVolumeBar VerticalHistogram EURUSD,M1: uninit reason 1
+0	14:07:50.245	Custom indicator HighVolumeBar VerticalHistogram EURUSD,M1: removed
+0	14:57:48.725	CPIv1.5 NQ,H1: 2017.03.23 15:0060Медвежий Доджи in NQ
+0	15:57:35.755	CPIv1.5 YM,H1: 2017.03.23 16:0060Вечерняя звезда in YM
+0	15:57:36.311	CPIv1.5 NQ,H1: 2017.03.23 16:0060Медвежий Доджи in NQ
+0	16:57:35.538	CPIv1.5 YM,H1: 2017.03.23 17:0060 in YM
+0	16:57:35.810	CPIv1.5 NQ,H1: 2017.03.23 17:0060Медвежий Доджи in NQ
+0	17:57:36.163	CPIv1.5 NQ,H1: 2017.03.23 18:0060Бычий Доджи in NQ
+0	18:57:35.424	CPIv1.5 NQ,H1: 2017.03.23 19:0060Бычий Доджи in NQ
+0	18:57:40.486	CPIv1.5 YM,H1: 2017.03.23 19:0060Медвежий Доджи in YM
+0	19:57:35.551	CPIv1.5 NQ,H1: 2017.03.23 20:0060Медвежий Доджи in NQ
+0	19:57:37.367	CPIv1.5 YM,H1: 2017.03.23 20:0060Медвежий Доджи in YM
+0	20:57:35.370	CPIv1.5 NQ,H1: 2017.03.23 21:0060Модель поглощения in NQ
+0	20:57:35.427	CPIv1.5 YM,H1: 2017.03.23 21:0060Медвежий Доджи in YM
+0	21:57:35.457	CPIv1.5 YM,H1: 2017.03.23 22:0060 in YM
+0	22:27:35.748	ax_adv_023 AUDUSD,M15: AUDUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties AUDUSD lot=0.01 price=0.76343 slippage=3 sl=0.76234 tp=0.00000 comment= exp=1490309101
+0	23:57:34.883	CPIv1.5 NQ,H1: 2017.03.24 00:0060Бычий Доджи in NQ
+0	23:57:35.483	CPIv1.5 YM,H1: 2017.03.24 00:0060Бычий Доджи in YM

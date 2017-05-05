@@ -1,0 +1,595 @@
+0	00:01:39.170	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05928 slippage=3 sl=1.05876 tp=1.06032 comment= exp=1491783468
+0	00:03:56.040	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.088 slippage=3 sl=111.006 tp=111.252 comment= exp=1491783605
+2	00:03:56.955	ax_adv_033_2 EURUSD,M5: open #75293052 buy stop 0.01 EURUSD at 1.05925 sl: 1.05875 tp: 1.06025 ok
+2	00:08:52.598	ax_adv_033_2 GBPUSD,M5: open #75293273 sell stop 0.01 GBPUSD at 1.23764 sl: 1.23848 tp: 1.23596 ok
+0	00:08:52.743	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.085 slippage=3 sl=111.004 tp=111.247 comment= exp=1491783902
+2	00:13:56.722	ax_adv_033_2 GBPUSD,M5: open #75293411 sell stop 0.01 GBPUSD at 1.23760 sl: 1.23837 tp: 1.23606 ok
+2	00:13:56.817	ax_adv_033_2 USDJPY,M5: open #75293412 buy stop 0.01 USDJPY at 111.117 sl: 111.008 tp: 111.335 ok
+2	00:19:35.571	ax_adv_033_2 USDJPY,M5: open #75293555 buy stop 0.01 USDJPY at 111.096 sl: 111.010 tp: 111.268 ok
+0	00:23:51.758	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.037 slippage=3 sl=111.093 tp=110.925 comment= exp=1491784801
+2	00:23:58.508	ax_adv_033_2 EURUSD,M5: open #75293626 buy stop 0.01 EURUSD at 1.05906 sl: 1.05837 tp: 1.06044 ok
+2	00:28:55.886	ax_adv_033_2 EURUSD,M5: open #75293728 buy stop 0.01 EURUSD at 1.05903 sl: 1.05824 tp: 1.06061 ok
+2	00:29:15.568	ax_adv_033_2 USDJPY,M5: open #75293739 sell stop 0.01 USDJPY at 111.017 sl: 111.123 tp: 110.805 ok
+2	00:33:55.723	ax_adv_033_2 EURUSD,M5: open #75293833 buy stop 0.01 EURUSD at 1.05894 sl: 1.05837 tp: 1.06008 ok
+2	00:33:56.570	ax_adv_033_2 USDJPY,M5: open #75293836 sell stop 0.01 USDJPY at 111.031 sl: 111.078 tp: 110.937 ok
+2	00:34:19.933	ax_adv_033_2 GBPUSD,M5: open #75293853 buy stop 0.01 GBPUSD at 1.23857 sl: 1.23778 tp: 1.24015 ok
+2	00:38:52.611	ax_adv_033_2 EURUSD,M5: open #75293900 buy stop 0.01 EURUSD at 1.05893 sl: 1.05836 tp: 1.06007 ok
+2	00:38:52.625	ax_adv_033_2 GBPUSD,M5: open #75293899 buy stop 0.01 GBPUSD at 1.23857 sl: 1.23769 tp: 1.24033 ok
+0	00:38:55.922	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.034 slippage=3 sl=111.075 tp=110.952 comment= exp=1491785705
+2	00:43:52.897	ax_adv_033_2 EURUSD,M5: open #75293967 buy stop 0.01 EURUSD at 1.05880 sl: 1.05829 tp: 1.05982 ok
+0	00:44:08.694	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.034 slippage=3 sl=111.079 tp=110.944 comment= exp=1491786018
+2	00:44:37.334	ax_adv_033_2 GBPUSD,M5: open #75293975 buy stop 0.01 GBPUSD at 1.23807 sl: 1.23736 tp: 1.23949 ok
+2	00:48:55.617	ax_adv_033_2 EURUSD,M5: open #75294076 buy stop 0.01 EURUSD at 1.05885 sl: 1.05824 tp: 1.06007 ok
+2	00:48:59.666	ax_adv_033_2 USDJPY,M5: open #75294078 sell stop 0.01 USDJPY at 111.039 sl: 111.082 tp: 110.953 ok
+2	00:49:35.734	ax_adv_033_2 GBPUSD,M5: open #75294088 buy stop 0.01 GBPUSD at 1.23821 sl: 1.23736 tp: 1.23991 ok
+2	00:53:55.668	ax_adv_033_2 EURUSD,M5: open #75294163 buy stop 0.01 EURUSD at 1.05884 sl: 1.05829 tp: 1.05994 ok
+2	00:54:04.590	ax_adv_033_2 GBPUSD,M5: open #75294167 buy stop 0.01 GBPUSD at 1.23811 sl: 1.23738 tp: 1.23957 ok
+0	00:54:06.671	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.043 slippage=3 sl=111.090 tp=110.949 comment= exp=1491786615
+0	00:58:51.906	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23777 slippage=3 sl=1.23720 tp=1.23891 comment= exp=1491786901
+0	00:58:51.906	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05870 slippage=3 sl=1.05816 tp=1.05978 comment= exp=1491786901
+2	00:58:52.984	ax_adv_033_2 USDJPY,M5: open #75294350 sell stop 0.01 USDJPY at 111.045 sl: 111.101 tp: 110.933 ok
+2	01:03:52.783	ax_adv_033_2 GBPUSD,M5: open #75294692 buy stop 0.01 GBPUSD at 1.23804 sl: 1.23717 tp: 1.23978 ok
+2	01:03:52.783	ax_adv_033_2 EURUSD,M5: open #75294693 buy stop 0.01 EURUSD at 1.05882 sl: 1.05806 tp: 1.06034 ok
+2	01:04:01.700	ax_adv_033_2 USDJPY,M5: open #75294708 buy stop 0.01 USDJPY at 111.166 sl: 111.052 tp: 111.394 ok
+2	01:08:52.760	ax_adv_033_2 USDJPY,M5: open #75294999 buy stop 0.01 USDJPY at 111.209 sl: 111.111 tp: 111.405 ok
+0	01:08:54.789	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05870 slippage=3 sl=1.05817 tp=1.05976 comment= exp=1491787504
+2	01:13:52.195	ax_adv_033_2 USDJPY,M5: open #75295277 buy stop 0.01 USDJPY at 111.233 sl: 111.135 tp: 111.429 ok
+2	01:13:53.660	ax_adv_033_2 EURUSD,M5: open #75295282 buy stop 0.01 EURUSD at 1.05865 sl: 1.05816 tp: 1.05963 ok
+2	01:18:57.807	ax_adv_033_2 EURUSD,M5: open #75295555 buy stop 0.01 EURUSD at 1.05862 sl: 1.05808 tp: 1.05970 ok
+2	01:23:53.921	ax_adv_033_2 GBPUSD,M5: open #75295764 sell stop 0.01 GBPUSD at 1.23722 sl: 1.23788 tp: 1.23590 ok
+0	01:23:53.921	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05861 slippage=3 sl=1.05806 tp=1.05971 comment= exp=1491788403
+2	01:28:52.841	ax_adv_033_2 GBPUSD,M5: open #75295999 sell stop 0.01 GBPUSD at 1.23710 sl: 1.23767 tp: 1.23596 ok
+2	01:28:53.855	ax_adv_033_2 EURUSD,M5: open #75296017 buy stop 0.01 EURUSD at 1.05855 sl: 1.05803 tp: 1.05959 ok
+2	01:33:52.651	ax_adv_033_2 EURUSD,M5: open #75296348 buy stop 0.01 EURUSD at 1.05838 sl: 1.05782 tp: 1.05950 ok
+2	01:33:52.863	ax_adv_033_2 GBPUSD,M5: open #75296356 sell stop 0.01 GBPUSD at 1.23694 sl: 1.23761 tp: 1.23560 ok
+2	01:38:52.871	ax_adv_033_2 GBPUSD,M5: open #75296707 sell stop 0.01 GBPUSD at 1.23689 sl: 1.23737 tp: 1.23593 ok
+2	01:38:53.074	ax_adv_033_2 EURUSD,M5: open #75296708 buy stop 0.01 EURUSD at 1.05823 sl: 1.05773 tp: 1.05923 ok
+2	01:38:53.074	ax_adv_033_2 USDJPY,M5: open #75296709 sell stop 0.01 USDJPY at 111.281 sl: 111.339 tp: 111.165 ok
+0	01:43:52.672	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.272 slippage=3 sl=111.323 tp=111.170 comment= exp=1491789602
+0	01:43:52.866	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05844 slippage=3 sl=1.05770 tp=1.05992 comment= exp=1491789602
+2	01:43:53.857	ax_adv_033_2 GBPUSD,M5: open #75296988 sell stop 0.01 GBPUSD at 1.23700 sl: 1.23747 tp: 1.23606 ok
+0	01:48:52.292	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.223 slippage=3 sl=111.315 tp=111.039 comment= exp=1491789901
+2	01:48:52.723	ax_adv_033_2 EURUSD,M5: open #75297204 buy stop 0.01 EURUSD at 1.05850 sl: 1.05789 tp: 1.05972 ok
+2	01:48:53.952	ax_adv_033_2 GBPUSD,M5: open #75297207 sell stop 0.01 GBPUSD at 1.23687 sl: 1.23751 tp: 1.23559 ok
+0	01:53:52.857	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23706 slippage=3 sl=1.23750 tp=1.23618 comment= exp=1491790202
+2	01:53:53.059	ax_adv_033_2 USDJPY,M5: open #75297534 sell stop 0.01 USDJPY at 111.227 sl: 111.309 tp: 111.063 ok
+2	01:53:53.059	ax_adv_033_2 EURUSD,M5: open #75297536 buy stop 0.01 EURUSD at 1.05850 sl: 1.05795 tp: 1.05960 ok
+0	01:58:51.831	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05826 slippage=3 sl=1.05771 tp=1.05936 comment= exp=1491790501
+2	01:58:53.006	ax_adv_033_2 USDJPY,M5: open #75297865 sell stop 0.01 USDJPY at 111.263 sl: 111.317 tp: 111.155 ok
+0	02:03:51.797	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23633 slippage=3 sl=1.23727 tp=1.23445 comment= exp=1491790801
+2	02:03:52.913	ax_adv_033_2 EURUSD,M5: open #75298342 buy stop 0.01 EURUSD at 1.05801 sl: 1.05721 tp: 1.05961 ok
+2	02:03:54.534	ax_adv_033_2 USDJPY,M5: open #75298346 sell stop 0.01 USDJPY at 111.287 sl: 111.373 tp: 111.115 ok
+2	02:08:52.698	ax_adv_033_2 GBPUSD,M5: open #75298677 sell stop 0.01 GBPUSD at 1.23647 sl: 1.23712 tp: 1.23517 ok
+2	02:08:54.746	ax_adv_033_2 EURUSD,M5: open #75298680 buy stop 0.01 EURUSD at 1.05805 sl: 1.05727 tp: 1.05961 ok
+2	02:08:54.746	ax_adv_033_2 USDJPY,M5: open #75298683 sell stop 0.01 USDJPY at 111.270 sl: 111.344 tp: 111.122 ok
+2	02:13:52.196	ax_adv_033_2 GBPUSD,M5: open #75298966 sell stop 0.01 GBPUSD at 1.23676 sl: 1.23735 tp: 1.23558 ok
+2	02:13:53.863	ax_adv_033_2 EURUSD,M5: open #75298979 buy stop 0.01 EURUSD at 1.05824 sl: 1.05748 tp: 1.05976 ok
+2	02:13:55.849	ax_adv_033_2 USDJPY,M5: open #75298982 sell stop 0.01 USDJPY at 111.254 sl: 111.324 tp: 111.114 ok
+2	02:18:52.889	ax_adv_033_2 GBPUSD,M5: open #75299641 sell stop 0.01 GBPUSD at 1.23703 sl: 1.23756 tp: 1.23597 ok
+2	02:18:54.940	ax_adv_033_2 USDJPY,M5: open #75299645 sell stop 0.01 USDJPY at 111.253 sl: 111.298 tp: 111.163 ok
+2	02:18:55.981	ax_adv_033_2 EURUSD,M5: open #75299649 buy stop 0.01 EURUSD at 1.05828 sl: 1.05769 tp: 1.05946 ok
+0	02:23:53.016	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.225 slippage=3 sl=111.306 tp=111.063 comment= exp=1491792002
+0	02:23:54.624	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05766 slippage=3 sl=1.05819 tp=1.05660 comment= exp=1491792004
+2	02:23:57.914	ax_adv_033_2 GBPUSD,M5: open #75299949 sell stop 0.01 GBPUSD at 1.23695 sl: 1.23754 tp: 1.23577 ok
+2	02:28:52.941	ax_adv_033_2 USDJPY,M5: open #75300163 buy stop 0.01 USDJPY at 111.296 sl: 111.228 tp: 111.432 ok
+2	02:28:54.977	ax_adv_033_2 EURUSD,M5: open #75300178 sell stop 0.01 EURUSD at 1.05760 sl: 1.05807 tp: 1.05666 ok
+2	02:28:54.977	ax_adv_033_2 GBPUSD,M5: open #75300179 sell stop 0.01 GBPUSD at 1.23662 sl: 1.23735 tp: 1.23516 ok
+2	02:33:54.554	ax_adv_033_2 EURUSD,M5: open #75300501 sell stop 0.01 EURUSD at 1.05775 sl: 1.05817 tp: 1.05691 ok
+2	02:33:54.737	ax_adv_033_2 USDJPY,M5: open #75300507 buy stop 0.01 USDJPY at 111.292 sl: 111.222 tp: 111.432 ok
+2	02:38:53.651	ax_adv_033_2 USDJPY,M5: open #75300690 buy stop 0.01 USDJPY at 111.270 sl: 111.211 tp: 111.388 ok
+2	02:38:59.734	ax_adv_033_2 EURUSD,M5: open #75300693 sell stop 0.01 EURUSD at 1.05773 sl: 1.05819 tp: 1.05681 ok
+0	02:43:52.948	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.299 slippage=3 sl=111.217 tp=111.463 comment= exp=1491793202
+0	02:43:52.948	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05769 slippage=3 sl=1.05814 tp=1.05679 comment= exp=1491793202
+2	02:48:52.814	ax_adv_033_2 USDJPY,M5: open #75301303 buy stop 0.01 USDJPY at 111.286 sl: 111.205 tp: 111.448 ok
+2	02:48:52.814	ax_adv_033_2 EURUSD,M5: open #75301304 sell stop 0.01 EURUSD at 1.05772 sl: 1.05825 tp: 1.05666 ok
+2	02:53:52.815	ax_adv_033_2 USDJPY,M5: open #75301522 buy stop 0.01 USDJPY at 111.250 sl: 111.197 tp: 111.356 ok
+2	02:53:53.008	ax_adv_033_2 EURUSD,M5: open #75301525 sell stop 0.01 EURUSD at 1.05774 sl: 1.05825 tp: 1.05672 ok
+2	02:58:52.930	ax_adv_033_2 USDJPY,M5: open #75301779 buy stop 0.01 USDJPY at 111.256 sl: 111.193 tp: 111.382 ok
+2	02:58:52.930	ax_adv_033_2 EURUSD,M5: open #75301780 sell stop 0.01 EURUSD at 1.05774 sl: 1.05836 tp: 1.05650 ok
+2	03:03:52.569	ax_adv_033_2 EURUSD,M5: open #75302247 sell stop 0.01 EURUSD at 1.05788 sl: 1.05831 tp: 1.05702 ok
+2	03:03:52.769	ax_adv_033_2 USDJPY,M5: open #75302249 buy stop 0.01 USDJPY at 111.300 sl: 111.205 tp: 111.490 ok
+2	03:08:52.777	ax_adv_033_2 EURUSD,M5: open #75302675 sell stop 0.01 EURUSD at 1.05787 sl: 1.05841 tp: 1.05679 ok
+2	03:23:55.724	ax_adv_033_2 USDJPY,M5: open #75303722 buy stop 0.01 USDJPY at 111.435 sl: 111.367 tp: 111.571 ok
+0	03:28:52.196	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.459 slippage=3 sl=111.371 tp=111.635 comment= exp=1491795901
+2	03:33:54.244	ax_adv_033_2 USDJPY,M5: open #75304334 buy stop 0.01 USDJPY at 111.471 sl: 111.393 tp: 111.627 ok
+2	03:38:53.936	ax_adv_033_2 USDJPY,M5: open #75304594 buy stop 0.01 USDJPY at 111.448 sl: 111.375 tp: 111.594 ok
+2	03:43:51.742	ax_adv_033_2 USDJPY,M5: open #75304826 buy stop 0.01 USDJPY at 111.422 sl: 111.362 tp: 111.542 ok
+2	03:48:53.570	ax_adv_033_2 USDJPY,M5: open #75305180 buy stop 0.01 USDJPY at 111.443 sl: 111.355 tp: 111.619 ok
+0	03:53:50.991	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.471 slippage=3 sl=111.376 tp=111.661 comment= exp=1491797401
+2	03:58:51.671	ax_adv_033_2 USDJPY,M5: open #75305911 buy stop 0.01 USDJPY at 111.498 sl: 111.399 tp: 111.696 ok
+2	04:03:51.910	ax_adv_033_2 USDJPY,M5: open #75306471 sell stop 0.01 USDJPY at 111.417 sl: 111.587 tp: 111.077 ok
+2	04:08:54.656	ax_adv_033_2 USDJPY,M5: open #75306805 sell stop 0.01 USDJPY at 111.494 sl: 111.563 tp: 111.356 ok
+2	04:13:51.876	ax_adv_033_2 USDJPY,M5: open #75307221 sell stop 0.01 USDJPY at 111.424 sl: 111.539 tp: 111.194 ok
+2	04:13:51.883	ax_adv_033_2 GBPUSD,M5: open #75307220 buy stop 0.01 GBPUSD at 1.23837 sl: 1.23770 tp: 1.23971 ok
+0	04:18:50.960	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.503 slippage=3 sl=111.444 tp=111.621 comment= exp=1491798901
+2	04:18:51.830	ax_adv_033_2 GBPUSD,M5: open #75307562 buy stop 0.01 GBPUSD at 1.23851 sl: 1.23787 tp: 1.23979 ok
+2	04:23:51.849	ax_adv_033_2 GBPUSD,M5: open #75307961 buy stop 0.01 GBPUSD at 1.23871 sl: 1.23800 tp: 1.24013 ok
+0	04:23:52.046	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.496 slippage=3 sl=111.428 tp=111.632 comment= exp=1491799202
+0	04:28:51.720	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.489 slippage=3 sl=111.429 tp=111.609 comment= exp=1491799502
+2	04:28:52.778	ax_adv_033_2 GBPUSD,M5: open #75308241 buy stop 0.01 GBPUSD at 1.23857 sl: 1.23805 tp: 1.23961 ok
+0	04:33:51.744	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.470 slippage=3 sl=111.406 tp=111.598 comment= exp=1491799802
+0	04:33:52.711	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23868 slippage=3 sl=1.23800 tp=1.24004 comment= exp=1491799803
+2	04:33:54.817	ax_adv_033_2 EURUSD,M5: open #75308632 sell stop 0.01 EURUSD at 1.05775 sl: 1.05839 tp: 1.05647 ok
+2	04:38:50.974	ax_adv_033_2 USDJPY,M5: open #75308935 buy stop 0.01 USDJPY at 111.475 sl: 111.398 tp: 111.629 ok
+2	04:38:51.623	ax_adv_033_2 GBPUSD,M5: open #75308937 buy stop 0.01 GBPUSD at 1.23848 sl: 1.23803 tp: 1.23938 ok
+0	04:43:52.110	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.450 slippage=3 sl=111.389 tp=111.572 comment= exp=1491800402
+2	04:43:52.873	ax_adv_033_2 GBPUSD,M5: open #75309372 sell stop 0.01 GBPUSD at 1.23803 sl: 1.23869 tp: 1.23671 ok
+2	04:48:57.884	ax_adv_033_2 USDJPY,M5: open #75309781 buy stop 0.01 USDJPY at 111.458 sl: 111.398 tp: 111.578 ok
+2	04:49:08.899	ax_adv_033_2 GBPUSD,M5: open #75309792 sell stop 0.01 GBPUSD at 1.23815 sl: 1.23865 tp: 1.23715 ok
+2	04:53:51.707	ax_adv_033_2 USDJPY,M5: open #75310119 buy stop 0.01 USDJPY at 111.504 sl: 111.410 tp: 111.692 ok
+2	04:53:51.719	ax_adv_033_2 GBPUSD,M5: open #75310121 buy stop 0.01 GBPUSD at 1.23855 sl: 1.23797 tp: 1.23971 ok
+2	04:58:51.719	ax_adv_033_2 GBPUSD,M5: open #75310433 buy stop 0.01 GBPUSD at 1.23843 sl: 1.23794 tp: 1.23941 ok
+0	04:58:54.937	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.503 slippage=3 sl=111.450 tp=111.609 comment= exp=1491801305
+2	05:03:53.806	ax_adv_033_2 USDJPY,M5: open #75311033 buy stop 0.01 USDJPY at 111.519 sl: 111.457 tp: 111.643 ok
+2	05:03:54.833	ax_adv_033_2 GBPUSD,M5: open #75311034 buy stop 0.01 GBPUSD at 1.23836 sl: 1.23791 tp: 1.23926 ok
+2	05:04:00.973	ax_adv_033_2 EURUSD,M5: open #75311053 buy stop 0.01 EURUSD at 1.05799 sl: 1.05751 tp: 1.05895 ok
+2	05:08:51.903	ax_adv_033_2 EURUSD,M5: open #75311537 buy stop 0.01 EURUSD at 1.05770 sl: 1.05720 tp: 1.05870 ok
+0	05:08:52.098	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.523 slippage=3 sl=111.453 tp=111.663 comment= exp=1491801902
+2	05:08:52.098	ax_adv_033_2 GBPUSD,M5: open #75311542 buy stop 0.01 GBPUSD at 1.23812 sl: 1.23754 tp: 1.23928 ok
+2	05:13:53.562	ax_adv_033_2 USDJPY,M5: open #75312069 buy stop 0.01 USDJPY at 111.554 sl: 111.477 tp: 111.708 ok
+0	05:13:56.659	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05769 slippage=3 sl=1.05690 tp=1.05927 comment= exp=1491802206
+2	05:13:56.861	ax_adv_033_2 GBPUSD,M5: open #75312077 buy stop 0.01 GBPUSD at 1.23800 sl: 1.23737 tp: 1.23926 ok
+0	05:18:51.236	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23807 slippage=3 sl=1.23746 tp=1.23929 comment= exp=1491802501
+2	05:18:55.698	ax_adv_033_2 USDJPY,M5: open #75312441 buy stop 0.01 USDJPY at 111.559 sl: 111.490 tp: 111.697 ok
+2	05:23:51.914	ax_adv_033_2 USDJPY,M5: open #75312764 buy stop 0.01 USDJPY at 111.528 sl: 111.466 tp: 111.652 ok
+2	05:23:51.914	ax_adv_033_2 GBPUSD,M5: open #75312765 buy stop 0.01 GBPUSD at 1.23828 sl: 1.23757 tp: 1.23970 ok
+2	05:28:51.989	ax_adv_033_2 USDJPY,M5: open #75313075 buy stop 0.01 USDJPY at 111.519 sl: 111.450 tp: 111.657 ok
+2	05:28:53.547	ax_adv_033_2 EURUSD,M5: open #75313088 sell stop 0.01 EURUSD at 1.05723 sl: 1.05769 tp: 1.05631 ok
+0	05:33:53.702	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.507 slippage=3 sl=111.445 tp=111.631 comment= exp=1491803403
+2	05:33:53.702	ax_adv_033_2 EURUSD,M5: open #75313475 sell stop 0.01 EURUSD at 1.05734 sl: 1.05785 tp: 1.05632 ok
+2	05:38:51.725	ax_adv_033_2 EURUSD,M5: open #75313766 sell stop 0.01 EURUSD at 1.05728 sl: 1.05777 tp: 1.05630 ok
+2	05:38:51.966	ax_adv_033_2 USDJPY,M5: open #75313773 buy stop 0.01 USDJPY at 111.502 sl: 111.456 tp: 111.594 ok
+0	05:43:51.970	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.484 slippage=3 sl=111.438 tp=111.576 comment= exp=1491804002
+2	05:49:01.771	ax_adv_033_2 USDJPY,M5: open #75314300 buy stop 0.01 USDJPY at 111.493 sl: 111.438 tp: 111.603 ok
+2	05:53:53.817	ax_adv_033_2 USDJPY,M5: open #75314555 buy stop 0.01 USDJPY at 111.480 sl: 111.413 tp: 111.614 ok
+2	05:58:52.908	ax_adv_033_2 USDJPY,M5: open #75314764 buy stop 0.01 USDJPY at 111.485 sl: 111.421 tp: 111.613 ok
+2	06:03:51.803	ax_adv_033_2 USDJPY,M5: open #75315132 buy stop 0.01 USDJPY at 111.511 sl: 111.438 tp: 111.657 ok
+0	06:23:54.987	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23778 slippage=3 sl=1.23831 tp=1.23672 comment= exp=1491806405
+2	06:28:51.712	ax_adv_033_2 USDJPY,M5: open #75316255 buy stop 0.01 USDJPY at 111.475 sl: 111.413 tp: 111.599 ok
+2	06:28:51.920	ax_adv_033_2 GBPUSD,M5: open #75316253 sell stop 0.01 GBPUSD at 1.23758 sl: 1.23818 tp: 1.23638 ok
+2	06:33:51.891	ax_adv_033_2 USDJPY,M5: open #75316510 buy stop 0.01 USDJPY at 111.474 sl: 111.414 tp: 111.594 ok
+2	06:58:52.011	ax_adv_033_2 EURUSD,M5: open #75317603 buy stop 0.01 EURUSD at 1.05853 sl: 1.05791 tp: 1.05977 ok
+2	07:03:58.605	ax_adv_033_2 EURUSD,M5: open #75317923 buy stop 0.01 EURUSD at 1.05858 sl: 1.05803 tp: 1.05968 ok
+2	07:08:52.825	ax_adv_033_2 EURUSD,M5: open #75318261 buy stop 0.01 EURUSD at 1.05847 sl: 1.05795 tp: 1.05951 ok
+2	07:08:55.893	ax_adv_033_2 GBPUSD,M5: open #75318264 buy stop 0.01 GBPUSD at 1.23873 sl: 1.23818 tp: 1.23983 ok
+2	07:13:51.819	ax_adv_033_2 USDJPY,M5: open #75318539 sell stop 0.01 USDJPY at 111.353 sl: 111.421 tp: 111.217 ok
+2	07:13:51.822	ax_adv_033_2 EURUSD,M5: open #75318541 buy stop 0.01 EURUSD at 1.05854 sl: 1.05799 tp: 1.05964 ok
+2	07:13:53.857	ax_adv_033_2 GBPUSD,M5: open #75318557 buy stop 0.01 GBPUSD at 1.23887 sl: 1.23820 tp: 1.24021 ok
+2	07:18:51.453	ax_adv_033_2 USDJPY,M5: open #75318895 sell stop 0.01 USDJPY at 111.373 sl: 111.428 tp: 111.263 ok
+0	07:18:54.799	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23863 slippage=3 sl=1.23819 tp=1.23951 comment= exp=1491809705
+0	07:18:55.001	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05848 slippage=3 sl=1.05797 tp=1.05950 comment= exp=1491809705
+2	07:23:51.871	ax_adv_033_2 EURUSD,M5: open #75319206 buy stop 0.01 EURUSD at 1.05841 sl: 1.05782 tp: 1.05959 ok
+2	07:23:51.871	ax_adv_033_2 GBPUSD,M5: open #75319208 buy stop 0.01 GBPUSD at 1.23864 sl: 1.23815 tp: 1.23962 ok
+2	07:23:53.698	ax_adv_033_2 USDJPY,M5: open #75319211 sell stop 0.01 USDJPY at 111.388 sl: 111.448 tp: 111.268 ok
+2	07:28:51.762	ax_adv_033_2 GBPUSD,M5: open #75319448 buy stop 0.01 GBPUSD at 1.23885 sl: 1.23815 tp: 1.24025 ok
+2	07:28:52.732	ax_adv_033_2 USDJPY,M5: open #75319457 sell stop 0.01 USDJPY at 111.374 sl: 111.436 tp: 111.250 ok
+2	07:33:54.620	ax_adv_033_2 USDJPY,M5: open #75319728 sell stop 0.01 USDJPY at 111.368 sl: 111.415 tp: 111.274 ok
+0	07:33:58.677	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23876 slippage=3 sl=1.23831 tp=1.23966 comment= exp=1491810609
+0	07:38:51.137	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23879 slippage=3 sl=1.23831 tp=1.23975 comment= exp=1491810901
+2	07:38:53.012	ax_adv_033_2 EURUSD,M5: open #75319948 buy stop 0.01 EURUSD at 1.05882 sl: 1.05821 tp: 1.06004 ok
+0	07:38:53.012	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.372 slippage=3 sl=111.425 tp=111.266 comment= exp=1491810903
+2	07:43:51.652	ax_adv_033_2 USDJPY,M5: open #75320231 sell stop 0.01 USDJPY at 111.386 sl: 111.434 tp: 111.290 ok
+2	07:43:51.652	ax_adv_033_2 GBPUSD,M5: open #75320233 buy stop 0.01 GBPUSD at 1.23899 sl: 1.23836 tp: 1.24025 ok
+2	07:43:54.904	ax_adv_033_2 EURUSD,M5: open #75320242 buy stop 0.01 EURUSD at 1.05879 sl: 1.05818 tp: 1.06001 ok
+0	07:48:51.270	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.400 slippage=3 sl=111.443 tp=111.314 comment= exp=1491811501
+2	07:48:51.869	ax_adv_033_2 GBPUSD,M5: open #75320456 sell stop 0.01 GBPUSD at 1.23828 sl: 1.23873 tp: 1.23738 ok
+0	07:48:58.408	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05876 slippage=3 sl=1.05829 tp=1.05970 comment= exp=1491811508
+2	07:53:54.580	ax_adv_033_2 EURUSD,M5: open #75320646 buy stop 0.01 EURUSD at 1.05880 sl: 1.05831 tp: 1.05978 ok
+2	07:53:55.574	ax_adv_033_2 GBPUSD,M5: open #75320651 sell stop 0.01 GBPUSD at 1.23827 sl: 1.23879 tp: 1.23723 ok
+0	07:58:51.091	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23836 slippage=3 sl=1.23880 tp=1.23748 comment= exp=1491812101
+2	07:58:52.930	ax_adv_033_2 EURUSD,M5: open #75321031 buy stop 0.01 EURUSD at 1.05890 sl: 1.05834 tp: 1.06002 ok
+2	08:03:52.983	ax_adv_033_2 GBPUSD,M5: open #75321611 sell stop 0.01 GBPUSD at 1.23796 sl: 1.23878 tp: 1.23632 ok
+2	08:03:52.993	ax_adv_033_2 EURUSD,M5: open #75321613 buy stop 0.01 EURUSD at 1.05874 sl: 1.05824 tp: 1.05974 ok
+0	08:08:51.117	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23811 slippage=3 sl=1.23854 tp=1.23725 comment= exp=1491812701
+0	08:08:52.104	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05885 slippage=3 sl=1.05828 tp=1.05999 comment= exp=1491812702
+2	08:13:52.727	ax_adv_033_2 GBPUSD,M5: open #75322246 buy stop 0.01 GBPUSD at 1.23866 sl: 1.23813 tp: 1.23972 ok
+0	08:14:08.920	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05892 slippage=3 sl=1.05834 tp=1.06008 comment= exp=1491813019
+2	08:18:52.032	ax_adv_033_2 GBPUSD,M5: open #75322577 buy stop 0.01 GBPUSD at 1.23864 sl: 1.23806 tp: 1.23980 ok
+2	08:18:52.032	ax_adv_033_2 EURUSD,M5: open #75322581 buy stop 0.01 EURUSD at 1.05897 sl: 1.05843 tp: 1.06005 ok
+2	08:23:53.837	ax_adv_033_2 EURUSD,M5: open #75322938 buy stop 0.01 EURUSD at 1.05905 sl: 1.05847 tp: 1.06021 ok
+2	08:23:54.634	ax_adv_033_2 GBPUSD,M5: open #75322942 buy stop 0.01 GBPUSD at 1.23867 sl: 1.23808 tp: 1.23985 ok
+2	08:28:51.633	ax_adv_033_2 GBPUSD,M5: open #75323218 buy stop 0.01 GBPUSD at 1.23866 sl: 1.23816 tp: 1.23966 ok
+2	08:29:26.411	ax_adv_033_2 EURUSD,M5: open #75323248 buy stop 0.01 EURUSD at 1.05914 sl: 1.05859 tp: 1.06024 ok
+0	08:33:51.916	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05920 slippage=3 sl=1.05864 tp=1.06032 comment= exp=1491814202
+2	08:33:52.931	ax_adv_033_2 GBPUSD,M5: open #75323579 buy stop 0.01 GBPUSD at 1.23913 sl: 1.23819 tp: 1.24101 ok
+0	08:38:51.597	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23852 slippage=3 sl=1.23912 tp=1.23732 comment= exp=1491814501
+2	08:38:55.021	ax_adv_033_2 EURUSD,M5: open #75323997 sell stop 0.01 EURUSD at 1.05858 sl: 1.05914 tp: 1.05746 ok
+2	08:43:51.820	ax_adv_033_2 EURUSD,M5: open #75324308 sell stop 0.01 EURUSD at 1.05863 sl: 1.05916 tp: 1.05757 ok
+0	08:48:51.730	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23849 slippage=3 sl=1.23919 tp=1.23709 comment= exp=1491815101
+2	08:48:52.725	ax_adv_033_2 EURUSD,M5: open #75324816 sell stop 0.01 EURUSD at 1.05864 sl: 1.05932 tp: 1.05728 ok
+2	08:53:52.975	ax_adv_033_2 GBPUSD,M5: open #75325221 sell stop 0.01 GBPUSD at 1.23837 sl: 1.23891 tp: 1.23729 ok
+0	08:53:55.895	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05880 slippage=3 sl=1.05924 tp=1.05792 comment= exp=1491815406
+0	08:58:52.564	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23852 slippage=3 sl=1.23902 tp=1.23752 comment= exp=1491815702
+0	08:58:53.412	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05896 slippage=3 sl=1.05944 tp=1.05800 comment= exp=1491815702
+2	09:03:52.761	ax_adv_033_2 EURUSD,M5: open #75326183 sell stop 0.01 EURUSD at 1.05887 sl: 1.05940 tp: 1.05781 ok
+2	09:03:56.019	ax_adv_033_2 GBPUSD,M5: open #75326192 sell stop 0.01 GBPUSD at 1.23857 sl: 1.23911 tp: 1.23749 ok
+2	09:08:53.894	ax_adv_033_2 GBPUSD,M5: open #75326617 sell stop 0.01 GBPUSD at 1.23872 sl: 1.23922 tp: 1.23772 ok
+0	09:08:53.894	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05883 slippage=3 sl=1.05948 tp=1.05753 comment= exp=1491816304
+0	09:13:52.001	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23882 slippage=3 sl=1.23947 tp=1.23752 comment= exp=1491816601
+2	09:13:53.093	ax_adv_033_2 EURUSD,M5: open #75327123 sell stop 0.01 EURUSD at 1.05848 sl: 1.05936 tp: 1.05672 ok
+2	09:18:51.926	ax_adv_033_2 GBPUSD,M5: open #75327616 sell stop 0.01 GBPUSD at 1.23850 sl: 1.23925 tp: 1.23700 ok
+0	09:18:53.954	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05862 slippage=3 sl=1.05930 tp=1.05726 comment= exp=1491816904
+2	09:23:51.942	ax_adv_033_2 GBPUSD,M5: open #75328069 sell stop 0.01 GBPUSD at 1.23869 sl: 1.23926 tp: 1.23755 ok
+2	09:23:52.842	ax_adv_033_2 EURUSD,M5: open #75328072 sell stop 0.01 EURUSD at 1.05849 sl: 1.05904 tp: 1.05739 ok
+0	09:28:51.888	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.05829 slippage=3 sl=1.05895 tp=1.05697 comment= exp=1491817501
+2	09:28:52.468	ax_adv_033_2 GBPUSD,M5: open #75328538 sell stop 0.01 GBPUSD at 1.23868 sl: 1.23933 tp: 1.23738 ok
+0	09:33:51.318	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.283 slippage=3 sl=111.345 tp=111.159 comment= exp=1491817801
+2	09:33:52.252	ax_adv_033_2 EURUSD,M5: open #75329084 sell stop 0.01 EURUSD at 1.05794 sl: 1.05873 tp: 1.05636 ok
+0	09:33:52.833	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23850 slippage=3 sl=1.23927 tp=1.23696 comment= exp=1491817803
+2	09:38:51.854	ax_adv_033_2 USDJPY,M5: open #75329571 sell stop 0.01 USDJPY at 111.286 sl: 111.337 tp: 111.184 ok
+2	09:38:53.686	ax_adv_033_2 GBPUSD,M5: open #75329575 sell stop 0.01 GBPUSD at 1.23857 sl: 1.23902 tp: 1.23767 ok
+2	09:39:00.895	ax_adv_033_2 EURUSD,M5: open #75329579 sell stop 0.01 EURUSD at 1.05810 sl: 1.05869 tp: 1.05692 ok
+2	09:43:56.949	ax_adv_033_2 GBPUSD,M5: open #75329925 buy stop 0.01 GBPUSD at 1.23917 sl: 1.23863 tp: 1.24025 ok
+2	09:43:56.949	ax_adv_033_2 USDJPY,M5: open #75329926 sell stop 0.01 USDJPY at 111.288 sl: 111.337 tp: 111.190 ok
+2	09:43:57.745	ax_adv_033_2 EURUSD,M5: open #75329927 buy stop 0.01 EURUSD at 1.05899 sl: 1.05830 tp: 1.06037 ok
+0	09:48:44.026	Expert Exp2 XAGUSD,H1: loaded successfully
+0	09:48:53.862	Exp2 XAGUSD,H1 inputs: g_lot=0.01; magic_number=1488; g_slippage=3; expiration_bar=3; g_delta_points_sl=1; g_delta_points_p=1; tp=0; use_trand=true; reverse=true; secret=2; ma_period=1; 
+0	09:48:53.907	Exp2 XAGUSD,H1: initialized
+0	09:48:54.376	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23947 slippage=3 sl=1.23868 tp=1.24105 comment= exp=1491818704
+2	09:48:55.036	ax_adv_033_2 USDJPY,M5: open #75330346 buy stop 0.01 USDJPY at 111.348 sl: 111.275 tp: 111.494 ok
+2	09:53:51.835	ax_adv_033_2 USDJPY,M5: open #75330795 buy stop 0.01 USDJPY at 111.343 sl: 111.275 tp: 111.479 ok
+2	09:53:52.705	ax_adv_033_2 GBPUSD,M5: open #75330801 buy stop 0.01 GBPUSD at 1.23958 sl: 1.23893 tp: 1.24088 ok
+2	09:58:53.415	ax_adv_033_2 USDJPY,M5: open #75331223 buy stop 0.01 USDJPY at 111.322 sl: 111.264 tp: 111.438 ok
+2	09:58:54.325	ax_adv_033_2 GBPUSD,M5: open #75331259 sell stop 0.01 GBPUSD at 1.23898 sl: 1.23967 tp: 1.23760 ok
+2	10:03:54.155	ax_adv_033_2 USDJPY,M5: open #75331718 buy stop 0.01 USDJPY at 111.291 sl: 111.223 tp: 111.427 ok
+2	10:03:54.155	ax_adv_033_2 GBPUSD,M5: open #75331719 sell stop 0.01 GBPUSD at 1.23925 sl: 1.23988 tp: 1.23799 ok
+2	10:08:51.896	ax_adv_033_2 GBPUSD,M5: open #75332146 sell stop 0.01 GBPUSD at 1.23874 sl: 1.23967 tp: 1.23688 ok
+2	10:08:51.906	ax_adv_033_2 USDJPY,M5: open #75332150 buy stop 0.01 USDJPY at 111.313 sl: 111.223 tp: 111.493 ok
+0	10:13:52.356	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.23874 slippage=3 sl=1.23959 tp=1.23704 comment= exp=1491820202
+2	10:13:53.946	ax_adv_033_2 EURUSD,M5: open #75332640 sell stop 0.01 EURUSD at 1.05800 sl: 1.05854 tp: 1.05692 ok
+2	10:13:54.126	ax_adv_033_2 USDJPY,M5: open #75332643 buy stop 0.01 USDJPY at 111.308 sl: 111.254 tp: 111.416 ok
+2	10:18:51.605	ax_adv_033_2 USDJPY,M5: open #75333100 buy stop 0.01 USDJPY at 111.330 sl: 111.257 tp: 111.476 ok
+2	10:18:51.605	ax_adv_033_2 GBPUSD,M5: open #75333101 buy stop 0.01 GBPUSD at 1.23935 sl: 1.23867 tp: 1.24071 ok
+2	10:18:54.777	ax_adv_033_2 EURUSD,M5: open #75333107 sell stop 0.01 EURUSD at 1.05816 sl: 1.05858 tp: 1.05732 ok
+0	10:21:45.735	Exp2 XAGUSD,H1: uninit reason 4
+0	10:21:45.845	Expert Exp2 XAGUSD,H1: removed
+0	10:22:03.578	Automated trading disabled
+3	10:23:50.910	ax_adv_033_2 GBPUSD,M5: trade operations not allowed by settings
+0	10:23:50.923	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23938 slippage=3 sl=1.23859 tp=1.24096 comment= exp=1491820801
+3	10:23:51.114	ax_adv_033_2 EURUSD,M5: trade operations not allowed by settings
+0	10:23:51.174	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05793 slippage=3 sl=1.05866 tp=1.05647 comment= exp=1491820801
+3	10:23:51.384	ax_adv_033_2 USDJPY,M5: trade operations not allowed by settings
+0	10:23:51.414	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.339 slippage=3 sl=111.273 tp=111.471 comment= exp=1491820801
+0	10:28:51.242	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23933 slippage=3 sl=1.23857 tp=1.24085 comment= exp=1491821101
+0	10:28:51.242	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.328 slippage=3 sl=111.244 tp=111.496 comment= exp=1491821101
+0	10:28:51.242	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05786 slippage=3 sl=1.05856 tp=1.05646 comment= exp=1491821101
+0	10:33:50.938	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23955 slippage=3 sl=1.23869 tp=1.24127 comment= exp=1491821401
+0	10:33:51.788	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.327 slippage=3 sl=111.248 tp=111.485 comment= exp=1491821402
+0	10:33:52.068	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05799 slippage=3 sl=1.05853 tp=1.05691 comment= exp=1491821402
+0	10:38:50.844	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.277 slippage=3 sl=111.373 tp=111.085 comment= exp=1491821701
+0	10:38:51.007	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24052 slippage=3 sl=1.23896 tp=1.24364 comment= exp=1491821701
+0	10:38:52.812	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05801 slippage=3 sl=1.05848 tp=1.05707 comment= exp=1491821703
+0	10:43:51.179	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.298 slippage=3 sl=111.353 tp=111.188 comment= exp=1491822001
+0	10:43:51.192	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05817 slippage=3 sl=1.05863 tp=1.05725 comment= exp=1491822001
+0	10:48:50.825	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24020 slippage=3 sl=1.23937 tp=1.24186 comment= exp=1491822301
+0	10:48:51.454	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.304 slippage=3 sl=111.362 tp=111.188 comment= exp=1491822301
+0	10:48:52.258	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05820 slippage=3 sl=1.05868 tp=1.05724 comment= exp=1491822302
+0	10:53:50.991	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24012 slippage=3 sl=1.23956 tp=1.24124 comment= exp=1491822601
+0	10:53:51.207	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05821 slippage=3 sl=1.05877 tp=1.05709 comment= exp=1491822601
+0	10:53:51.208	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.324 slippage=3 sl=111.374 tp=111.224 comment= exp=1491822601
+0	10:58:50.959	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23946 slippage=3 sl=1.24009 tp=1.23820 comment= exp=1491822901
+0	10:58:51.574	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05835 slippage=3 sl=1.05882 tp=1.05741 comment= exp=1491822901
+0	11:03:51.616	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23965 slippage=3 sl=1.24027 tp=1.23841 comment= exp=1491823202
+0	11:03:53.065	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05846 slippage=3 sl=1.05903 tp=1.05732 comment= exp=1491823203
+0	11:08:51.816	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23957 slippage=3 sl=1.24029 tp=1.23813 comment= exp=1491823502
+0	11:13:50.832	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23963 slippage=3 sl=1.24062 tp=1.23765 comment= exp=1491823801
+0	11:18:51.131	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.258 slippage=3 sl=111.320 tp=111.134 comment= exp=1491824101
+0	11:18:51.131	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23975 slippage=3 sl=1.24068 tp=1.23789 comment= exp=1491824101
+0	11:23:51.015	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.296 slippage=3 sl=111.346 tp=111.196 comment= exp=1491824401
+0	11:23:51.017	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23994 slippage=3 sl=1.24059 tp=1.23864 comment= exp=1491824401
+0	11:28:50.869	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23979 slippage=3 sl=1.24037 tp=1.23863 comment= exp=1491824701
+0	11:28:53.102	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.301 slippage=3 sl=111.348 tp=111.207 comment= exp=1491824703
+0	11:28:53.254	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05833 slippage=3 sl=1.05779 tp=1.05941 comment= exp=1491824703
+0	11:33:50.935	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23955 slippage=3 sl=1.24019 tp=1.23827 comment= exp=1491825001
+0	11:33:52.370	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.311 slippage=3 sl=111.373 tp=111.187 comment= exp=1491825002
+0	11:38:51.013	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23955 slippage=3 sl=1.24025 tp=1.23815 comment= exp=1491825301
+0	11:38:52.357	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.343 slippage=3 sl=111.403 tp=111.223 comment= exp=1491825302
+0	11:43:50.877	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23974 slippage=3 sl=1.24050 tp=1.23822 comment= exp=1491825601
+0	11:43:52.507	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05779 slippage=3 sl=1.05831 tp=1.05675 comment= exp=1491825602
+0	11:48:50.828	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23970 slippage=3 sl=1.24061 tp=1.23788 comment= exp=1491825901
+0	11:48:50.835	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05800 slippage=3 sl=1.05842 tp=1.05716 comment= exp=1491825901
+0	11:53:53.553	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05800 slippage=3 sl=1.05862 tp=1.05676 comment= exp=1491826203
+0	11:53:55.050	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23966 slippage=3 sl=1.24029 tp=1.23840 comment= exp=1491826205
+0	11:58:51.101	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23971 slippage=3 sl=1.24036 tp=1.23841 comment= exp=1491826501
+0	11:58:51.105	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05806 slippage=3 sl=1.05874 tp=1.05670 comment= exp=1491826501
+0	12:03:52.759	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.346 slippage=3 sl=111.276 tp=111.486 comment= exp=1491826803
+0	12:03:54.806	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23934 slippage=3 sl=1.24017 tp=1.23768 comment= exp=1491826805
+0	12:04:02.624	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05836 slippage=3 sl=1.05882 tp=1.05744 comment= exp=1491826812
+0	12:08:50.766	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23987 slippage=3 sl=1.23925 tp=1.24111 comment= exp=1491827101
+0	12:08:50.776	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05836 slippage=3 sl=1.05879 tp=1.05750 comment= exp=1491827101
+0	12:08:51.778	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.315 slippage=3 sl=111.260 tp=111.425 comment= exp=1491827102
+0	12:13:50.718	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23993 slippage=3 sl=1.23925 tp=1.24129 comment= exp=1491827401
+0	12:18:51.184	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24001 slippage=3 sl=1.23943 tp=1.24117 comment= exp=1491827701
+0	12:23:51.146	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.282 slippage=3 sl=111.328 tp=111.190 comment= exp=1491828001
+0	12:28:50.899	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.235 slippage=3 sl=111.342 tp=111.021 comment= exp=1491828301
+0	12:33:53.218	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.236 slippage=3 sl=111.296 tp=111.116 comment= exp=1491828603
+0	12:38:50.851	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05836 slippage=3 sl=1.05765 tp=1.05978 comment= exp=1491828901
+0	12:38:51.851	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.235 slippage=3 sl=111.286 tp=111.133 comment= exp=1491828902
+0	12:43:51.662	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05824 slippage=3 sl=1.05776 tp=1.05920 comment= exp=1491829202
+0	12:43:54.135	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.252 slippage=3 sl=111.318 tp=111.120 comment= exp=1491829204
+0	12:58:54.398	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23924 slippage=3 sl=1.24000 tp=1.23772 comment= exp=1491830102
+0	12:58:54.398	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.175 slippage=3 sl=111.242 tp=111.041 comment= exp=1491830102
+0	12:58:54.408	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05760 slippage=3 sl=1.05835 tp=1.05610 comment= exp=1491830102
+0	13:03:51.528	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05758 slippage=3 sl=1.05810 tp=1.05654 comment= exp=1491830401
+0	13:03:51.918	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23954 slippage=3 sl=1.24018 tp=1.23826 comment= exp=1491830402
+0	13:03:53.318	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.187 slippage=3 sl=111.236 tp=111.089 comment= exp=1491830403
+0	13:08:50.952	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05738 slippage=3 sl=1.05810 tp=1.05594 comment= exp=1491830701
+0	13:08:51.132	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.178 slippage=3 sl=111.251 tp=111.032 comment= exp=1491830701
+0	13:08:51.132	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23956 slippage=3 sl=1.24010 tp=1.23848 comment= exp=1491830701
+0	13:13:51.521	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23944 slippage=3 sl=1.24007 tp=1.23818 comment= exp=1491831001
+0	13:13:52.791	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.170 slippage=3 sl=111.222 tp=111.066 comment= exp=1491831003
+0	13:13:53.201	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05729 slippage=3 sl=1.05785 tp=1.05617 comment= exp=1491831003
+0	13:18:50.883	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.180 slippage=3 sl=111.232 tp=111.076 comment= exp=1491831301
+0	13:18:50.885	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05729 slippage=3 sl=1.05782 tp=1.05623 comment= exp=1491831301
+0	13:23:50.907	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05743 slippage=3 sl=1.05785 tp=1.05659 comment= exp=1491831601
+0	13:23:52.401	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.195 slippage=3 sl=111.255 tp=111.075 comment= exp=1491831602
+0	13:28:50.825	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05757 slippage=3 sl=1.05803 tp=1.05665 comment= exp=1491831901
+0	13:28:51.015	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23983 slippage=3 sl=1.23896 tp=1.24157 comment= exp=1491831901
+0	13:33:51.660	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05756 slippage=3 sl=1.05809 tp=1.05650 comment= exp=1491832202
+0	13:38:51.384	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05755 slippage=3 sl=1.05815 tp=1.05635 comment= exp=1491832501
+0	13:38:52.799	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.233 slippage=3 sl=111.292 tp=111.115 comment= exp=1491832503
+0	13:43:50.809	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05762 slippage=3 sl=1.05813 tp=1.05660 comment= exp=1491832801
+0	13:43:51.622	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.220 slippage=3 sl=111.301 tp=111.058 comment= exp=1491832801
+0	13:48:51.486	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23988 slippage=3 sl=1.24075 tp=1.23814 comment= exp=1491833101
+0	13:48:51.487	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.200 slippage=3 sl=111.265 tp=111.070 comment= exp=1491833101
+0	13:53:51.104	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24005 slippage=3 sl=1.24054 tp=1.23907 comment= exp=1491833401
+0	13:53:51.107	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05748 slippage=3 sl=1.05804 tp=1.05636 comment= exp=1491833401
+0	13:53:52.102	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.197 slippage=3 sl=111.251 tp=111.089 comment= exp=1491833402
+0	13:58:52.078	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05754 slippage=3 sl=1.05794 tp=1.05674 comment= exp=1491833701
+0	13:58:52.267	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.216 slippage=3 sl=111.256 tp=111.136 comment= exp=1491833701
+0	14:03:50.896	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.229 slippage=3 sl=111.269 tp=111.149 comment= exp=1491834001
+0	14:03:50.902	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05753 slippage=3 sl=1.05802 tp=1.05655 comment= exp=1491834001
+0	14:08:50.755	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05728 slippage=3 sl=1.05796 tp=1.05592 comment= exp=1491834301
+0	14:08:51.957	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.249 slippage=3 sl=111.312 tp=111.123 comment= exp=1491834302
+0	14:13:50.861	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.268 slippage=3 sl=111.335 tp=111.134 comment= exp=1491834601
+0	14:13:51.468	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05716 slippage=3 sl=1.05778 tp=1.05592 comment= exp=1491834601
+0	14:13:53.474	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24050 slippage=3 sl=1.23982 tp=1.24186 comment= exp=1491834603
+0	14:18:50.879	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24050 slippage=3 sl=1.23984 tp=1.24182 comment= exp=1491834901
+0	14:18:50.881	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.260 slippage=3 sl=111.336 tp=111.108 comment= exp=1491834901
+0	14:18:50.886	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05705 slippage=3 sl=1.05763 tp=1.05589 comment= exp=1491834901
+0	14:23:53.306	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24058 slippage=3 sl=1.23986 tp=1.24202 comment= exp=1491835203
+0	14:23:59.722	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05700 slippage=3 sl=1.05747 tp=1.05606 comment= exp=1491835209
+0	14:28:50.838	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05685 slippage=3 sl=1.05740 tp=1.05575 comment= exp=1491835501
+0	14:28:53.471	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24032 slippage=3 sl=1.23969 tp=1.24158 comment= exp=1491835503
+0	14:33:51.629	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05764 slippage=3 sl=1.05686 tp=1.05920 comment= exp=1491835801
+0	14:33:52.225	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24029 slippage=3 sl=1.23951 tp=1.24185 comment= exp=1491835802
+0	14:38:51.208	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.296 slippage=3 sl=111.352 tp=111.184 comment= exp=1491836101
+0	14:38:51.209	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24055 slippage=3 sl=1.23984 tp=1.24197 comment= exp=1491836101
+0	14:38:52.232	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05717 slippage=3 sl=1.05809 tp=1.05533 comment= exp=1491836102
+0	14:43:51.003	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05778 slippage=3 sl=1.05838 tp=1.05658 comment= exp=1491836401
+0	14:43:51.394	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.290 slippage=3 sl=111.338 tp=111.194 comment= exp=1491836401
+0	14:48:51.395	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.270 slippage=3 sl=111.331 tp=111.148 comment= exp=1491836701
+0	14:48:51.403	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05794 slippage=3 sl=1.05848 tp=1.05686 comment= exp=1491836701
+0	14:53:51.408	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.338 slippage=3 sl=111.279 tp=111.456 comment= exp=1491837001
+0	14:53:52.852	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05769 slippage=3 sl=1.05839 tp=1.05629 comment= exp=1491837003
+0	14:58:51.027	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.343 slippage=3 sl=111.285 tp=111.459 comment= exp=1491837301
+0	15:03:51.062	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.344 slippage=3 sl=111.294 tp=111.444 comment= exp=1491837601
+0	15:03:51.273	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23992 slippage=3 sl=1.23902 tp=1.24172 comment= exp=1491837601
+0	15:08:52.637	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24000 slippage=3 sl=1.23938 tp=1.24124 comment= exp=1491837902
+0	15:08:53.257	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.323 slippage=3 sl=111.272 tp=111.425 comment= exp=1491837903
+0	15:13:52.215	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05807 slippage=3 sl=1.05753 tp=1.05915 comment= exp=1491838202
+0	15:13:52.410	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.328 slippage=3 sl=111.272 tp=111.440 comment= exp=1491838202
+0	15:18:50.915	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.394 slippage=3 sl=111.269 tp=111.644 comment= exp=1491838501
+0	15:23:51.323	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.418 slippage=3 sl=111.333 tp=111.588 comment= exp=1491838801
+0	15:23:57.390	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05775 slippage=3 sl=1.05720 tp=1.05885 comment= exp=1491838807
+0	15:28:51.149	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23882 slippage=3 sl=1.23961 tp=1.23724 comment= exp=1491839101
+0	15:28:51.548	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.427 slippage=3 sl=111.369 tp=111.543 comment= exp=1491839101
+0	15:33:51.151	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23900 slippage=3 sl=1.23965 tp=1.23770 comment= exp=1491839401
+0	15:33:52.398	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.406 slippage=3 sl=111.341 tp=111.536 comment= exp=1491839402
+0	15:33:52.401	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05719 slippage=3 sl=1.05771 tp=1.05615 comment= exp=1491839402
+0	15:38:51.765	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.388 slippage=3 sl=111.318 tp=111.528 comment= exp=1491839702
+0	15:38:51.974	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05740 slippage=3 sl=1.05819 tp=1.05582 comment= exp=1491839702
+0	15:38:55.571	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23940 slippage=3 sl=1.24037 tp=1.23746 comment= exp=1491839705
+0	15:43:52.296	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23972 slippage=3 sl=1.24046 tp=1.23824 comment= exp=1491840002
+0	15:43:52.693	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.384 slippage=3 sl=111.302 tp=111.548 comment= exp=1491840002
+0	15:43:54.117	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05748 slippage=3 sl=1.05818 tp=1.05608 comment= exp=1491840004
+0	15:48:50.781	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05763 slippage=3 sl=1.05810 tp=1.05669 comment= exp=1491840301
+0	15:48:51.382	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.362 slippage=3 sl=111.298 tp=111.490 comment= exp=1491840301
+0	15:48:55.516	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23969 slippage=3 sl=1.24015 tp=1.23877 comment= exp=1491840305
+0	15:53:50.882	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.23977 slippage=3 sl=1.24038 tp=1.23855 comment= exp=1491840601
+0	15:53:50.882	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.326 slippage=3 sl=111.254 tp=111.470 comment= exp=1491840601
+0	15:53:56.215	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05747 slippage=3 sl=1.05824 tp=1.05593 comment= exp=1491840606
+0	15:58:51.174	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.321 slippage=3 sl=111.257 tp=111.449 comment= exp=1491840901
+0	16:03:51.194	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.299 slippage=3 sl=111.238 tp=111.421 comment= exp=1491841201
+0	16:08:51.063	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24070 slippage=3 sl=1.23996 tp=1.24218 comment= exp=1491841501
+0	16:13:51.126	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24066 slippage=3 sl=1.24014 tp=1.24170 comment= exp=1491841801
+0	16:13:52.326	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05904 slippage=3 sl=1.05838 tp=1.06036 comment= exp=1491841802
+0	16:18:50.913	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24060 slippage=3 sl=1.23995 tp=1.24190 comment= exp=1491842101
+0	16:18:51.146	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05910 slippage=3 sl=1.05834 tp=1.06062 comment= exp=1491842101
+0	16:23:50.874	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24091 slippage=3 sl=1.24012 tp=1.24249 comment= exp=1491842401
+0	16:28:50.979	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24152 slippage=3 sl=1.24039 tp=1.24378 comment= exp=1491842701
+0	16:28:51.173	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.260 slippage=3 sl=111.188 tp=111.404 comment= exp=1491842701
+0	16:28:51.597	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05908 slippage=3 sl=1.05853 tp=1.06018 comment= exp=1491842701
+0	16:33:50.889	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.273 slippage=3 sl=111.197 tp=111.425 comment= exp=1491843001
+0	16:33:50.895	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05898 slippage=3 sl=1.05844 tp=1.06006 comment= exp=1491843001
+0	16:33:52.086	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24143 slippage=3 sl=1.24088 tp=1.24253 comment= exp=1491843002
+0	16:38:51.034	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.205 slippage=3 sl=111.299 tp=111.017 comment= exp=1491843301
+0	16:38:51.035	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24141 slippage=3 sl=1.24081 tp=1.24261 comment= exp=1491843301
+0	16:38:51.247	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05914 slippage=3 sl=1.05852 tp=1.06038 comment= exp=1491843301
+0	16:43:52.279	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.248 slippage=3 sl=111.297 tp=111.150 comment= exp=1491843602
+0	16:43:52.280	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24175 slippage=3 sl=1.24066 tp=1.24393 comment= exp=1491843602
+0	16:43:52.437	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05965 slippage=3 sl=1.05861 tp=1.06173 comment= exp=1491843602
+0	16:48:50.984	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.263 slippage=3 sl=111.337 tp=111.115 comment= exp=1491843901
+0	16:48:51.191	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05962 slippage=3 sl=1.05916 tp=1.06054 comment= exp=1491843901
+0	16:48:51.787	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24223 slippage=3 sl=1.24117 tp=1.24435 comment= exp=1491843902
+0	16:53:50.818	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.261 slippage=3 sl=111.336 tp=111.111 comment= exp=1491844201
+0	16:53:50.823	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24148 slippage=3 sl=1.24203 tp=1.24038 comment= exp=1491844201
+0	16:53:50.824	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05979 slippage=3 sl=1.05907 tp=1.06123 comment= exp=1491844201
+0	16:58:50.919	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.206 slippage=3 sl=111.302 tp=111.014 comment= exp=1491844501
+0	16:58:50.923	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24163 slippage=3 sl=1.24215 tp=1.24059 comment= exp=1491844501
+0	16:58:50.928	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06005 slippage=3 sl=1.05919 tp=1.06177 comment= exp=1491844501
+0	17:03:52.315	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24128 slippage=3 sl=1.24219 tp=1.23946 comment= exp=1491844802
+0	17:03:53.930	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05986 slippage=3 sl=1.05927 tp=1.06104 comment= exp=1491844804
+0	17:08:50.961	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05989 slippage=3 sl=1.05927 tp=1.06113 comment= exp=1491845101
+0	17:08:52.383	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24137 slippage=3 sl=1.24192 tp=1.24027 comment= exp=1491845102
+0	17:13:51.114	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24212 slippage=3 sl=1.24117 tp=1.24402 comment= exp=1491845401
+0	17:13:51.944	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06014 slippage=3 sl=1.05944 tp=1.06154 comment= exp=1491845402
+0	17:13:53.367	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.132 slippage=3 sl=111.224 tp=110.948 comment= exp=1491845403
+0	17:18:50.868	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24196 slippage=3 sl=1.24117 tp=1.24354 comment= exp=1491845701
+0	17:18:50.878	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05997 slippage=3 sl=1.05918 tp=1.06155 comment= exp=1491845701
+0	17:18:53.166	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.139 slippage=3 sl=111.197 tp=111.023 comment= exp=1491845703
+0	17:23:50.979	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24161 slippage=3 sl=1.24099 tp=1.24285 comment= exp=1491846001
+0	17:23:51.382	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.153 slippage=3 sl=111.209 tp=111.041 comment= exp=1491846001
+0	17:23:52.409	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05956 slippage=3 sl=1.05895 tp=1.06078 comment= exp=1491846002
+0	17:28:50.984	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.134 slippage=3 sl=111.214 tp=110.974 comment= exp=1491846301
+0	17:28:50.985	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24131 slippage=3 sl=1.24055 tp=1.24283 comment= exp=1491846301
+0	17:28:53.390	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05964 slippage=3 sl=1.05899 tp=1.06094 comment= exp=1491846303
+0	17:33:50.897	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05955 slippage=3 sl=1.05901 tp=1.06063 comment= exp=1491846601
+0	17:33:51.103	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.153 slippage=3 sl=111.256 tp=110.947 comment= exp=1491846601
+0	17:33:51.319	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24140 slippage=3 sl=1.24066 tp=1.24288 comment= exp=1491846601
+0	17:38:51.630	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.191 slippage=3 sl=111.282 tp=111.009 comment= exp=1491846901
+0	17:38:52.630	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05951 slippage=3 sl=1.05889 tp=1.06075 comment= exp=1491846902
+0	17:38:53.230	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24140 slippage=3 sl=1.24079 tp=1.24262 comment= exp=1491846903
+0	17:43:50.761	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24147 slippage=3 sl=1.24089 tp=1.24263 comment= exp=1491847202
+0	17:43:51.754	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05952 slippage=3 sl=1.05899 tp=1.06058 comment= exp=1491847202
+0	17:48:50.077	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24215 slippage=3 sl=1.24089 tp=1.24467 comment= exp=1491847501
+0	17:48:51.894	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06000 slippage=3 sl=1.05905 tp=1.06190 comment= exp=1491847503
+0	17:53:50.100	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24301 slippage=3 sl=1.24163 tp=1.24577 comment= exp=1491847801
+0	17:53:50.499	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06055 slippage=3 sl=1.05955 tp=1.06255 comment= exp=1491847801
+0	17:58:49.927	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24298 slippage=3 sl=1.24239 tp=1.24416 comment= exp=1491848101
+0	17:58:49.929	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.092 slippage=3 sl=111.193 tp=110.890 comment= exp=1491848101
+0	17:58:49.934	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06044 slippage=3 sl=1.05975 tp=1.06182 comment= exp=1491848101
+0	18:03:51.947	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.110 slippage=3 sl=111.174 tp=110.982 comment= exp=1491848403
+0	18:03:52.148	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24279 slippage=3 sl=1.24188 tp=1.24461 comment= exp=1491848403
+0	18:03:56.214	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06011 slippage=3 sl=1.05954 tp=1.06125 comment= exp=1491848407
+0	18:08:49.967	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.105 slippage=3 sl=111.170 tp=110.975 comment= exp=1491848701
+0	18:08:49.973	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06023 slippage=3 sl=1.05959 tp=1.06151 comment= exp=1491848701
+0	18:08:52.371	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24268 slippage=3 sl=1.24199 tp=1.24406 comment= exp=1491848703
+0	18:13:49.800	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06025 slippage=3 sl=1.05977 tp=1.06121 comment= exp=1491849001
+0	18:13:49.993	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.122 slippage=3 sl=111.203 tp=110.960 comment= exp=1491849001
+0	18:13:49.994	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24253 slippage=3 sl=1.24208 tp=1.24343 comment= exp=1491849001
+0	18:18:49.799	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24255 slippage=3 sl=1.24203 tp=1.24359 comment= exp=1491849301
+0	18:18:50.444	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.154 slippage=3 sl=111.214 tp=111.034 comment= exp=1491849301
+0	18:18:50.659	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06032 slippage=3 sl=1.05968 tp=1.06160 comment= exp=1491849301
+0	18:23:49.993	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06039 slippage=3 sl=1.05987 tp=1.06143 comment= exp=1491849601
+0	18:23:50.185	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24257 slippage=3 sl=1.24200 tp=1.24371 comment= exp=1491849601
+0	18:28:49.821	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06063 slippage=3 sl=1.05993 tp=1.06203 comment= exp=1491849901
+0	18:28:50.029	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24266 slippage=3 sl=1.24200 tp=1.24398 comment= exp=1491849901
+0	18:33:49.885	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.031 slippage=3 sl=111.169 tp=110.755 comment= exp=1491850201
+0	18:33:49.890	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06067 slippage=3 sl=1.06000 tp=1.06201 comment= exp=1491850201
+0	18:33:50.085	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24270 slippage=3 sl=1.24218 tp=1.24374 comment= exp=1491850201
+0	18:38:49.942	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.033 slippage=3 sl=111.087 tp=110.925 comment= exp=1491850501
+0	18:38:50.548	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06078 slippage=3 sl=1.06017 tp=1.06200 comment= exp=1491850501
+0	18:38:51.114	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24248 slippage=3 sl=1.24190 tp=1.24364 comment= exp=1491850502
+0	18:43:49.895	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.018 slippage=3 sl=111.099 tp=110.856 comment= exp=1491850801
+0	18:43:50.500	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06014 slippage=3 sl=1.06065 tp=1.05912 comment= exp=1491850801
+0	18:43:52.337	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24244 slippage=3 sl=1.24128 tp=1.24476 comment= exp=1491850803
+0	18:48:50.300	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.993 slippage=3 sl=111.082 tp=110.815 comment= exp=1491851101
+0	18:48:50.306	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06014 slippage=3 sl=1.06070 tp=1.05902 comment= exp=1491851101
+0	18:48:53.170	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24240 slippage=3 sl=1.24146 tp=1.24428 comment= exp=1491851104
+0	18:54:00.583	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.988 slippage=3 sl=111.048 tp=110.868 comment= exp=1491851411
+0	18:54:01.223	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06013 slippage=3 sl=1.06063 tp=1.05913 comment= exp=1491851412
+0	18:58:50.026	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.028 slippage=3 sl=110.921 tp=111.242 comment= exp=1491851701
+0	18:58:51.008	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06016 slippage=3 sl=1.06075 tp=1.05898 comment= exp=1491851702
+0	19:03:50.623	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06024 slippage=3 sl=1.06070 tp=1.05932 comment= exp=1491852001
+0	19:03:50.815	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.979 slippage=3 sl=110.896 tp=111.145 comment= exp=1491852002
+0	19:08:49.999	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06017 slippage=3 sl=1.06067 tp=1.05917 comment= exp=1491852301
+0	19:08:50.392	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.969 slippage=3 sl=110.847 tp=111.213 comment= exp=1491852301
+0	19:13:50.024	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06006 slippage=3 sl=1.06069 tp=1.05880 comment= exp=1491852601
+0	19:13:50.025	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.889 slippage=3 sl=110.794 tp=111.079 comment= exp=1491852601
+0	19:18:50.327	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.874 slippage=3 sl=110.812 tp=110.998 comment= exp=1491852901
+0	19:18:50.332	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06064 slippage=3 sl=1.06016 tp=1.06160 comment= exp=1491852901
+0	19:23:50.240	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06049 slippage=3 sl=1.05999 tp=1.06149 comment= exp=1491853201
+0	19:23:51.034	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.893 slippage=3 sl=110.814 tp=111.051 comment= exp=1491853202
+0	19:28:50.044	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.930 slippage=3 sl=110.841 tp=111.108 comment= exp=1491853501
+0	19:28:50.649	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06052 slippage=3 sl=1.05994 tp=1.06168 comment= exp=1491853501
+0	19:33:50.741	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.945 slippage=3 sl=110.863 tp=111.109 comment= exp=1491853801
+0	19:33:55.480	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06046 slippage=3 sl=1.05999 tp=1.06140 comment= exp=1491853806
+0	19:38:51.738	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.928 slippage=3 sl=110.874 tp=111.036 comment= exp=1491854102
+0	19:38:55.598	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06045 slippage=3 sl=1.05994 tp=1.06147 comment= exp=1491854106
+0	19:43:50.060	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.950 slippage=3 sl=110.877 tp=111.096 comment= exp=1491854401
+0	19:43:50.065	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06046 slippage=3 sl=1.05998 tp=1.06142 comment= exp=1491854401
+0	19:48:49.975	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.881 slippage=3 sl=110.954 tp=110.735 comment= exp=1491854701
+0	19:48:50.184	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06044 slippage=3 sl=1.05997 tp=1.06138 comment= exp=1491854701
+0	19:53:50.199	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.917 slippage=3 sl=110.971 tp=110.809 comment= exp=1491855001
+0	19:53:50.809	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06055 slippage=3 sl=1.05996 tp=1.06173 comment= exp=1491855002
+0	19:58:50.017	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.936 slippage=3 sl=110.984 tp=110.840 comment= exp=1491855301
+0	19:58:50.022	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06033 slippage=3 sl=1.05969 tp=1.06161 comment= exp=1491855301
+0	20:03:50.137	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.908 slippage=3 sl=110.986 tp=110.752 comment= exp=1491855601
+0	20:08:53.065	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.926 slippage=3 sl=110.978 tp=110.822 comment= exp=1491855904
+0	20:08:53.071	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06011 slippage=3 sl=1.05961 tp=1.06111 comment= exp=1491855904
+0	20:13:50.476	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.905 slippage=3 sl=110.985 tp=110.745 comment= exp=1491856201
+0	20:18:54.906	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.908 slippage=3 sl=110.962 tp=110.800 comment= exp=1491856506
+0	20:23:49.948	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.923 slippage=3 sl=110.965 tp=110.839 comment= exp=1491856801
+0	20:28:50.906	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.899 slippage=3 sl=110.966 tp=110.765 comment= exp=1491857102
+0	20:33:50.777	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.923 slippage=3 sl=110.989 tp=110.791 comment= exp=1491857402
+0	20:38:50.481	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.944 slippage=3 sl=111.038 tp=110.756 comment= exp=1491857701
+0	20:43:51.144	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.948 slippage=3 sl=111.005 tp=110.834 comment= exp=1491858002
+0	20:43:54.860	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05957 slippage=3 sl=1.06002 tp=1.05867 comment= exp=1491858006
+0	20:48:50.154	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.924 slippage=3 sl=110.992 tp=110.788 comment= exp=1491858301
+0	20:48:51.602	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05965 slippage=3 sl=1.06007 tp=1.05881 comment= exp=1491858302
+0	20:53:51.822	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05965 slippage=3 sl=1.06007 tp=1.05881 comment= exp=1491858603
+0	20:58:53.803	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05960 slippage=3 sl=1.06011 tp=1.05858 comment= exp=1491858905
+0	21:03:50.842	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05970 slippage=3 sl=1.06044 tp=1.05822 comment= exp=1491859202
+0	21:13:52.320	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06001 slippage=3 sl=1.06046 tp=1.05911 comment= exp=1491859803
+0	21:18:50.713	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.856 slippage=3 sl=110.927 tp=110.714 comment= exp=1491860101
+0	21:23:50.350	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.869 slippage=3 sl=110.928 tp=110.751 comment= exp=1491860401
+0	21:28:50.294	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.845 slippage=3 sl=110.920 tp=110.695 comment= exp=1491860701
+0	21:28:50.728	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24259 slippage=3 sl=1.24215 tp=1.24347 comment= exp=1491860701
+0	21:33:51.258	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.850 slippage=3 sl=110.906 tp=110.738 comment= exp=1491861002
+0	21:34:00.606	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24270 slippage=3 sl=1.24209 tp=1.24392 comment= exp=1491861011
+0	21:38:49.878	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.871 slippage=3 sl=110.920 tp=110.773 comment= exp=1491861301
+0	21:38:52.078	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24259 slippage=3 sl=1.24198 tp=1.24381 comment= exp=1491861303
+0	21:43:49.842	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24245 slippage=3 sl=1.24189 tp=1.24357 comment= exp=1491861601
+0	21:43:50.040	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.881 slippage=3 sl=110.951 tp=110.741 comment= exp=1491861601
+0	21:48:49.842	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.909 slippage=3 sl=110.971 tp=110.785 comment= exp=1491861901
+0	21:48:50.058	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24222 slippage=3 sl=1.24167 tp=1.24332 comment= exp=1491861901
+0	21:53:49.839	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24188 slippage=3 sl=1.24137 tp=1.24290 comment= exp=1491862201
+0	21:53:49.845	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.06009 slippage=3 sl=1.05961 tp=1.06105 comment= exp=1491862201
+0	21:53:50.041	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.925 slippage=3 sl=110.984 tp=110.807 comment= exp=1491862201
+0	21:58:50.033	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.930 slippage=3 sl=110.984 tp=110.822 comment= exp=1491862501
+0	21:58:50.034	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24205 slippage=3 sl=1.24125 tp=1.24365 comment= exp=1491862501
+0	21:58:50.233	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05985 slippage=3 sl=1.05929 tp=1.06097 comment= exp=1491862501
+0	22:03:51.558	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.920 slippage=3 sl=110.993 tp=110.774 comment= exp=1491862802
+0	22:03:51.560	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24200 slippage=3 sl=1.24082 tp=1.24436 comment= exp=1491862802
+0	22:18:49.956	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05953 slippage=3 sl=1.05905 tp=1.06049 comment= exp=1491863701
+0	22:23:50.049	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24087 slippage=3 sl=1.24162 tp=1.23937 comment= exp=1491864001
+0	22:23:50.862	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05976 slippage=3 sl=1.05901 tp=1.06126 comment= exp=1491864002
+0	22:28:50.014	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05965 slippage=3 sl=1.05909 tp=1.06077 comment= exp=1491864301
+0	22:28:50.435	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24095 slippage=3 sl=1.24157 tp=1.23971 comment= exp=1491864301
+0	22:33:50.084	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24086 slippage=3 sl=1.24141 tp=1.23976 comment= exp=1491864601
+0	22:33:50.700	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.026 slippage=3 sl=110.954 tp=111.170 comment= exp=1491864601
+0	22:33:52.191	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05968 slippage=3 sl=1.05905 tp=1.06094 comment= exp=1491864603
+0	22:38:49.858	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24088 slippage=3 sl=1.24132 tp=1.24000 comment= exp=1491864901
+0	22:38:49.865	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05967 slippage=3 sl=1.05917 tp=1.06067 comment= exp=1491864901
+0	22:38:50.055	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.056 slippage=3 sl=110.974 tp=111.220 comment= exp=1491864901
+0	22:43:50.624	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.030 slippage=3 sl=110.953 tp=111.184 comment= exp=1491865201
+0	22:43:51.438	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24075 slippage=3 sl=1.24132 tp=1.23961 comment= exp=1491865202
+0	22:43:52.032	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05897 slippage=3 sl=1.05954 tp=1.05783 comment= exp=1491865203
+0	22:48:50.075	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.980 slippage=3 sl=110.902 tp=111.136 comment= exp=1491865501
+0	22:48:50.903	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05917 slippage=3 sl=1.05965 tp=1.05821 comment= exp=1491865502
+0	22:48:51.691	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24086 slippage=3 sl=1.24152 tp=1.23954 comment= exp=1491865502
+0	22:53:50.009	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24096 slippage=3 sl=1.24148 tp=1.23992 comment= exp=1491865801
+0	22:53:50.221	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05920 slippage=3 sl=1.05965 tp=1.05830 comment= exp=1491865801
+0	22:53:50.222	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.960 slippage=3 sl=110.899 tp=111.082 comment= exp=1491865801
+0	22:58:49.853	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24070 slippage=3 sl=1.24149 tp=1.23912 comment= exp=1491866101
+0	22:58:50.056	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.984 slippage=3 sl=110.899 tp=111.154 comment= exp=1491866101
+0	22:58:50.261	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05895 slippage=3 sl=1.05968 tp=1.05749 comment= exp=1491866101
+0	23:03:51.316	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24072 slippage=3 sl=1.24115 tp=1.23986 comment= exp=1491866402
+0	23:03:55.110	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05892 slippage=3 sl=1.05937 tp=1.05802 comment= exp=1491866406
+0	23:03:55.112	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.997 slippage=3 sl=110.929 tp=111.133 comment= exp=1491866406
+0	23:08:49.816	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24131 slippage=3 sl=1.24083 tp=1.24227 comment= exp=1491866701
+0	23:08:56.590	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05886 slippage=3 sl=1.05934 tp=1.05790 comment= exp=1491866707
+0	23:13:50.688	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24074 slippage=3 sl=1.24124 tp=1.23974 comment= exp=1491867001
+0	23:13:52.294	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05886 slippage=3 sl=1.05934 tp=1.05790 comment= exp=1491867003
+0	23:18:49.920	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24067 slippage=3 sl=1.24114 tp=1.23973 comment= exp=1491867301
+0	23:18:49.927	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05887 slippage=3 sl=1.05935 tp=1.05791 comment= exp=1491867301
+0	23:18:50.115	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.974 slippage=3 sl=111.018 tp=110.886 comment= exp=1491867301
+0	23:23:50.098	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24130 slippage=3 sl=1.24046 tp=1.24298 comment= exp=1491867601
+0	23:23:50.104	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05851 slippage=3 sl=1.05929 tp=1.05695 comment= exp=1491867601
+0	23:28:50.089	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05868 slippage=3 sl=1.05935 tp=1.05734 comment= exp=1491867901
+0	23:28:52.578	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24124 slippage=3 sl=1.24065 tp=1.24242 comment= exp=1491867903
+0	23:33:50.957	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05909 slippage=3 sl=1.05959 tp=1.05809 comment= exp=1491868202
+0	23:33:53.631	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=111.017 slippage=3 sl=110.906 tp=111.239 comment= exp=1491868204
+0	23:34:01.662	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24077 slippage=3 sl=1.24142 tp=1.23947 comment= exp=1491868212
+0	23:38:50.271	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.932 slippage=3 sl=110.846 tp=111.104 comment= exp=1491868501
+0	23:38:51.274	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24100 slippage=3 sl=1.24147 tp=1.24006 comment= exp=1491868502
+0	23:38:51.281	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05924 slippage=3 sl=1.05978 tp=1.05816 comment= exp=1491868502
+0	23:43:49.938	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.924 slippage=3 sl=110.845 tp=111.082 comment= exp=1491868801
+0	23:43:52.339	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24091 slippage=3 sl=1.24141 tp=1.23991 comment= exp=1491868803
+0	23:43:53.142	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05921 slippage=3 sl=1.05968 tp=1.05827 comment= exp=1491868804
+0	23:48:49.783	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24090 slippage=3 sl=1.24136 tp=1.23998 comment= exp=1491869101
+0	23:48:50.382	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(4109)trade is not allowed in the expert properties USDJPY lot=0.01 price=110.933 slippage=3 sl=110.862 tp=111.075 comment= exp=1491869101
+0	23:48:50.801	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties EURUSD lot=0.01 price=1.05914 slippage=3 sl=1.05963 tp=1.05816 comment= exp=1491869102
+0	23:53:49.854	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24092 slippage=3 sl=1.24137 tp=1.24002 comment= exp=1491869401
+0	23:58:59.721	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(4109)trade is not allowed in the expert properties GBPUSD lot=0.01 price=1.24108 slippage=3 sl=1.24183 tp=1.23958 comment= exp=1491869710

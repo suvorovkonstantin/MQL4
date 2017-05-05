@@ -1,0 +1,547 @@
+2	00:02:18.183	ax_adv_033_2 GBPUSD,M5: open #74992582 sell stop 0.01 GBPUSD at 1.24291 sl: 1.24432 tp: 1.24009 ok
+2	00:02:18.183	ax_adv_033_2 USDJPY,M5: open #74992583 buy stop 0.01 USDJPY at 110.786 sl: 110.724 tp: 110.910 ok
+2	00:02:43.193	ax_adv_033_2 EURUSD,M5: open #74992599 buy stop 0.01 EURUSD at 1.06762 sl: 1.06668 tp: 1.06950 ok
+0	00:07:25.308	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24395 slippage=3 sl=1.24435 tp=1.24315 comment= exp=1491351910
+2	00:07:34.267	ax_adv_033_2 USDJPY,M5: open #74992706 buy stop 0.01 USDJPY at 110.785 sl: 110.731 tp: 110.893 ok
+0	00:07:44.529	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06772 slippage=3 sl=1.06713 tp=1.06890 comment= exp=1491351929
+2	00:12:18.151	ax_adv_033_2 EURUSD,M5: open #74992841 buy stop 0.01 EURUSD at 1.06760 sl: 1.06711 tp: 1.06858 ok
+2	00:12:18.151	ax_adv_033_2 GBPUSD,M5: open #74992842 sell stop 0.01 GBPUSD at 1.24399 sl: 1.24443 tp: 1.24311 ok
+2	00:12:54.771	ax_adv_033_2 USDJPY,M5: open #74992860 buy stop 0.01 USDJPY at 110.783 sl: 110.732 tp: 110.885 ok
+2	00:17:19.983	ax_adv_033_2 USDJPY,M5: open #74993089 buy stop 0.01 USDJPY at 110.754 sl: 110.692 tp: 110.878 ok
+2	00:17:23.248	ax_adv_033_2 GBPUSD,M5: open #74993091 sell stop 0.01 GBPUSD at 1.24376 sl: 1.24441 tp: 1.24246 ok
+2	00:17:33.177	ax_adv_033_2 EURUSD,M5: open #74993098 buy stop 0.01 EURUSD at 1.06766 sl: 1.06705 tp: 1.06888 ok
+2	00:22:17.234	ax_adv_033_2 EURUSD,M5: open #74993238 buy stop 0.01 EURUSD at 1.06782 sl: 1.06718 tp: 1.06910 ok
+2	00:22:20.276	ax_adv_033_2 GBPUSD,M5: open #74993242 sell stop 0.01 GBPUSD at 1.24384 sl: 1.24426 tp: 1.24300 ok
+2	00:22:21.263	ax_adv_033_2 USDJPY,M5: open #74993246 buy stop 0.01 USDJPY at 110.742 sl: 110.690 tp: 110.846 ok
+2	00:27:17.320	ax_adv_033_2 EURUSD,M5: open #74993447 buy stop 0.01 EURUSD at 1.06789 sl: 1.06732 tp: 1.06903 ok
+2	00:27:29.280	ax_adv_033_2 USDJPY,M5: open #74993458 buy stop 0.01 USDJPY at 110.735 sl: 110.667 tp: 110.871 ok
+2	00:27:33.132	ax_adv_033_2 GBPUSD,M5: open #74993463 sell stop 0.01 GBPUSD at 1.24400 sl: 1.24445 tp: 1.24310 ok
+2	00:32:22.174	ax_adv_033_2 USDJPY,M5: open #74993676 buy stop 0.01 USDJPY at 110.752 sl: 110.625 tp: 111.006 ok
+2	00:32:32.125	ax_adv_033_2 EURUSD,M5: open #74993681 buy stop 0.01 EURUSD at 1.06791 sl: 1.06722 tp: 1.06929 ok
+2	00:37:57.164	ax_adv_033_2 EURUSD,M5: open #74993842 buy stop 0.01 EURUSD at 1.06786 sl: 1.06741 tp: 1.06876 ok
+2	00:42:23.116	ax_adv_033_2 EURUSD,M5: open #74993904 buy stop 0.01 EURUSD at 1.06789 sl: 1.06741 tp: 1.06885 ok
+2	00:47:25.986	ax_adv_033_2 EURUSD,M5: open #74994018 buy stop 0.01 EURUSD at 1.06788 sl: 1.06740 tp: 1.06884 ok
+0	00:52:17.203	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.674 slippage=3 sl=110.725 tp=110.572 comment= exp=1491354602
+2	00:52:19.167	ax_adv_033_2 EURUSD,M5: open #74994124 buy stop 0.01 EURUSD at 1.06787 sl: 1.06742 tp: 1.06877 ok
+0	00:57:16.702	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06842 slippage=3 sl=1.06742 tp=1.07042 comment= exp=1491354901
+0	00:57:17.235	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.737 slippage=3 sl=110.666 tp=110.879 comment= exp=1491354902
+0	01:02:17.100	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06831 slippage=3 sl=1.06771 tp=1.06951 comment= exp=1491355202
+0	01:02:18.005	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.750 slippage=3 sl=110.674 tp=110.902 comment= exp=1491355203
+2	01:07:16.730	ax_adv_033_2 USDJPY,M5: open #74995541 buy stop 0.01 USDJPY at 110.734 sl: 110.677 tp: 110.848 ok
+2	01:07:17.893	ax_adv_033_2 EURUSD,M5: open #74995545 buy stop 0.01 EURUSD at 1.06851 sl: 1.06781 tp: 1.06991 ok
+2	01:12:17.933	ax_adv_033_2 USDJPY,M5: open #74995887 buy stop 0.01 USDJPY at 110.739 sl: 110.670 tp: 110.877 ok
+2	01:12:17.933	ax_adv_033_2 EURUSD,M5: open #74995897 buy stop 0.01 EURUSD at 1.06847 sl: 1.06795 tp: 1.06951 ok
+0	01:17:18.002	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06849 slippage=3 sl=1.06799 tp=1.06949 comment= exp=1491356102
+0	01:17:18.287	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.755 slippage=3 sl=110.685 tp=110.895 comment= exp=1491356103
+0	01:22:17.193	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.639 slippage=3 sl=110.730 tp=110.457 comment= exp=1491356402
+2	01:22:17.193	ax_adv_033_2 EURUSD,M5: open #74996481 sell stop 0.01 EURUSD at 1.06796 sl: 1.06855 tp: 1.06678 ok
+2	01:27:19.041	ax_adv_033_2 USDJPY,M5: open #74996683 sell stop 0.01 USDJPY at 110.653 sl: 110.710 tp: 110.539 ok
+2	01:27:19.237	ax_adv_033_2 EURUSD,M5: open #74996688 sell stop 0.01 EURUSD at 1.06786 sl: 1.06860 tp: 1.06638 ok
+2	01:32:18.274	ax_adv_033_2 USDJPY,M5: open #74997115 sell stop 0.01 USDJPY at 110.672 sl: 110.764 tp: 110.488 ok
+2	01:32:18.274	ax_adv_033_2 EURUSD,M5: open #74997113 sell stop 0.01 EURUSD at 1.06770 sl: 1.06830 tp: 1.06650 ok
+2	01:37:17.245	ax_adv_033_2 EURUSD,M5: open #74997507 buy stop 0.01 EURUSD at 1.06820 sl: 1.06770 tp: 1.06920 ok
+2	01:37:17.245	ax_adv_033_2 USDJPY,M5: open #74997508 sell stop 0.01 USDJPY at 110.727 sl: 110.777 tp: 110.627 ok
+2	01:42:17.244	ax_adv_033_2 USDJPY,M5: open #74998128 sell stop 0.01 USDJPY at 110.747 sl: 110.856 tp: 110.529 ok
+2	01:42:17.244	ax_adv_033_2 GBPUSD,M5: open #74998130 sell stop 0.01 GBPUSD at 1.24273 sl: 1.24386 tp: 1.24047 ok
+2	01:42:20.134	ax_adv_033_2 EURUSD,M5: open #74998154 buy stop 0.01 EURUSD at 1.06821 sl: 1.06770 tp: 1.06923 ok
+2	01:47:17.936	ax_adv_033_2 USDJPY,M5: open #74998495 sell stop 0.01 USDJPY at 110.769 sl: 110.852 tp: 110.603 ok
+2	01:47:18.138	ax_adv_033_2 GBPUSD,M5: open #74998497 sell stop 0.01 GBPUSD at 1.24293 sl: 1.24353 tp: 1.24173 ok
+2	01:47:23.187	ax_adv_033_2 EURUSD,M5: open #74998503 buy stop 0.01 EURUSD at 1.06824 sl: 1.06769 tp: 1.06934 ok
+2	01:52:17.688	ax_adv_033_2 EURUSD,M5: open #74998740 buy stop 0.01 EURUSD at 1.06821 sl: 1.06771 tp: 1.06921 ok
+2	01:52:22.167	ax_adv_033_2 GBPUSD,M5: open #74998750 sell stop 0.01 GBPUSD at 1.24328 sl: 1.24377 tp: 1.24230 ok
+0	01:57:17.183	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24342 slippage=3 sl=1.24389 tp=1.24248 comment= exp=1491358502
+2	01:57:17.390	ax_adv_033_2 EURUSD,M5: open #74999055 buy stop 0.01 EURUSD at 1.06825 sl: 1.06755 tp: 1.06965 ok
+2	02:02:18.274	ax_adv_033_2 EURUSD,M5: open #74999499 buy stop 0.01 EURUSD at 1.06804 sl: 1.06750 tp: 1.06912 ok
+2	02:02:20.129	ax_adv_033_2 USDJPY,M5: open #74999500 buy stop 0.01 USDJPY at 110.856 sl: 110.783 tp: 111.002 ok
+2	02:02:32.295	ax_adv_033_2 GBPUSD,M5: open #74999502 sell stop 0.01 GBPUSD at 1.24321 sl: 1.24382 tp: 1.24199 ok
+2	02:07:23.280	ax_adv_033_2 USDJPY,M5: open #74999657 buy stop 0.01 USDJPY at 110.843 sl: 110.791 tp: 110.947 ok
+2	02:07:41.578	ax_adv_033_2 EURUSD,M5: open #74999666 buy stop 0.01 EURUSD at 1.06823 sl: 1.06759 tp: 1.06951 ok
+0	02:12:17.972	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06805 slippage=3 sl=1.06758 tp=1.06899 comment= exp=1491359402
+2	02:12:26.317	ax_adv_033_2 USDJPY,M5: open #74999863 buy stop 0.01 USDJPY at 110.849 sl: 110.772 tp: 111.003 ok
+2	02:12:28.895	ax_adv_033_2 GBPUSD,M5: open #74999868 sell stop 0.01 GBPUSD at 1.24350 sl: 1.24400 tp: 1.24250 ok
+2	02:17:29.321	ax_adv_033_2 USDJPY,M5: open #75000037 buy stop 0.01 USDJPY at 110.847 sl: 110.796 tp: 110.949 ok
+2	02:17:32.129	ax_adv_033_2 GBPUSD,M5: open #75000044 sell stop 0.01 GBPUSD at 1.24359 sl: 1.24404 tp: 1.24269 ok
+2	02:22:17.004	ax_adv_033_2 GBPUSD,M5: open #75000178 sell stop 0.01 GBPUSD at 1.24362 sl: 1.24404 tp: 1.24278 ok
+2	02:22:18.049	ax_adv_033_2 USDJPY,M5: open #75000179 buy stop 0.01 USDJPY at 110.837 sl: 110.791 tp: 110.929 ok
+2	02:27:19.015	ax_adv_033_2 GBPUSD,M5: open #75000392 sell stop 0.01 GBPUSD at 1.24349 sl: 1.24410 tp: 1.24227 ok
+2	02:27:21.241	ax_adv_033_2 USDJPY,M5: open #75000394 buy stop 0.01 USDJPY at 110.842 sl: 110.786 tp: 110.954 ok
+2	02:32:17.098	ax_adv_033_2 USDJPY,M5: open #75000635 buy stop 0.01 USDJPY at 110.865 sl: 110.785 tp: 111.025 ok
+2	02:32:21.231	ax_adv_033_2 GBPUSD,M5: open #75000640 sell stop 0.01 GBPUSD at 1.24368 sl: 1.24417 tp: 1.24270 ok
+0	02:37:16.598	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24383 slippage=3 sl=1.24424 tp=1.24301 comment= exp=1491360901
+0	02:37:16.963	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.912 slippage=3 sl=110.809 tp=111.118 comment= exp=1491360901
+2	02:42:17.286	ax_adv_033_2 USDJPY,M5: open #75001278 buy stop 0.01 USDJPY at 110.927 sl: 110.840 tp: 111.101 ok
+2	02:47:18.071	ax_adv_033_2 USDJPY,M5: open #75001771 buy stop 0.01 USDJPY at 110.931 sl: 110.863 tp: 111.067 ok
+2	02:52:16.725	ax_adv_033_2 USDJPY,M5: open #75001985 buy stop 0.01 USDJPY at 110.924 sl: 110.871 tp: 111.030 ok
+2	02:57:17.222	ax_adv_033_2 USDJPY,M5: open #75002288 buy stop 0.01 USDJPY at 110.898 sl: 110.824 tp: 111.046 ok
+2	03:02:18.183	ax_adv_033_2 USDJPY,M5: open #75002758 buy stop 0.01 USDJPY at 110.898 sl: 110.808 tp: 111.078 ok
+2	03:07:28.281	ax_adv_033_2 GBPUSD,M5: open #75003092 buy stop 0.01 GBPUSD at 1.24476 sl: 1.24410 tp: 1.24608 ok
+2	03:12:18.103	ax_adv_033_2 GBPUSD,M5: open #75003356 buy stop 0.01 GBPUSD at 1.24482 sl: 1.24414 tp: 1.24618 ok
+2	03:17:28.913	ax_adv_033_2 GBPUSD,M5: open #75003735 buy stop 0.01 GBPUSD at 1.24477 sl: 1.24429 tp: 1.24573 ok
+2	03:22:18.071	ax_adv_033_2 USDJPY,M5: open #75004049 buy stop 0.01 USDJPY at 110.837 sl: 110.769 tp: 110.973 ok
+2	03:22:38.186	ax_adv_033_2 GBPUSD,M5: open #75004060 buy stop 0.01 GBPUSD at 1.24479 sl: 1.24426 tp: 1.24585 ok
+2	03:27:18.009	ax_adv_033_2 USDJPY,M5: open #75004261 buy stop 0.01 USDJPY at 110.851 sl: 110.770 tp: 111.013 ok
+2	03:27:25.149	ax_adv_033_2 GBPUSD,M5: open #75004282 buy stop 0.01 GBPUSD at 1.24477 sl: 1.24428 tp: 1.24575 ok
+2	03:32:17.967	ax_adv_033_2 GBPUSD,M5: open #75004630 buy stop 0.01 GBPUSD at 1.24453 sl: 1.24407 tp: 1.24545 ok
+2	03:32:18.173	ax_adv_033_2 USDJPY,M5: open #75004631 buy stop 0.01 USDJPY at 110.876 sl: 110.780 tp: 111.068 ok
+2	03:37:17.301	ax_adv_033_2 GBPUSD,M5: open #75004895 buy stop 0.01 GBPUSD at 1.24464 sl: 1.24406 tp: 1.24580 ok
+0	03:42:17.919	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24475 slippage=3 sl=1.24419 tp=1.24587 comment= exp=1491364802
+2	03:47:17.948	ax_adv_033_2 GBPUSD,M5: open #75005489 buy stop 0.01 GBPUSD at 1.24498 sl: 1.24428 tp: 1.24638 ok
+2	03:52:17.294	ax_adv_033_2 GBPUSD,M5: open #75005794 buy stop 0.01 GBPUSD at 1.24477 sl: 1.24419 tp: 1.24593 ok
+2	03:52:17.294	ax_adv_033_2 USDJPY,M5: open #75005796 buy stop 0.01 USDJPY at 110.848 sl: 110.750 tp: 111.044 ok
+2	03:57:17.129	ax_adv_033_2 GBPUSD,M5: open #75006194 buy stop 0.01 GBPUSD at 1.24463 sl: 1.24397 tp: 1.24595 ok
+2	03:57:17.970	ax_adv_033_2 USDJPY,M5: open #75006202 buy stop 0.01 USDJPY at 110.806 sl: 110.723 tp: 110.972 ok
+2	04:02:23.220	ax_adv_033_2 GBPUSD,M5: open #75006630 buy stop 0.01 GBPUSD at 1.24467 sl: 1.24401 tp: 1.24599 ok
+0	04:07:22.804	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24465 slippage=3 sl=1.24413 tp=1.24569 comment= exp=1491366307
+2	04:12:17.287	ax_adv_033_2 GBPUSD,M5: open #75007219 buy stop 0.01 GBPUSD at 1.24460 sl: 1.24397 tp: 1.24586 ok
+0	04:22:18.006	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.736 slippage=3 sl=110.813 tp=110.582 comment= exp=1491367202
+0	04:27:17.280	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.718 slippage=3 sl=110.810 tp=110.534 comment= exp=1491367502
+2	04:27:17.280	ax_adv_033_2 GBPUSD,M5: open #75008199 buy stop 0.01 GBPUSD at 1.24508 sl: 1.24417 tp: 1.24690 ok
+2	04:32:16.959	ax_adv_033_2 USDJPY,M5: open #75008511 sell stop 0.01 USDJPY at 110.672 sl: 110.767 tp: 110.482 ok
+2	04:37:24.107	ax_adv_033_2 USDJPY,M5: open #75008812 sell stop 0.01 USDJPY at 110.691 sl: 110.762 tp: 110.549 ok
+2	04:42:17.291	ax_adv_033_2 USDJPY,M5: open #75009120 sell stop 0.01 USDJPY at 110.691 sl: 110.759 tp: 110.555 ok
+2	04:47:16.850	ax_adv_033_2 USDJPY,M5: open #75009436 sell stop 0.01 USDJPY at 110.690 sl: 110.749 tp: 110.572 ok
+2	04:52:17.128	ax_adv_033_2 USDJPY,M5: open #75009669 sell stop 0.01 USDJPY at 110.704 sl: 110.769 tp: 110.574 ok
+2	04:57:17.792	ax_adv_033_2 USDJPY,M5: open #75009980 sell stop 0.01 USDJPY at 110.741 sl: 110.794 tp: 110.635 ok
+2	05:02:25.113	ax_adv_033_2 USDJPY,M5: open #75010262 sell stop 0.01 USDJPY at 110.733 sl: 110.791 tp: 110.617 ok
+2	05:07:18.327	ax_adv_033_2 USDJPY,M5: open #75010456 sell stop 0.01 USDJPY at 110.729 sl: 110.779 tp: 110.629 ok
+2	05:07:21.334	ax_adv_033_2 GBPUSD,M5: open #75010461 buy stop 0.01 GBPUSD at 1.24496 sl: 1.24448 tp: 1.24592 ok
+2	05:12:18.251	ax_adv_033_2 USDJPY,M5: open #75010681 sell stop 0.01 USDJPY at 110.739 sl: 110.780 tp: 110.657 ok
+0	05:12:21.081	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24487 slippage=3 sl=1.24440 tp=1.24581 comment= exp=1491370205
+2	05:17:27.284	ax_adv_033_2 USDJPY,M5: open #75010958 sell stop 0.01 USDJPY at 110.723 sl: 110.780 tp: 110.609 ok
+2	05:22:16.954	ax_adv_033_2 USDJPY,M5: open #75011162 sell stop 0.01 USDJPY at 110.709 sl: 110.766 tp: 110.595 ok
+0	05:27:18.284	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.717 slippage=3 sl=110.773 tp=110.605 comment= exp=1491371103
+2	05:27:19.281	ax_adv_033_2 GBPUSD,M5: open #75011361 buy stop 0.01 GBPUSD at 1.24505 sl: 1.24438 tp: 1.24639 ok
+2	05:32:21.256	ax_adv_033_2 GBPUSD,M5: open #75011756 buy stop 0.01 GBPUSD at 1.24492 sl: 1.24436 tp: 1.24604 ok
+2	05:32:22.272	ax_adv_033_2 USDJPY,M5: open #75011758 sell stop 0.01 USDJPY at 110.706 sl: 110.761 tp: 110.596 ok
+2	05:37:21.940	ax_adv_033_2 GBPUSD,M5: open #75011951 buy stop 0.01 GBPUSD at 1.24495 sl: 1.24441 tp: 1.24603 ok
+2	05:37:34.127	ax_adv_033_2 USDJPY,M5: open #75011954 sell stop 0.01 USDJPY at 110.708 sl: 110.754 tp: 110.616 ok
+2	05:42:17.114	ax_adv_033_2 USDJPY,M5: open #75012147 sell stop 0.01 USDJPY at 110.702 sl: 110.754 tp: 110.598 ok
+2	05:42:18.101	ax_adv_033_2 GBPUSD,M5: open #75012149 buy stop 0.01 GBPUSD at 1.24487 sl: 1.24437 tp: 1.24587 ok
+0	05:47:16.556	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24480 slippage=3 sl=1.24427 tp=1.24586 comment= exp=1491372301
+0	05:47:22.516	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.706 slippage=3 sl=110.749 tp=110.620 comment= exp=1491372307
+2	05:52:17.336	ax_adv_033_2 GBPUSD,M5: open #75012524 buy stop 0.01 GBPUSD at 1.24475 sl: 1.24426 tp: 1.24573 ok
+2	05:52:17.339	ax_adv_033_2 EURUSD,M5: open #75012525 sell stop 0.01 EURUSD at 1.06748 sl: 1.06795 tp: 1.06654 ok
+2	05:52:23.217	ax_adv_033_2 USDJPY,M5: open #75012532 sell stop 0.01 USDJPY at 110.696 sl: 110.749 tp: 110.590 ok
+0	05:57:16.719	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24474 slippage=3 sl=1.24425 tp=1.24572 comment= exp=1491372901
+2	05:57:18.147	ax_adv_033_2 EURUSD,M5: open #75012730 sell stop 0.01 EURUSD at 1.06743 sl: 1.06790 tp: 1.06649 ok
+0	05:57:19.661	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.761 slippage=3 sl=110.710 tp=110.863 comment= exp=1491372904
+0	06:02:18.018	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06728 slippage=3 sl=1.06783 tp=1.06618 comment= exp=1491373203
+2	06:02:18.293	ax_adv_033_2 GBPUSD,M5: open #75013011 buy stop 0.01 GBPUSD at 1.24467 sl: 1.24415 tp: 1.24571 ok
+2	06:02:19.285	ax_adv_033_2 USDJPY,M5: open #75013015 buy stop 0.01 USDJPY at 110.774 sl: 110.714 tp: 110.894 ok
+0	06:07:18.107	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.702 slippage=3 sl=110.763 tp=110.580 comment= exp=1491373503
+0	06:07:18.358	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06736 slippage=3 sl=1.06781 tp=1.06646 comment= exp=1491373503
+2	06:12:22.478	ax_adv_033_2 EURUSD,M5: open #75013551 sell stop 0.01 EURUSD at 1.06739 sl: 1.06784 tp: 1.06649 ok
+2	06:12:23.155	ax_adv_033_2 USDJPY,M5: open #75013552 sell stop 0.01 USDJPY at 110.695 sl: 110.747 tp: 110.591 ok
+2	06:17:18.994	ax_adv_033_2 USDJPY,M5: open #75013760 sell stop 0.01 USDJPY at 110.670 sl: 110.735 tp: 110.540 ok
+0	06:17:21.069	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06742 slippage=3 sl=1.06785 tp=1.06656 comment= exp=1491374106
+2	06:22:18.560	ax_adv_033_2 EURUSD,M5: open #75013944 sell stop 0.01 EURUSD at 1.06741 sl: 1.06786 tp: 1.06651 ok
+2	06:22:19.210	ax_adv_033_2 USDJPY,M5: open #75013945 buy stop 0.01 USDJPY at 110.721 sl: 110.654 tp: 110.855 ok
+0	06:27:16.703	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.697 slippage=3 sl=110.651 tp=110.789 comment= exp=1491374701
+2	06:27:17.143	ax_adv_033_2 EURUSD,M5: open #75014142 buy stop 0.01 EURUSD at 1.06806 sl: 1.06759 tp: 1.06900 ok
+0	06:32:17.201	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24444 slippage=3 sl=1.24392 tp=1.24548 comment= exp=1491375002
+2	06:32:17.201	ax_adv_033_2 USDJPY,M5: open #75014514 buy stop 0.01 USDJPY at 110.674 sl: 110.562 tp: 110.898 ok
+2	06:32:18.635	ax_adv_033_2 EURUSD,M5: open #75014517 sell stop 0.01 EURUSD at 1.06753 sl: 1.06794 tp: 1.06671 ok
+2	06:37:17.104	ax_adv_033_2 USDJPY,M5: open #75014810 buy stop 0.01 USDJPY at 110.658 sl: 110.563 tp: 110.848 ok
+2	06:37:18.312	ax_adv_033_2 EURUSD,M5: open #75014817 sell stop 0.01 EURUSD at 1.06752 sl: 1.06793 tp: 1.06670 ok
+2	06:37:18.312	ax_adv_033_2 GBPUSD,M5: open #75014816 buy stop 0.01 GBPUSD at 1.24457 sl: 1.24396 tp: 1.24579 ok
+2	06:42:17.042	ax_adv_033_2 EURUSD,M5: open #75015108 sell stop 0.01 EURUSD at 1.06739 sl: 1.06793 tp: 1.06631 ok
+2	06:42:18.266	ax_adv_033_2 USDJPY,M5: open #75015113 buy stop 0.01 USDJPY at 110.638 sl: 110.586 tp: 110.742 ok
+2	06:42:18.266	ax_adv_033_2 GBPUSD,M5: open #75015115 sell stop 0.01 GBPUSD at 1.24400 sl: 1.24447 tp: 1.24306 ok
+2	06:47:17.916	ax_adv_033_2 USDJPY,M5: open #75015379 buy stop 0.01 USDJPY at 110.662 sl: 110.574 tp: 110.838 ok
+2	06:47:21.240	ax_adv_033_2 GBPUSD,M5: open #75015387 sell stop 0.01 GBPUSD at 1.24415 sl: 1.24468 tp: 1.24309 ok
+0	06:47:21.240	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06746 slippage=3 sl=1.06789 tp=1.06660 comment= exp=1491375906
+2	06:52:17.368	ax_adv_033_2 EURUSD,M5: open #75015614 sell stop 0.01 EURUSD at 1.06748 sl: 1.06790 tp: 1.06664 ok
+2	06:52:17.368	ax_adv_033_2 USDJPY,M5: open #75015615 buy stop 0.01 USDJPY at 110.667 sl: 110.606 tp: 110.789 ok
+2	06:52:19.307	ax_adv_033_2 GBPUSD,M5: open #75015616 sell stop 0.01 GBPUSD at 1.24438 sl: 1.24484 tp: 1.24346 ok
+2	06:57:17.292	ax_adv_033_2 GBPUSD,M5: open #75015821 sell stop 0.01 GBPUSD at 1.24442 sl: 1.24483 tp: 1.24360 ok
+2	06:57:18.297	ax_adv_033_2 USDJPY,M5: open #75015831 buy stop 0.01 USDJPY at 110.646 sl: 110.595 tp: 110.748 ok
+2	06:57:20.309	ax_adv_033_2 EURUSD,M5: open #75015855 sell stop 0.01 EURUSD at 1.06742 sl: 1.06790 tp: 1.06646 ok
+2	07:02:17.298	ax_adv_033_2 USDJPY,M5: open #75016181 buy stop 0.01 USDJPY at 110.622 sl: 110.541 tp: 110.784 ok
+2	07:02:17.503	ax_adv_033_2 EURUSD,M5: open #75016183 sell stop 0.01 EURUSD at 1.06745 sl: 1.06785 tp: 1.06665 ok
+2	07:07:16.978	ax_adv_033_2 USDJPY,M5: open #75016519 buy stop 0.01 USDJPY at 110.602 sl: 110.526 tp: 110.754 ok
+2	07:07:18.210	ax_adv_033_2 EURUSD,M5: open #75016520 sell stop 0.01 EURUSD at 1.06731 sl: 1.06787 tp: 1.06619 ok
+2	07:12:17.296	ax_adv_033_2 USDJPY,M5: open #75016844 buy stop 0.01 USDJPY at 110.615 sl: 110.555 tp: 110.735 ok
+2	07:12:26.033	ax_adv_033_2 EURUSD,M5: open #75016857 buy stop 0.01 EURUSD at 1.06786 sl: 1.06737 tp: 1.06884 ok
+0	07:17:21.199	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24508 slippage=3 sl=1.24451 tp=1.24622 comment= exp=1491377706
+0	07:17:23.060	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.625 slippage=3 sl=110.549 tp=110.777 comment= exp=1491377708
+2	07:17:23.669	ax_adv_033_2 EURUSD,M5: open #75017180 buy stop 0.01 EURUSD at 1.06789 sl: 1.06740 tp: 1.06887 ok
+2	07:22:17.975	ax_adv_033_2 GBPUSD,M5: open #75017334 buy stop 0.01 GBPUSD at 1.24504 sl: 1.24458 tp: 1.24596 ok
+0	07:22:23.818	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.636 slippage=3 sl=110.570 tp=110.768 comment= exp=1491378008
+2	07:22:34.236	ax_adv_033_2 EURUSD,M5: open #75017342 buy stop 0.01 EURUSD at 1.06786 sl: 1.06741 tp: 1.06876 ok
+0	07:27:17.187	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24506 slippage=3 sl=1.24438 tp=1.24642 comment= exp=1491378301
+2	07:27:17.187	ax_adv_033_2 EURUSD,M5: open #75017646 buy stop 0.01 EURUSD at 1.06783 sl: 1.06726 tp: 1.06897 ok
+0	07:27:17.531	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.650 slippage=3 sl=110.589 tp=110.772 comment= exp=1491378302
+0	07:32:19.981	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24505 slippage=3 sl=1.24449 tp=1.24617 comment= exp=1491378604
+2	07:32:20.202	ax_adv_033_2 USDJPY,M5: open #75017874 sell stop 0.01 USDJPY at 110.575 sl: 110.631 tp: 110.463 ok
+2	07:32:21.995	ax_adv_033_2 EURUSD,M5: open #75017876 buy stop 0.01 EURUSD at 1.06770 sl: 1.06724 tp: 1.06862 ok
+2	07:37:17.431	ax_adv_033_2 USDJPY,M5: open #75018010 sell stop 0.01 USDJPY at 110.579 sl: 110.625 tp: 110.487 ok
+2	07:37:38.149	ax_adv_033_2 EURUSD,M5: open #75018027 buy stop 0.01 EURUSD at 1.06763 sl: 1.06719 tp: 1.06851 ok
+2	07:42:17.151	ax_adv_033_2 USDJPY,M5: open #75018262 sell stop 0.01 USDJPY at 110.595 sl: 110.639 tp: 110.507 ok
+2	07:42:17.993	ax_adv_033_2 EURUSD,M5: open #75018264 buy stop 0.01 EURUSD at 1.06755 sl: 1.06706 tp: 1.06853 ok
+2	07:47:17.286	ax_adv_033_2 USDJPY,M5: open #75018532 sell stop 0.01 USDJPY at 110.595 sl: 110.660 tp: 110.465 ok
+0	07:47:20.354	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06761 slippage=3 sl=1.06704 tp=1.06875 comment= exp=1491379505
+0	07:52:16.620	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06764 slippage=3 sl=1.06712 tp=1.06868 comment= exp=1491379801
+2	07:52:17.737	ax_adv_033_2 USDJPY,M5: open #75018918 sell stop 0.01 USDJPY at 110.630 sl: 110.689 tp: 110.512 ok
+0	07:57:17.036	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.608 slippage=3 sl=110.691 tp=110.442 comment= exp=1491380102
+2	07:57:20.449	ax_adv_033_2 EURUSD,M5: open #75019315 buy stop 0.01 EURUSD at 1.06774 sl: 1.06717 tp: 1.06888 ok
+0	08:02:33.460	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.617 slippage=3 sl=110.661 tp=110.529 comment= exp=1491380418
+2	08:02:51.413	ax_adv_033_2 EURUSD,M5: open #75019670 buy stop 0.01 EURUSD at 1.06765 sl: 1.06712 tp: 1.06871 ok
+2	08:07:19.881	ax_adv_033_2 GBPUSD,M5: open #75019885 buy stop 0.01 GBPUSD at 1.24484 sl: 1.24433 tp: 1.24586 ok
+2	08:07:24.015	ax_adv_033_2 EURUSD,M5: open #75019892 buy stop 0.01 EURUSD at 1.06766 sl: 1.06717 tp: 1.06864 ok
+2	08:12:17.368	ax_adv_033_2 GBPUSD,M5: open #75020194 buy stop 0.01 GBPUSD at 1.24495 sl: 1.24438 tp: 1.24609 ok
+2	08:12:17.369	ax_adv_033_2 EURUSD,M5: open #75020195 buy stop 0.01 EURUSD at 1.06771 sl: 1.06721 tp: 1.06871 ok
+2	08:17:20.361	ax_adv_033_2 EURUSD,M5: open #75020430 buy stop 0.01 EURUSD at 1.06780 sl: 1.06727 tp: 1.06886 ok
+0	08:17:24.221	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24513 slippage=3 sl=1.24448 tp=1.24643 comment= exp=1491381309
+2	08:22:21.243	ax_adv_033_2 EURUSD,M5: open #75020754 buy stop 0.01 EURUSD at 1.06772 sl: 1.06726 tp: 1.06864 ok
+2	08:27:18.375	ax_adv_033_2 USDJPY,M5: open #75021057 sell stop 0.01 USDJPY at 110.614 sl: 110.674 tp: 110.494 ok
+2	08:27:19.211	ax_adv_033_2 EURUSD,M5: open #75021060 sell stop 0.01 EURUSD at 1.06712 sl: 1.06759 tp: 1.06618 ok
+2	08:32:17.409	ax_adv_033_2 USDJPY,M5: open #75021490 sell stop 0.01 USDJPY at 110.598 sl: 110.659 tp: 110.476 ok
+0	08:32:21.843	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06701 slippage=3 sl=1.06757 tp=1.06589 comment= exp=1491382206
+2	08:37:35.093	ax_adv_033_2 EURUSD,M5: open #75021808 sell stop 0.01 EURUSD at 1.06702 sl: 1.06747 tp: 1.06612 ok
+2	08:42:19.177	ax_adv_033_2 EURUSD,M5: open #75022163 sell stop 0.01 EURUSD at 1.06702 sl: 1.06750 tp: 1.06606 ok
+2	08:42:21.197	ax_adv_033_2 GBPUSD,M5: open #75022170 buy stop 0.01 GBPUSD at 1.24472 sl: 1.24426 tp: 1.24564 ok
+2	08:47:17.271	ax_adv_033_2 EURUSD,M5: open #75022572 sell stop 0.01 EURUSD at 1.06701 sl: 1.06749 tp: 1.06605 ok
+2	08:47:20.097	ax_adv_033_2 GBPUSD,M5: open #75022580 buy stop 0.01 GBPUSD at 1.24467 sl: 1.24416 tp: 1.24569 ok
+2	08:52:18.344	ax_adv_033_2 EURUSD,M5: open #75023095 sell stop 0.01 EURUSD at 1.06699 sl: 1.06757 tp: 1.06583 ok
+0	08:57:16.575	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06692 slippage=3 sl=1.06755 tp=1.06566 comment= exp=1491383701
+2	09:02:19.387	ax_adv_033_2 EURUSD,M5: open #75023705 sell stop 0.01 EURUSD at 1.06688 sl: 1.06737 tp: 1.06590 ok
+2	09:07:18.208	ax_adv_033_2 GBPUSD,M5: open #75023907 sell stop 0.01 GBPUSD at 1.24367 sl: 1.24441 tp: 1.24219 ok
+2	09:07:22.374	ax_adv_033_2 EURUSD,M5: open #75023915 sell stop 0.01 EURUSD at 1.06684 sl: 1.06748 tp: 1.06556 ok
+2	09:12:17.154	ax_adv_033_2 GBPUSD,M5: open #75024099 sell stop 0.01 GBPUSD at 1.24307 sl: 1.24412 tp: 1.24097 ok
+0	09:12:17.927	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06656 slippage=3 sl=1.06740 tp=1.06488 comment= exp=1491384602
+0	09:17:16.825	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06671 slippage=3 sl=1.06716 tp=1.06581 comment= exp=1491384901
+2	09:17:18.072	ax_adv_033_2 GBPUSD,M5: open #75024293 sell stop 0.01 GBPUSD at 1.24298 sl: 1.24384 tp: 1.24126 ok
+0	09:22:20.217	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24250 slippage=3 sl=1.24364 tp=1.24022 comment= exp=1491385205
+2	09:22:20.218	ax_adv_033_2 EURUSD,M5: open #75024639 sell stop 0.01 EURUSD at 1.06655 sl: 1.06711 tp: 1.06543 ok
+2	09:27:17.315	ax_adv_033_2 GBPUSD,M5: open #75025053 buy stop 0.01 GBPUSD at 1.24347 sl: 1.24256 tp: 1.24529 ok
+2	09:27:17.315	ax_adv_033_2 EURUSD,M5: open #75025056 sell stop 0.01 EURUSD at 1.06672 sl: 1.06717 tp: 1.06582 ok
+2	09:32:17.315	ax_adv_033_2 EURUSD,M5: open #75025524 sell stop 0.01 EURUSD at 1.06671 sl: 1.06727 tp: 1.06559 ok
+2	09:32:18.107	ax_adv_033_2 GBPUSD,M5: open #75025527 buy stop 0.01 GBPUSD at 1.24326 sl: 1.24257 tp: 1.24464 ok
+0	09:37:16.699	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24342 slippage=3 sl=1.24220 tp=1.24586 comment= exp=1491386101
+2	09:42:17.371	ax_adv_033_2 GBPUSD,M5: open #75026414 buy stop 0.01 GBPUSD at 1.24392 sl: 1.24297 tp: 1.24582 ok
+2	09:47:16.958	ax_adv_033_2 GBPUSD,M5: open #75026772 buy stop 0.01 GBPUSD at 1.24398 sl: 1.24338 tp: 1.24518 ok
+2	09:52:18.266	ax_adv_033_2 GBPUSD,M5: open #75027164 sell stop 0.01 GBPUSD at 1.24347 sl: 1.24401 tp: 1.24239 ok
+2	09:57:16.302	ax_adv_033_2 GBPUSD,M5: open #75027722 sell stop 0.01 GBPUSD at 1.24311 sl: 1.24429 tp: 1.24075 ok
+2	10:02:17.368	ax_adv_033_2 GBPUSD,M5: open #75028331 sell stop 0.01 GBPUSD at 1.24361 sl: 1.24456 tp: 1.24171 ok
+2	10:02:17.368	ax_adv_033_2 EURUSD,M5: open #75028332 sell stop 0.01 EURUSD at 1.06747 sl: 1.06848 tp: 1.06545 ok
+2	10:07:16.632	ax_adv_033_2 GBPUSD,M5: open #75028864 sell stop 0.01 GBPUSD at 1.24376 sl: 1.24454 tp: 1.24220 ok
+2	10:07:16.632	ax_adv_033_2 EURUSD,M5: open #75028865 sell stop 0.01 EURUSD at 1.06799 sl: 1.06846 tp: 1.06705 ok
+2	10:12:17.197	ax_adv_033_2 GBPUSD,M5: open #75029613 sell stop 0.01 GBPUSD at 1.24397 sl: 1.24458 tp: 1.24275 ok
+2	10:17:16.429	ax_adv_033_2 GBPUSD,M5: open #75030360 sell stop 0.01 GBPUSD at 1.24382 sl: 1.24473 tp: 1.24200 ok
+2	10:27:16.321	ax_adv_033_2 EURUSD,M5: open #75031393 buy stop 0.01 EURUSD at 1.06909 sl: 1.06856 tp: 1.07015 ok
+2	10:32:16.270	ax_adv_033_2 EURUSD,M5: open #75032038 buy stop 0.01 EURUSD at 1.06888 sl: 1.06812 tp: 1.07040 ok
+2	10:37:16.164	ax_adv_033_2 EURUSD,M5: open #75032584 buy stop 0.01 EURUSD at 1.06862 sl: 1.06799 tp: 1.06988 ok
+2	10:37:17.300	ax_adv_033_2 USDJPY,M5: open #75032589 buy stop 0.01 USDJPY at 110.670 sl: 110.615 tp: 110.780 ok
+2	10:42:16.344	ax_adv_033_2 EURUSD,M5: open #75033097 buy stop 0.01 EURUSD at 1.06847 sl: 1.06778 tp: 1.06985 ok
+2	10:42:18.217	ax_adv_033_2 USDJPY,M5: open #75033114 buy stop 0.01 USDJPY at 110.681 sl: 110.621 tp: 110.801 ok
+0	10:47:16.482	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.655 slippage=3 sl=110.604 tp=110.757 comment= exp=1491390302
+2	10:47:24.416	ax_adv_033_2 EURUSD,M5: open #75033662 buy stop 0.01 EURUSD at 1.06810 sl: 1.06756 tp: 1.06918 ok
+0	10:52:15.911	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24425 slippage=3 sl=1.24333 tp=1.24609 comment= exp=1491390601
+0	10:52:15.911	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06786 slippage=3 sl=1.06730 tp=1.06898 comment= exp=1491390601
+0	10:57:16.159	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06787 slippage=3 sl=1.06738 tp=1.06885 comment= exp=1491390902
+2	10:57:16.440	ax_adv_033_2 GBPUSD,M5: open #75034513 buy stop 0.01 GBPUSD at 1.24453 sl: 1.24380 tp: 1.24599 ok
+2	11:02:16.200	ax_adv_033_2 EURUSD,M5: open #75035134 buy stop 0.01 EURUSD at 1.06808 sl: 1.06737 tp: 1.06950 ok
+2	11:02:17.099	ax_adv_033_2 USDJPY,M5: open #75035138 sell stop 0.01 USDJPY at 110.587 sl: 110.644 tp: 110.473 ok
+0	11:07:16.410	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.599 slippage=3 sl=110.656 tp=110.485 comment= exp=1491391502
+2	11:12:16.979	ax_adv_033_2 USDJPY,M5: open #75036035 sell stop 0.01 USDJPY at 110.609 sl: 110.663 tp: 110.501 ok
+2	11:17:16.380	ax_adv_033_2 USDJPY,M5: open #75036493 sell stop 0.01 USDJPY at 110.641 sl: 110.712 tp: 110.499 ok
+2	11:22:16.178	ax_adv_033_2 USDJPY,M5: open #75036957 sell stop 0.01 USDJPY at 110.635 sl: 110.696 tp: 110.513 ok
+0	11:27:15.629	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.646 slippage=3 sl=110.695 tp=110.548 comment= exp=1491392701
+2	11:32:17.085	ax_adv_033_2 USDJPY,M5: open #75038585 sell stop 0.01 USDJPY at 110.658 sl: 110.731 tp: 110.512 ok
+2	11:37:16.335	ax_adv_033_2 EURUSD,M5: open #75039478 sell stop 0.01 EURUSD at 1.06756 sl: 1.06805 tp: 1.06658 ok
+2	11:42:16.369	ax_adv_033_2 EURUSD,M5: open #75040200 sell stop 0.01 EURUSD at 1.06748 sl: 1.06808 tp: 1.06628 ok
+2	11:52:16.350	ax_adv_033_2 USDJPY,M5: open #75041574 buy stop 0.01 USDJPY at 110.783 sl: 110.683 tp: 110.983 ok
+2	11:57:16.411	ax_adv_033_2 USDJPY,M5: open #75042298 buy stop 0.01 USDJPY at 110.827 sl: 110.736 tp: 111.009 ok
+2	11:57:16.411	ax_adv_033_2 GBPUSD,M5: open #75042299 buy stop 0.01 GBPUSD at 1.24743 sl: 1.24649 tp: 1.24931 ok
+0	12:02:15.881	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24794 slippage=3 sl=1.24659 tp=1.25064 comment= exp=1491394801
+0	12:02:16.489	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.837 slippage=3 sl=110.779 tp=110.953 comment= exp=1491394802
+0	12:07:16.812	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.889 slippage=3 sl=110.792 tp=111.083 comment= exp=1491395102
+2	12:12:17.439	ax_adv_033_2 USDJPY,M5: open #75044658 sell stop 0.01 USDJPY at 110.821 sl: 110.889 tp: 110.685 ok
+0	12:17:15.700	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06620 slippage=3 sl=1.06717 tp=1.06426 comment= exp=1491395701
+2	12:17:19.384	ax_adv_033_2 USDJPY,M5: open #75045377 sell stop 0.01 USDJPY at 110.839 sl: 110.891 tp: 110.735 ok
+0	12:22:16.478	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06619 slippage=3 sl=1.06672 tp=1.06513 comment= exp=1491396002
+2	12:22:17.084	ax_adv_033_2 USDJPY,M5: open #75046143 sell stop 0.01 USDJPY at 110.850 sl: 110.992 tp: 110.566 ok
+0	12:27:15.805	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.907 slippage=3 sl=110.982 tp=110.757 comment= exp=1491396301
+2	12:27:16.482	ax_adv_033_2 EURUSD,M5: open #75046783 buy stop 0.01 EURUSD at 1.06681 sl: 1.06611 tp: 1.06821 ok
+2	12:32:16.461	ax_adv_033_2 USDJPY,M5: open #75047544 sell stop 0.01 USDJPY at 110.896 sl: 110.978 tp: 110.732 ok
+0	12:32:16.461	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06717 slippage=3 sl=1.06621 tp=1.06909 comment= exp=1491396602
+0	12:37:16.646	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06706 slippage=3 sl=1.06650 tp=1.06818 comment= exp=1491396902
+2	12:37:17.365	ax_adv_033_2 USDJPY,M5: open #75048123 sell stop 0.01 USDJPY at 110.873 sl: 110.955 tp: 110.709 ok
+2	12:42:16.349	ax_adv_033_2 EURUSD,M5: open #75048835 buy stop 0.01 EURUSD at 1.06685 sl: 1.06616 tp: 1.06823 ok
+0	12:42:16.651	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.871 slippage=3 sl=110.929 tp=110.755 comment= exp=1491397202
+2	12:47:16.466	ax_adv_033_2 USDJPY,M5: open #75049497 sell stop 0.01 USDJPY at 110.874 sl: 110.920 tp: 110.782 ok
+2	12:47:17.118	ax_adv_033_2 EURUSD,M5: open #75049500 buy stop 0.01 EURUSD at 1.06690 sl: 1.06612 tp: 1.06846 ok
+2	12:47:18.127	ax_adv_033_2 GBPUSD,M5: open #75049502 buy stop 0.01 GBPUSD at 1.24844 sl: 1.24778 tp: 1.24976 ok
+2	12:52:16.472	ax_adv_033_2 USDJPY,M5: open #75050055 buy stop 0.01 USDJPY at 110.923 sl: 110.874 tp: 111.021 ok
+2	12:52:18.365	ax_adv_033_2 EURUSD,M5: open #75050062 buy stop 0.01 EURUSD at 1.06680 sl: 1.06617 tp: 1.06806 ok
+2	12:57:16.415	ax_adv_033_2 EURUSD,M5: open #75050928 sell stop 0.01 EURUSD at 1.06623 sl: 1.06694 tp: 1.06481 ok
+2	12:57:18.061	ax_adv_033_2 USDJPY,M5: open #75050955 buy stop 0.01 USDJPY at 110.911 sl: 110.855 tp: 111.023 ok
+2	13:02:16.395	ax_adv_033_2 USDJPY,M5: open #75051775 buy stop 0.01 USDJPY at 110.917 sl: 110.854 tp: 111.043 ok
+0	13:02:17.152	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06648 slippage=3 sl=1.06702 tp=1.06540 comment= exp=1491398403
+2	13:07:16.271	ax_adv_033_2 EURUSD,M5: open #75052366 sell stop 0.01 EURUSD at 1.06641 sl: 1.06706 tp: 1.06511 ok
+2	13:07:18.422	ax_adv_033_2 USDJPY,M5: open #75052370 buy stop 0.01 USDJPY at 110.975 sl: 110.868 tp: 111.189 ok
+0	13:12:15.840	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06642 slippage=3 sl=1.06690 tp=1.06546 comment= exp=1491399001
+2	13:12:17.284	ax_adv_033_2 USDJPY,M5: open #75052982 buy stop 0.01 USDJPY at 110.951 sl: 110.887 tp: 111.079 ok
+2	13:17:17.017	ax_adv_033_2 USDJPY,M5: open #75053693 buy stop 0.01 USDJPY at 110.916 sl: 110.860 tp: 111.028 ok
+0	13:17:22.740	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06624 slippage=3 sl=1.06691 tp=1.06490 comment= exp=1491399308
+2	13:22:16.225	ax_adv_033_2 USDJPY,M5: open #75054347 buy stop 0.01 USDJPY at 110.902 sl: 110.848 tp: 111.010 ok
+2	13:22:16.225	ax_adv_033_2 EURUSD,M5: open #75054348 sell stop 0.01 EURUSD at 1.06637 sl: 1.06689 tp: 1.06533 ok
+2	13:27:17.368	ax_adv_033_2 USDJPY,M5: open #75054953 buy stop 0.01 USDJPY at 110.879 sl: 110.833 tp: 110.971 ok
+2	13:27:20.375	ax_adv_033_2 EURUSD,M5: open #75054972 sell stop 0.01 EURUSD at 1.06648 sl: 1.06697 tp: 1.06550 ok
+0	13:32:23.094	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.884 slippage=3 sl=110.832 tp=110.988 comment= exp=1491400209
+2	13:32:24.233	ax_adv_033_2 EURUSD,M5: open #75055475 sell stop 0.01 EURUSD at 1.06628 sl: 1.06695 tp: 1.06494 ok
+2	13:37:16.261	ax_adv_033_2 USDJPY,M5: open #75055941 buy stop 0.01 USDJPY at 110.899 sl: 110.835 tp: 111.027 ok
+2	13:37:16.261	ax_adv_033_2 EURUSD,M5: open #75055942 sell stop 0.01 EURUSD at 1.06648 sl: 1.06691 tp: 1.06562 ok
+2	13:42:16.438	ax_adv_033_2 EURUSD,M5: open #75056376 sell stop 0.01 EURUSD at 1.06647 sl: 1.06692 tp: 1.06557 ok
+2	13:42:16.438	ax_adv_033_2 USDJPY,M5: open #75056378 buy stop 0.01 USDJPY at 110.920 sl: 110.852 tp: 111.056 ok
+2	13:42:17.260	ax_adv_033_2 GBPUSD,M5: open #75056379 buy stop 0.01 GBPUSD at 1.24832 sl: 1.24727 tp: 1.25042 ok
+2	13:47:16.158	ax_adv_033_2 GBPUSD,M5: open #75056963 buy stop 0.01 GBPUSD at 1.24815 sl: 1.24718 tp: 1.25009 ok
+2	13:47:17.189	ax_adv_033_2 EURUSD,M5: open #75056966 sell stop 0.01 EURUSD at 1.06660 sl: 1.06712 tp: 1.06556 ok
+2	13:47:17.189	ax_adv_033_2 USDJPY,M5: open #75056965 buy stop 0.01 USDJPY at 110.918 sl: 110.869 tp: 111.016 ok
+0	13:52:15.983	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24801 slippage=3 sl=1.24715 tp=1.24973 comment= exp=1491401401
+0	13:52:16.233	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06671 slippage=3 sl=1.06715 tp=1.06583 comment= exp=1491401402
+0	13:52:19.416	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.902 slippage=3 sl=110.847 tp=111.012 comment= exp=1491401405
+2	13:57:16.446	ax_adv_033_2 GBPUSD,M5: open #75057887 buy stop 0.01 GBPUSD at 1.24817 sl: 1.24749 tp: 1.24953 ok
+2	13:57:16.446	ax_adv_033_2 USDJPY,M5: open #75057889 buy stop 0.01 USDJPY at 110.891 sl: 110.840 tp: 110.993 ok
+0	13:57:16.893	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06668 slippage=3 sl=1.06722 tp=1.06560 comment= exp=1491401702
+2	14:02:16.293	ax_adv_033_2 USDJPY,M5: open #75058334 buy stop 0.01 USDJPY at 110.883 sl: 110.825 tp: 110.999 ok
+2	14:02:16.295	ax_adv_033_2 EURUSD,M5: open #75058335 sell stop 0.01 EURUSD at 1.06645 sl: 1.06718 tp: 1.06499 ok
+2	14:02:17.053	ax_adv_033_2 GBPUSD,M5: open #75058339 buy stop 0.01 GBPUSD at 1.24810 sl: 1.24744 tp: 1.24942 ok
+2	14:07:16.419	ax_adv_033_2 USDJPY,M5: open #75058775 buy stop 0.01 USDJPY at 110.871 sl: 110.797 tp: 111.019 ok
+2	14:07:19.041	ax_adv_033_2 GBPUSD,M5: open #75058780 buy stop 0.01 GBPUSD at 1.24794 sl: 1.24749 tp: 1.24884 ok
+0	14:12:16.157	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24792 slippage=3 sl=1.24746 tp=1.24884 comment= exp=1491402601
+2	14:12:19.204	ax_adv_033_2 USDJPY,M5: open #75059282 buy stop 0.01 USDJPY at 110.851 sl: 110.798 tp: 110.957 ok
+2	14:17:16.517	ax_adv_033_2 GBPUSD,M5: open #75059741 buy stop 0.01 GBPUSD at 1.24774 sl: 1.24720 tp: 1.24882 ok
+2	14:22:17.411	ax_adv_033_2 GBPUSD,M5: open #75060129 sell stop 0.01 GBPUSD at 1.24695 sl: 1.24775 tp: 1.24535 ok
+2	14:27:17.153	ax_adv_033_2 GBPUSD,M5: open #75060637 sell stop 0.01 GBPUSD at 1.24744 sl: 1.24797 tp: 1.24638 ok
+2	14:37:16.290	ax_adv_033_2 EURUSD,M5: open #75061738 sell stop 0.01 EURUSD at 1.06682 sl: 1.06811 tp: 1.06424 ok
+2	14:42:16.461	ax_adv_033_2 EURUSD,M5: open #75062466 sell stop 0.01 EURUSD at 1.06737 sl: 1.06868 tp: 1.06475 ok
+2	14:47:16.464	ax_adv_033_2 USDJPY,M5: open #75063242 sell stop 0.01 USDJPY at 110.853 sl: 110.938 tp: 110.683 ok
+2	14:47:16.464	ax_adv_033_2 GBPUSD,M5: open #75063243 buy stop 0.01 GBPUSD at 1.24901 sl: 1.24813 tp: 1.25077 ok
+0	14:52:15.763	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.876 slippage=3 sl=110.956 tp=110.716 comment= exp=1491405001
+0	14:52:16.449	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24906 slippage=3 sl=1.24834 tp=1.25050 comment= exp=1491405002
+2	14:57:16.365	ax_adv_033_2 USDJPY,M5: open #75064497 sell stop 0.01 USDJPY at 110.875 sl: 110.965 tp: 110.695 ok
+2	14:57:16.365	ax_adv_033_2 GBPUSD,M5: open #75064498 buy stop 0.01 GBPUSD at 1.24984 sl: 1.24849 tp: 1.25254 ok
+0	15:02:16.628	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06829 slippage=3 sl=1.06752 tp=1.06983 comment= exp=1491405602
+2	15:02:17.250	ax_adv_033_2 GBPUSD,M5: open #75065073 buy stop 0.01 GBPUSD at 1.24959 sl: 1.24842 tp: 1.25193 ok
+0	15:07:15.913	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.959 slippage=3 sl=110.896 tp=111.085 comment= exp=1491405901
+2	15:07:16.379	ax_adv_033_2 GBPUSD,M5: open #75065550 buy stop 0.01 GBPUSD at 1.24923 sl: 1.24867 tp: 1.25035 ok
+2	15:07:16.379	ax_adv_033_2 EURUSD,M5: open #75065551 buy stop 0.01 EURUSD at 1.06809 sl: 1.06761 tp: 1.06905 ok
+0	15:12:16.191	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.114 slippage=3 sl=110.889 tp=111.564 comment= exp=1491406202
+2	15:12:17.349	ax_adv_033_2 GBPUSD,M5: open #75066168 buy stop 0.01 GBPUSD at 1.24926 sl: 1.24799 tp: 1.25180 ok
+2	15:12:17.349	ax_adv_033_2 EURUSD,M5: open #75066166 buy stop 0.01 EURUSD at 1.06837 sl: 1.06694 tp: 1.07123 ok
+2	15:17:16.233	ax_adv_033_2 USDJPY,M5: open #75066807 buy stop 0.01 USDJPY at 111.266 sl: 111.072 tp: 111.654 ok
+2	15:17:16.427	ax_adv_033_2 GBPUSD,M5: open #75066809 buy stop 0.01 GBPUSD at 1.24894 sl: 1.24696 tp: 1.25290 ok
+2	15:17:16.427	ax_adv_033_2 EURUSD,M5: open #75066812 buy stop 0.01 EURUSD at 1.06746 sl: 1.06532 tp: 1.07174 ok
+2	15:48:59.346	ax_adv_033_2 USDJPY,M5: open #75070453 buy stop 0.01 USDJPY at 111.231 sl: 111.166 tp: 111.361 ok
+2	15:54:02.499	ax_adv_033_2 USDJPY,M5: open #75071010 sell stop 0.01 USDJPY at 111.154 sl: 111.235 tp: 110.992 ok
+0	15:58:58.209	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.171 slippage=3 sl=111.240 tp=111.033 comment= exp=1491408901
+0	16:04:00.394	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.255 slippage=3 sl=111.133 tp=111.499 comment= exp=1491409203
+0	16:09:00.940	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.236 slippage=3 sl=111.167 tp=111.374 comment= exp=1491409503
+2	16:14:00.170	ax_adv_033_2 USDJPY,M5: open #75073071 buy stop 0.01 USDJPY at 111.294 sl: 111.178 tp: 111.526 ok
+2	16:18:59.508	ax_adv_033_2 USDJPY,M5: open #75073598 buy stop 0.01 USDJPY at 111.302 sl: 111.219 tp: 111.468 ok
+0	16:23:58.940	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06566 slippage=3 sl=1.06650 tp=1.06398 comment= exp=1491410401
+2	16:24:00.503	ax_adv_033_2 USDJPY,M5: open #75074181 buy stop 0.01 USDJPY at 111.336 sl: 111.223 tp: 111.562 ok
+2	16:29:00.207	ax_adv_033_2 USDJPY,M5: open #75074700 sell stop 0.01 USDJPY at 111.279 sl: 111.369 tp: 111.099 ok
+2	16:29:00.207	ax_adv_033_2 GBPUSD,M5: open #75074701 sell stop 0.01 GBPUSD at 1.24646 sl: 1.24710 tp: 1.24518 ok
+2	16:29:00.207	ax_adv_033_2 EURUSD,M5: open #75074698 sell stop 0.01 EURUSD at 1.06569 sl: 1.06625 tp: 1.06457 ok
+2	16:33:59.348	ax_adv_033_2 USDJPY,M5: open #75075061 sell stop 0.01 USDJPY at 111.276 sl: 111.375 tp: 111.078 ok
+2	16:33:59.348	ax_adv_033_2 GBPUSD,M5: open #75075060 sell stop 0.01 GBPUSD at 1.24668 sl: 1.24759 tp: 1.24486 ok
+2	16:34:00.113	ax_adv_033_2 EURUSD,M5: open #75075062 sell stop 0.01 EURUSD at 1.06582 sl: 1.06647 tp: 1.06452 ok
+2	16:38:59.386	ax_adv_033_2 USDJPY,M5: open #75075450 sell stop 0.01 USDJPY at 111.260 sl: 111.323 tp: 111.134 ok
+2	16:38:59.397	ax_adv_033_2 GBPUSD,M5: open #75075451 sell stop 0.01 GBPUSD at 1.24676 sl: 1.24766 tp: 1.24496 ok
+0	16:43:59.275	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24676 slippage=3 sl=1.24760 tp=1.24508 comment= exp=1491411602
+2	16:44:00.609	ax_adv_033_2 USDJPY,M5: open #75075877 sell stop 0.01 USDJPY at 111.287 sl: 111.377 tp: 111.107 ok
+2	16:48:59.497	ax_adv_033_2 USDJPY,M5: open #75076288 sell stop 0.01 USDJPY at 111.335 sl: 111.442 tp: 111.121 ok
+2	16:54:00.462	ax_adv_033_2 USDJPY,M5: open #75076764 sell stop 0.01 USDJPY at 111.354 sl: 111.444 tp: 111.174 ok
+2	16:54:00.462	ax_adv_033_2 EURUSD,M5: open #75076765 sell stop 0.01 EURUSD at 1.06564 sl: 1.06630 tp: 1.06432 ok
+0	16:58:58.867	ax_adv_033_2 USDJPY,M5: USDJPY [SELLSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.285 slippage=3 sl=111.420 tp=111.015 comment= exp=1491412501
+2	16:58:59.485	ax_adv_033_2 GBPUSD,M5: open #75077217 sell stop 0.01 GBPUSD at 1.24758 sl: 1.24849 tp: 1.24576 ok
+2	17:03:59.380	ax_adv_033_2 GBPUSD,M5: open #75077696 sell stop 0.01 GBPUSD at 1.24801 sl: 1.24916 tp: 1.24571 ok
+2	17:03:59.395	ax_adv_033_2 USDJPY,M5: open #75077697 sell stop 0.01 USDJPY at 111.221 sl: 111.334 tp: 110.995 ok
+2	17:08:59.099	ax_adv_033_2 GBPUSD,M5: open #75078187 sell stop 0.01 GBPUSD at 1.24754 sl: 1.24888 tp: 1.24486 ok
+2	17:08:59.099	ax_adv_033_2 USDJPY,M5: open #75078189 buy stop 0.01 USDJPY at 111.333 sl: 111.235 tp: 111.529 ok
+2	17:13:59.328	ax_adv_033_2 USDJPY,M5: open #75078907 buy stop 0.01 USDJPY at 111.285 sl: 111.220 tp: 111.415 ok
+2	17:19:01.560	ax_adv_033_2 USDJPY,M5: open #75079452 buy stop 0.01 USDJPY at 111.318 sl: 111.239 tp: 111.476 ok
+2	17:23:59.472	ax_adv_033_2 USDJPY,M5: open #75079995 buy stop 0.01 USDJPY at 111.289 sl: 111.173 tp: 111.521 ok
+2	17:28:59.422	ax_adv_033_2 GBPUSD,M5: open #75080511 buy stop 0.01 GBPUSD at 1.24941 sl: 1.24855 tp: 1.25113 ok
+2	17:29:00.158	ax_adv_033_2 USDJPY,M5: open #75080524 buy stop 0.01 USDJPY at 111.236 sl: 111.153 tp: 111.402 ok
+2	17:34:06.136	ax_adv_033_2 GBPUSD,M5: open #75080951 sell stop 0.01 GBPUSD at 1.24851 sl: 1.24930 tp: 1.24693 ok
+2	17:34:08.496	ax_adv_033_2 USDJPY,M5: open #75080956 buy stop 0.01 USDJPY at 111.194 sl: 111.116 tp: 111.350 ok
+0	17:38:59.468	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.193 slippage=3 sl=111.119 tp=111.341 comment= exp=1491414902
+0	17:39:00.297	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24824 slippage=3 sl=1.24921 tp=1.24630 comment= exp=1491414903
+2	17:43:59.279	ax_adv_033_2 GBPUSD,M5: open #75081963 sell stop 0.01 GBPUSD at 1.24838 sl: 1.24908 tp: 1.24698 ok
+2	17:48:59.335	ax_adv_033_2 GBPUSD,M5: open #75082620 buy stop 0.01 GBPUSD at 1.24899 sl: 1.24816 tp: 1.25065 ok
+2	17:54:00.213	ax_adv_033_2 GBPUSD,M5: open #75083057 buy stop 0.01 GBPUSD at 1.24878 sl: 1.24794 tp: 1.25046 ok
+2	17:59:00.089	ax_adv_033_2 GBPUSD,M5: open #75083503 buy stop 0.01 GBPUSD at 1.24863 sl: 1.24723 tp: 1.25143 ok
+2	18:03:59.443	ax_adv_033_2 GBPUSD,M5: open #75083983 buy stop 0.01 GBPUSD at 1.24854 sl: 1.24744 tp: 1.25074 ok
+2	18:08:59.600	ax_adv_033_2 GBPUSD,M5: open #75084442 buy stop 0.01 GBPUSD at 1.24852 sl: 1.24788 tp: 1.24980 ok
+2	18:14:00.469	ax_adv_033_2 GBPUSD,M5: open #75084882 buy stop 0.01 GBPUSD at 1.24848 sl: 1.24780 tp: 1.24984 ok
+2	18:23:59.316	ax_adv_033_2 USDJPY,M5: open #75085798 sell stop 0.01 USDJPY at 111.070 sl: 111.143 tp: 110.924 ok
+2	18:28:59.373	ax_adv_033_2 USDJPY,M5: open #75086242 sell stop 0.01 USDJPY at 111.093 sl: 111.177 tp: 110.925 ok
+2	18:34:00.257	ax_adv_033_2 USDJPY,M5: open #75086786 sell stop 0.01 USDJPY at 111.115 sl: 111.228 tp: 110.889 ok
+2	18:38:59.550	ax_adv_033_2 USDJPY,M5: open #75087340 sell stop 0.01 USDJPY at 111.181 sl: 111.254 tp: 111.035 ok
+2	18:43:59.505	ax_adv_033_2 EURUSD,M5: open #75087852 buy stop 0.01 EURUSD at 1.06608 sl: 1.06549 tp: 1.06726 ok
+2	18:44:00.270	ax_adv_033_2 USDJPY,M5: open #75087864 sell stop 0.01 USDJPY at 111.216 sl: 111.283 tp: 111.082 ok
+2	18:48:59.430	ax_adv_033_2 USDJPY,M5: open #75088381 sell stop 0.01 USDJPY at 111.224 sl: 111.300 tp: 111.072 ok
+2	18:48:59.437	ax_adv_033_2 GBPUSD,M5: open #75088387 sell stop 0.01 GBPUSD at 1.24705 sl: 1.24777 tp: 1.24561 ok
+0	18:54:00.168	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24701 slippage=3 sl=1.24779 tp=1.24545 comment= exp=1491419402
+2	18:58:59.524	ax_adv_033_2 EURUSD,M5: open #75089571 sell stop 0.01 EURUSD at 1.06557 sl: 1.06613 tp: 1.06445 ok
+2	19:04:01.316	ax_adv_033_2 EURUSD,M5: open #75090122 sell stop 0.01 EURUSD at 1.06535 sl: 1.06614 tp: 1.06377 ok
+2	19:08:59.513	ax_adv_033_2 USDJPY,M5: open #75090532 buy stop 0.01 USDJPY at 111.230 sl: 111.181 tp: 111.328 ok
+2	19:08:59.513	ax_adv_033_2 EURUSD,M5: open #75090533 sell stop 0.01 EURUSD at 1.06539 sl: 1.06598 tp: 1.06421 ok
+2	19:13:59.421	ax_adv_033_2 USDJPY,M5: open #75090899 buy stop 0.01 USDJPY at 111.243 sl: 111.181 tp: 111.367 ok
+2	19:14:00.498	ax_adv_033_2 EURUSD,M5: open #75090904 sell stop 0.01 EURUSD at 1.06556 sl: 1.06602 tp: 1.06464 ok
+2	19:19:00.221	ax_adv_033_2 EURUSD,M5: open #75091246 sell stop 0.01 EURUSD at 1.06556 sl: 1.06603 tp: 1.06462 ok
+2	19:24:00.065	ax_adv_033_2 EURUSD,M5: open #75091715 sell stop 0.01 EURUSD at 1.06514 sl: 1.06596 tp: 1.06350 ok
+2	19:24:06.233	ax_adv_033_2 USDJPY,M5: open #75091726 buy stop 0.01 USDJPY at 111.298 sl: 111.187 tp: 111.520 ok
+0	19:28:59.029	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.296 slippage=3 sl=111.246 tp=111.396 comment= exp=1491421501
+2	19:28:59.400	ax_adv_033_2 GBPUSD,M5: open #75092095 sell stop 0.01 GBPUSD at 1.24711 sl: 1.24771 tp: 1.24591 ok
+2	19:28:59.400	ax_adv_033_2 EURUSD,M5: open #75092097 sell stop 0.01 EURUSD at 1.06505 sl: 1.06564 tp: 1.06387 ok
+0	19:33:59.270	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06510 slippage=3 sl=1.06558 tp=1.06414 comment= exp=1491421801
+2	19:39:00.209	ax_adv_033_2 EURUSD,M5: open #75093143 sell stop 0.01 EURUSD at 1.06486 sl: 1.06556 tp: 1.06346 ok
+2	19:39:02.115	ax_adv_033_2 GBPUSD,M5: open #75093150 sell stop 0.01 GBPUSD at 1.24708 sl: 1.24763 tp: 1.24598 ok
+2	19:44:00.387	ax_adv_033_2 GBPUSD,M5: open #75093616 sell stop 0.01 GBPUSD at 1.24686 sl: 1.24760 tp: 1.24538 ok
+2	19:44:00.387	ax_adv_033_2 USDJPY,M5: open #75093618 buy stop 0.01 USDJPY at 111.330 sl: 111.255 tp: 111.480 ok
+2	19:44:04.418	ax_adv_033_2 EURUSD,M5: open #75093641 buy stop 0.01 EURUSD at 1.06547 sl: 1.06459 tp: 1.06723 ok
+2	19:49:00.384	ax_adv_033_2 GBPUSD,M5: open #75094183 sell stop 0.01 GBPUSD at 1.24666 sl: 1.24751 tp: 1.24496 ok
+0	19:49:00.628	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.324 slippage=3 sl=111.264 tp=111.444 comment= exp=1491422703
+2	19:49:01.402	ax_adv_033_2 EURUSD,M5: open #75094188 buy stop 0.01 EURUSD at 1.06530 sl: 1.06462 tp: 1.06666 ok
+2	19:54:00.161	ax_adv_033_2 GBPUSD,M5: open #75094674 sell stop 0.01 GBPUSD at 1.24657 sl: 1.24710 tp: 1.24551 ok
+2	19:54:00.412	ax_adv_033_2 EURUSD,M5: open #75094678 buy stop 0.01 EURUSD at 1.06496 sl: 1.06449 tp: 1.06590 ok
+2	19:54:01.427	ax_adv_033_2 USDJPY,M5: open #75094681 buy stop 0.01 USDJPY at 111.344 sl: 111.273 tp: 111.486 ok
+0	19:58:58.202	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.326 slippage=3 sl=111.253 tp=111.472 comment= exp=1491423301
+2	19:58:59.431	ax_adv_033_2 EURUSD,M5: open #75095247 buy stop 0.01 EURUSD at 1.06501 sl: 1.06438 tp: 1.06627 ok
+2	19:58:59.434	ax_adv_033_2 GBPUSD,M5: open #75095248 sell stop 0.01 GBPUSD at 1.24645 sl: 1.24720 tp: 1.24495 ok
+0	20:03:58.994	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.326 slippage=3 sl=111.259 tp=111.460 comment= exp=1491423601
+2	20:03:59.532	ax_adv_033_2 EURUSD,M5: open #75095685 buy stop 0.01 EURUSD at 1.06513 sl: 1.06451 tp: 1.06637 ok
+2	20:04:00.354	ax_adv_033_2 GBPUSD,M5: open #75095687 sell stop 0.01 GBPUSD at 1.24668 sl: 1.24730 tp: 1.24544 ok
+0	20:08:59.169	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.313 slippage=3 sl=111.261 tp=111.417 comment= exp=1491423901
+2	20:09:00.219	ax_adv_033_2 GBPUSD,M5: open #75096090 sell stop 0.01 GBPUSD at 1.24688 sl: 1.24741 tp: 1.24582 ok
+0	20:09:00.821	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06528 slippage=3 sl=1.06462 tp=1.06660 comment= exp=1491423903
+0	20:13:59.756	ax_adv_033_2 EURUSD,M5: EURUSD [BUYSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06514 slippage=3 sl=1.06458 tp=1.06626 comment= exp=1491424202
+2	20:14:00.415	ax_adv_033_2 USDJPY,M5: open #75096543 buy stop 0.01 USDJPY at 111.334 sl: 111.265 tp: 111.472 ok
+2	20:14:00.415	ax_adv_033_2 GBPUSD,M5: open #75096547 sell stop 0.01 GBPUSD at 1.24677 sl: 1.24740 tp: 1.24551 ok
+2	20:19:04.191	ax_adv_033_2 EURUSD,M5: open #75096977 buy stop 0.01 EURUSD at 1.06522 sl: 1.06461 tp: 1.06644 ok
+2	20:19:05.410	ax_adv_033_2 GBPUSD,M5: open #75096984 sell stop 0.01 GBPUSD at 1.24665 sl: 1.24738 tp: 1.24519 ok
+0	20:19:07.269	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.327 slippage=3 sl=111.277 tp=111.427 comment= exp=1491424510
+2	20:23:59.461	ax_adv_033_2 EURUSD,M5: open #75097392 sell stop 0.01 EURUSD at 1.06441 sl: 1.06498 tp: 1.06327 ok
+0	20:23:59.687	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.338 slippage=3 sl=111.268 tp=111.478 comment= exp=1491424802
+0	20:24:11.485	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24646 slippage=3 sl=1.24721 tp=1.24496 comment= exp=1491424814
+0	20:28:58.979	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06434 slippage=3 sl=1.06489 tp=1.06324 comment= exp=1491425101
+0	20:28:59.962	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.343 slippage=3 sl=111.274 tp=111.481 comment= exp=1491425102
+2	20:29:00.170	ax_adv_033_2 GBPUSD,M5: open #75097798 sell stop 0.01 GBPUSD at 1.24648 sl: 1.24701 tp: 1.24542 ok
+2	20:33:59.352	ax_adv_033_2 USDJPY,M5: open #75098251 buy stop 0.01 USDJPY at 111.358 sl: 111.290 tp: 111.494 ok
+2	20:34:01.178	ax_adv_033_2 EURUSD,M5: open #75098259 sell stop 0.01 EURUSD at 1.06431 sl: 1.06487 tp: 1.06319 ok
+2	20:34:05.179	ax_adv_033_2 GBPUSD,M5: open #75098267 buy stop 0.01 GBPUSD at 1.24701 sl: 1.24615 tp: 1.24873 ok
+2	20:39:00.400	ax_adv_033_2 GBPUSD,M5: open #75098659 buy stop 0.01 GBPUSD at 1.24704 sl: 1.24637 tp: 1.24838 ok
+2	20:39:00.404	ax_adv_033_2 EURUSD,M5: open #75098661 sell stop 0.01 EURUSD at 1.06446 sl: 1.06501 tp: 1.06336 ok
+2	20:39:00.409	ax_adv_033_2 USDJPY,M5: open #75098662 buy stop 0.01 USDJPY at 111.352 sl: 111.306 tp: 111.444 ok
+0	20:43:59.028	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.355 slippage=3 sl=111.278 tp=111.509 comment= exp=1491426001
+0	20:43:59.028	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06478 slippage=3 sl=1.06526 tp=1.06382 comment= exp=1491426001
+2	20:43:59.327	ax_adv_033_2 GBPUSD,M5: open #75099056 buy stop 0.01 GBPUSD at 1.24725 sl: 1.24648 tp: 1.24879 ok
+0	20:48:58.861	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06475 slippage=3 sl=1.06532 tp=1.06361 comment= exp=1491426301
+2	20:48:59.442	ax_adv_033_2 GBPUSD,M5: open #75099428 sell stop 0.01 GBPUSD at 1.24677 sl: 1.24734 tp: 1.24563 ok
+2	20:48:59.442	ax_adv_033_2 USDJPY,M5: open #75099429 buy stop 0.01 USDJPY at 111.340 sl: 111.275 tp: 111.470 ok
+0	20:53:59.428	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.342 slippage=3 sl=111.283 tp=111.460 comment= exp=1491426602
+0	20:53:59.935	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24657 slippage=3 sl=1.24722 tp=1.24527 comment= exp=1491426602
+2	20:54:00.387	ax_adv_033_2 EURUSD,M5: open #75099795 sell stop 0.01 EURUSD at 1.06455 sl: 1.06516 tp: 1.06333 ok
+0	20:58:59.136	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.408 slippage=3 sl=111.284 tp=111.656 comment= exp=1491426902
+0	20:58:59.136	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06396 slippage=3 sl=1.06502 tp=1.06184 comment= exp=1491426902
+2	20:58:59.734	ax_adv_033_2 GBPUSD,M5: open #75100178 sell stop 0.01 GBPUSD at 1.24555 sl: 1.24699 tp: 1.24267 ok
+2	21:03:59.443	ax_adv_033_2 USDJPY,M5: open #75100854 buy stop 0.01 USDJPY at 111.445 sl: 111.087 tp: 112.161 ok
+2	21:03:59.443	ax_adv_033_2 GBPUSD,M5: open #75100855 sell stop 0.01 GBPUSD at 1.24489 sl: 1.24779 tp: 1.23909 ok
+2	21:04:00.503	ax_adv_033_2 EURUSD,M5: open #75100865 sell stop 0.01 EURUSD at 1.06337 sl: 1.06638 tp: 1.05735 ok
+2	21:08:59.282	ax_adv_033_2 USDJPY,M5: open #75101235 buy stop 0.01 USDJPY at 111.461 sl: 111.325 tp: 111.733 ok
+2	21:09:00.116	ax_adv_033_2 EURUSD,M5: open #75101240 sell stop 0.01 EURUSD at 1.06360 sl: 1.06477 tp: 1.06126 ok
+2	21:09:01.434	ax_adv_033_2 GBPUSD,M5: open #75101243 sell stop 0.01 GBPUSD at 1.24510 sl: 1.24637 tp: 1.24256 ok
+2	21:13:59.646	ax_adv_033_2 USDJPY,M5: open #75101738 buy stop 0.01 USDJPY at 111.414 sl: 111.281 tp: 111.680 ok
+2	21:13:59.646	ax_adv_033_2 GBPUSD,M5: open #75101739 sell stop 0.01 GBPUSD at 1.24568 sl: 1.24703 tp: 1.24298 ok
+2	21:14:00.279	ax_adv_033_2 EURUSD,M5: open #75101741 sell stop 0.01 EURUSD at 1.06405 sl: 1.06513 tp: 1.06189 ok
+2	21:19:00.343	ax_adv_033_2 GBPUSD,M5: open #75102264 sell stop 0.01 GBPUSD at 1.24647 sl: 1.24715 tp: 1.24511 ok
+2	21:19:00.343	ax_adv_033_2 EURUSD,M5: open #75102265 sell stop 0.01 EURUSD at 1.06455 sl: 1.06529 tp: 1.06307 ok
+0	21:19:02.488	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=111.384 slippage=3 sl=111.288 tp=111.576 comment= exp=1491428105
+2	21:24:00.390	ax_adv_033_2 USDJPY,M5: open #75103386 buy stop 0.01 USDJPY at 111.361 sl: 111.200 tp: 111.683 ok
+2	21:24:00.390	ax_adv_033_2 EURUSD,M5: open #75103387 sell stop 0.01 EURUSD at 1.06469 sl: 1.06587 tp: 1.06233 ok
+2	21:24:00.390	ax_adv_033_2 GBPUSD,M5: open #75103388 sell stop 0.01 GBPUSD at 1.24670 sl: 1.24771 tp: 1.24468 ok
+2	21:28:59.584	ax_adv_033_2 GBPUSD,M5: open #75104134 sell stop 0.01 GBPUSD at 1.24675 sl: 1.24782 tp: 1.24461 ok
+2	21:28:59.584	ax_adv_033_2 EURUSD,M5: open #75104142 sell stop 0.01 EURUSD at 1.06526 sl: 1.06594 tp: 1.06390 ok
+2	21:28:59.584	ax_adv_033_2 USDJPY,M5: open #75104143 buy stop 0.01 USDJPY at 111.309 sl: 111.204 tp: 111.519 ok
+2	21:33:59.316	ax_adv_033_2 GBPUSD,M5: open #75105168 sell stop 0.01 GBPUSD at 1.24746 sl: 1.24851 tp: 1.24536 ok
+2	21:34:00.249	ax_adv_033_2 USDJPY,M5: open #75105173 buy stop 0.01 USDJPY at 111.283 sl: 111.121 tp: 111.607 ok
+2	21:34:00.249	ax_adv_033_2 EURUSD,M5: open #75105174 sell stop 0.01 EURUSD at 1.06553 sl: 1.06653 tp: 1.06353 ok
+2	21:38:59.435	ax_adv_033_2 USDJPY,M5: open #75106020 buy stop 0.01 USDJPY at 111.186 sl: 111.061 tp: 111.436 ok
+2	21:58:59.731	ax_adv_033_2 USDJPY,M5: open #75111186 buy stop 0.01 USDJPY at 110.976 sl: 110.882 tp: 111.164 ok
+2	21:58:59.731	ax_adv_033_2 GBPUSD,M5: open #75111185 buy stop 0.01 GBPUSD at 1.24895 sl: 1.24810 tp: 1.25065 ok
+2	21:58:59.731	ax_adv_033_2 EURUSD,M5: open #75111183 sell stop 0.01 EURUSD at 1.06636 sl: 1.06701 tp: 1.06506 ok
+2	22:03:59.510	ax_adv_033_2 USDJPY,M5: open #75111797 buy stop 0.01 USDJPY at 110.933 sl: 110.820 tp: 111.159 ok
+2	22:03:59.513	ax_adv_033_2 GBPUSD,M5: open #75111795 sell stop 0.01 GBPUSD at 1.24835 sl: 1.24908 tp: 1.24689 ok
+2	22:03:59.514	ax_adv_033_2 EURUSD,M5: open #75111799 sell stop 0.01 EURUSD at 1.06629 sl: 1.06708 tp: 1.06471 ok
+2	22:08:59.452	ax_adv_033_2 GBPUSD,M5: open #75112360 buy stop 0.01 GBPUSD at 1.24899 sl: 1.24813 tp: 1.25071 ok
+2	22:08:59.452	ax_adv_033_2 USDJPY,M5: open #75112361 buy stop 0.01 USDJPY at 110.927 sl: 110.855 tp: 111.071 ok
+0	22:09:00.048	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06644 slippage=3 sl=1.06692 tp=1.06548 comment= exp=1491431102
+0	22:13:58.987	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24889 slippage=3 sl=1.24813 tp=1.25041 comment= exp=1491431401
+2	22:13:59.269	ax_adv_033_2 EURUSD,M5: open #75112878 sell stop 0.01 EURUSD at 1.06661 sl: 1.06710 tp: 1.06563 ok
+2	22:13:59.269	ax_adv_033_2 USDJPY,M5: open #75112879 buy stop 0.01 USDJPY at 110.915 sl: 110.812 tp: 111.121 ok
+0	22:18:59.277	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06670 slippage=3 sl=1.06717 tp=1.06576 comment= exp=1491431702
+2	22:18:59.480	ax_adv_033_2 USDJPY,M5: open #75113402 buy stop 0.01 USDJPY at 110.851 sl: 110.771 tp: 111.011 ok
+2	22:19:00.150	ax_adv_033_2 GBPUSD,M5: open #75113406 sell stop 0.01 GBPUSD at 1.24826 sl: 1.24880 tp: 1.24718 ok
+0	22:23:58.777	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24910 slippage=3 sl=1.24826 tp=1.25078 comment= exp=1491432001
+2	22:23:59.444	ax_adv_033_2 USDJPY,M5: open #75113873 buy stop 0.01 USDJPY at 110.844 sl: 110.724 tp: 111.084 ok
+2	22:24:01.499	ax_adv_033_2 EURUSD,M5: open #75113876 sell stop 0.01 EURUSD at 1.06661 sl: 1.06735 tp: 1.06513 ok
+2	22:28:59.729	ax_adv_033_2 GBPUSD,M5: open #75114486 sell stop 0.01 GBPUSD at 1.24858 sl: 1.24989 tp: 1.24596 ok
+2	22:28:59.729	ax_adv_033_2 USDJPY,M5: open #75114487 buy stop 0.01 USDJPY at 110.766 sl: 110.677 tp: 110.944 ok
+2	22:28:59.729	ax_adv_033_2 EURUSD,M5: open #75114489 sell stop 0.01 EURUSD at 1.06698 sl: 1.06774 tp: 1.06546 ok
+2	22:33:59.340	ax_adv_033_2 EURUSD,M5: open #75115348 sell stop 0.01 EURUSD at 1.06705 sl: 1.06777 tp: 1.06561 ok
+2	22:33:59.342	ax_adv_033_2 USDJPY,M5: open #75115349 buy stop 0.01 USDJPY at 110.737 sl: 110.599 tp: 111.013 ok
+2	22:34:00.153	ax_adv_033_2 GBPUSD,M5: open #75115355 sell stop 0.01 GBPUSD at 1.24885 sl: 1.24970 tp: 1.24715 ok
+2	22:38:59.422	ax_adv_033_2 GBPUSD,M5: open #75115818 sell stop 0.01 GBPUSD at 1.24867 sl: 1.24989 tp: 1.24623 ok
+2	22:38:59.422	ax_adv_033_2 EURUSD,M5: open #75115819 sell stop 0.01 EURUSD at 1.06710 sl: 1.06771 tp: 1.06588 ok
+2	22:39:00.226	ax_adv_033_2 USDJPY,M5: open #75115820 buy stop 0.01 USDJPY at 110.739 sl: 110.668 tp: 110.881 ok
+0	22:43:59.113	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.752 slippage=3 sl=110.681 tp=110.894 comment= exp=1491433201
+0	22:43:59.113	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06732 slippage=3 sl=1.06784 tp=1.06628 comment= exp=1491433201
+0	22:43:59.379	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24908 slippage=3 sl=1.24978 tp=1.24768 comment= exp=1491433202
+2	22:48:59.368	ax_adv_033_2 USDJPY,M5: open #75117001 buy stop 0.01 USDJPY at 110.754 sl: 110.627 tp: 111.008 ok
+2	22:48:59.368	ax_adv_033_2 EURUSD,M5: open #75117004 sell stop 0.01 EURUSD at 1.06750 sl: 1.06794 tp: 1.06662 ok
+2	22:48:59.383	ax_adv_033_2 GBPUSD,M5: open #75117003 sell stop 0.01 GBPUSD at 1.24913 sl: 1.24981 tp: 1.24777 ok
+2	22:53:59.422	ax_adv_033_2 USDJPY,M5: open #75117540 buy stop 0.01 USDJPY at 110.752 sl: 110.640 tp: 110.976 ok
+0	22:54:01.449	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24901 slippage=3 sl=1.24977 tp=1.24749 comment= exp=1491433804
+2	22:54:01.449	ax_adv_033_2 EURUSD,M5: open #75117550 sell stop 0.01 EURUSD at 1.06714 sl: 1.06795 tp: 1.06552 ok
+2	22:58:59.413	ax_adv_033_2 USDJPY,M5: open #75118106 buy stop 0.01 USDJPY at 110.727 sl: 110.627 tp: 110.927 ok
+2	22:59:00.178	ax_adv_033_2 GBPUSD,M5: open #75118147 sell stop 0.01 GBPUSD at 1.24919 sl: 1.24969 tp: 1.24819 ok
+2	22:59:00.375	ax_adv_033_2 EURUSD,M5: open #75118159 sell stop 0.01 EURUSD at 1.06732 sl: 1.06801 tp: 1.06594 ok
+2	23:03:59.467	ax_adv_033_2 USDJPY,M5: open #75118790 buy stop 0.01 USDJPY at 110.694 sl: 110.574 tp: 110.934 ok
+2	23:04:00.465	ax_adv_033_2 GBPUSD,M5: open #75118792 buy stop 0.01 GBPUSD at 1.24971 sl: 1.24907 tp: 1.25099 ok
+2	23:04:06.377	ax_adv_033_2 EURUSD,M5: open #75118804 sell stop 0.01 EURUSD at 1.06721 sl: 1.06823 tp: 1.06517 ok
+2	23:08:59.989	ax_adv_033_2 EURUSD,M5: open #75119222 sell stop 0.01 EURUSD at 1.06718 sl: 1.06768 tp: 1.06618 ok
+2	23:09:01.424	ax_adv_033_2 USDJPY,M5: open #75119226 buy stop 0.01 USDJPY at 110.676 sl: 110.550 tp: 110.928 ok
+2	23:09:06.323	ax_adv_033_2 GBPUSD,M5: open #75119235 buy stop 0.01 GBPUSD at 1.24956 sl: 1.24903 tp: 1.25062 ok
+2	23:13:59.497	ax_adv_033_2 EURUSD,M5: open #75119680 sell stop 0.01 EURUSD at 1.06721 sl: 1.06779 tp: 1.06605 ok
+0	23:14:00.401	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.652 slippage=3 sl=110.557 tp=110.842 comment= exp=1491435003
+2	23:14:00.401	ax_adv_033_2 GBPUSD,M5: open #75119683 buy stop 0.01 GBPUSD at 1.24972 sl: 1.24898 tp: 1.25120 ok
+2	23:18:59.430	ax_adv_033_2 GBPUSD,M5: open #75120086 buy stop 0.01 GBPUSD at 1.24979 sl: 1.24922 tp: 1.25093 ok
+2	23:19:01.289	ax_adv_033_2 USDJPY,M5: open #75120090 buy stop 0.01 USDJPY at 110.631 sl: 110.564 tp: 110.765 ok
+2	23:19:06.591	ax_adv_033_2 EURUSD,M5: open #75120099 sell stop 0.01 EURUSD at 1.06736 sl: 1.06782 tp: 1.06644 ok
+2	23:24:03.400	ax_adv_033_2 USDJPY,M5: open #75120432 buy stop 0.01 USDJPY at 110.653 sl: 110.569 tp: 110.821 ok
+0	23:24:05.444	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06707 slippage=3 sl=1.06779 tp=1.06563 comment= exp=1491435608
+0	23:24:06.442	ax_adv_033_2 GBPUSD,M5: GBPUSD [BUYSTOP ]:(130)invalid stops GBPUSD lot=0.01 price=1.24965 slippage=3 sl=1.24918 tp=1.25059 comment= exp=1491435609
+0	23:28:59.063	ax_adv_033_2 USDJPY,M5: USDJPY [BUYSTOP ]:(130)invalid stops USDJPY lot=0.01 price=110.693 slippage=3 sl=110.607 tp=110.865 comment= exp=1491435901
+0	23:28:59.453	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06686 slippage=3 sl=1.06748 tp=1.06562 comment= exp=1491435902
+2	23:28:59.453	ax_adv_033_2 GBPUSD,M5: open #75121056 buy stop 0.01 GBPUSD at 1.24949 sl: 1.24898 tp: 1.25051 ok
+2	23:33:59.297	ax_adv_033_2 GBPUSD,M5: open #75121833 buy stop 0.01 GBPUSD at 1.24949 sl: 1.24886 tp: 1.25075 ok
+0	23:34:01.359	ax_adv_033_2 EURUSD,M5: EURUSD [SELLSTOP ]:(130)invalid stops EURUSD lot=0.01 price=1.06683 slippage=3 sl=1.06730 tp=1.06589 comment= exp=1491436204
+2	23:34:04.417	ax_adv_033_2 USDJPY,M5: open #75121851 buy stop 0.01 USDJPY at 110.691 sl: 110.636 tp: 110.801 ok
+2	23:38:59.337	ax_adv_033_2 USDJPY,M5: open #75122598 buy stop 0.01 USDJPY at 110.699 sl: 110.624 tp: 110.849 ok
+2	23:38:59.542	ax_adv_033_2 EURUSD,M5: open #75122599 sell stop 0.01 EURUSD at 1.06674 sl: 1.06736 tp: 1.06550 ok
+2	23:39:03.415	ax_adv_033_2 GBPUSD,M5: open #75122612 buy stop 0.01 GBPUSD at 1.24948 sl: 1.24896 tp: 1.25052 ok
+2	23:43:59.254	ax_adv_033_2 GBPUSD,M5: open #75123065 buy stop 0.01 GBPUSD at 1.24922 sl: 1.24857 tp: 1.25052 ok
+2	23:44:00.285	ax_adv_033_2 EURUSD,M5: open #75123077 buy stop 0.01 EURUSD at 1.06731 sl: 1.06684 tp: 1.06825 ok
+2	23:44:00.285	ax_adv_033_2 USDJPY,M5: open #75123075 buy stop 0.01 USDJPY at 110.731 sl: 110.649 tp: 110.895 ok
+2	23:48:59.384	ax_adv_033_2 EURUSD,M5: open #75123493 buy stop 0.01 EURUSD at 1.06709 sl: 1.06660 tp: 1.06807 ok
+2	23:48:59.384	ax_adv_033_2 GBPUSD,M5: open #75123491 buy stop 0.01 GBPUSD at 1.24894 sl: 1.24848 tp: 1.24986 ok
+2	23:49:00.181	ax_adv_033_2 USDJPY,M5: open #75123496 buy stop 0.01 USDJPY at 110.744 sl: 110.678 tp: 110.876 ok
+2	23:53:59.354	ax_adv_033_2 GBPUSD,M5: open #75123936 sell stop 0.01 GBPUSD at 1.24802 sl: 1.24873 tp: 1.24660 ok
+2	23:53:59.414	ax_adv_033_2 USDJPY,M5: open #75123935 buy stop 0.01 USDJPY at 110.742 sl: 110.686 tp: 110.854 ok
+2	23:54:00.126	ax_adv_033_2 EURUSD,M5: open #75123938 sell stop 0.01 EURUSD at 1.06605 sl: 1.06683 tp: 1.06449 ok
+0	23:59:14.054	ax_adv_033_2 GBPUSD,M5: GBPUSD [SELLSTOP ]:(132)market is closed GBPUSD lot=0.01 price=1.24798 slippage=3 sl=1.24864 tp=1.24666 comment= exp=1491437711
+2	23:59:15.382	ax_adv_033_2 USDJPY,M5: open #75124401 buy stop 0.01 USDJPY at 110.742 sl: 110.685 tp: 110.856 ok
